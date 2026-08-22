@@ -1,0 +1,57 @@
+{
+  "topics": [
+    {
+      "id": "simplification",
+      "name": "Simplification & BODMAS",
+      "subject": "Quant",
+      "concept": "Solve in this order: Brackets \u2192 Division/Multiplication \u2192 Addition/Subtraction.",
+      "visual": "8 + 4 \u00d7 3\\nFirst: 4 \u00d7 3 = 12\\nThen: 8 + 12 = 20"
+    },
+    {
+      "id": "inequality",
+      "name": "Inequality",
+      "subject": "Reasoning",
+      "concept": "Read the chain from left to right. If A > B and B > C, then A > C.",
+      "visual": "A > B > C\\nTherefore A > C"
+    },
+    {
+      "id": "parts",
+      "name": "Parts of Speech",
+      "subject": "English",
+      "concept": "Noun = name, Pronoun = replaces a noun, Verb = action/state.",
+      "visual": "SHE \u2192 IS \u2192 STUDYING\\nPronoun   Verb    Action"
+    }
+  ],
+  "papers": [
+    {
+      "year": "2025",
+      "title": "SBI Clerk previous-year / memory-based papers",
+      "source": "PW Live",
+      "url": "https://www.pw.live/banking/exams/sbi-clerk-previous-years-question-paper"
+    },
+    {
+      "year": "2024",
+      "title": "SBI Clerk papers with answers/solutions",
+      "source": "Prepp",
+      "url": "https://prepp.in/sbi-clerk-exam/practice_papers"
+    },
+    {
+      "year": "2023\u201324",
+      "title": "SBI Clerk memory-based papers",
+      "source": "Guidely",
+      "url": "https://guidely.in/previous-year-papers/sbi-clerk"
+    },
+    {
+      "year": "2022",
+      "title": "SBI Clerk previous-year papers",
+      "source": "Testbook",
+      "url": "https://testbook.com/sbi-clerk/previous-year-papers"
+    },
+    {
+      "year": "2021",
+      "title": "SBI Clerk memory-based papers and solutions",
+      "source": "Oliveboard",
+      "url": "https://www.oliveboard.in/sbi-clerk-previous-year-papers/"
+    }
+  ]
+}
