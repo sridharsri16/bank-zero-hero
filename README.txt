@@ -1,1 +1,0 @@
-Open index.html in any modern browser. This MVP works offline and saves progress in the browser.
