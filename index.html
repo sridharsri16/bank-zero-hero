@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Bank Zero to Hero</title>
+<style>
+:root{--bg:#f5f7fb;--card:#fff;--ink:#172033;--muted:#667085;--brand:#5b5bd6;--ok:#168a52;--bad:#d92d20;--line:#e6e8ef}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+header{background:linear-gradient(135deg,#5b5bd6,#8b5cf6);color:#fff;padding:24px;position:sticky;top:0;z-index:3}.wrap{max-width:1100px;margin:auto;padding:20px}
+h1{margin:0;font-size:28px}.sub{opacity:.9;margin-top:6px}.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
+button{border:0;border-radius:12px;padding:11px 15px;font-weight:700;cursor:pointer;background:#eceefe;color:#39399d}button.primary{background:var(--brand);color:white}button.ghost{background:#fff;color:#34345e}.tabs button.active{background:#fff;color:#4c46bd}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(245px,1fr));gap:16px}.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:0 3px 12px #18223008}
+.big{font-size:30px;font-weight:800}.muted{color:var(--muted)}.pill{display:inline-block;background:#f0efff;color:#4c46bd;padding:5px 10px;border-radius:999px;font-size:12px;font-weight:800}
+.progress{height:12px;background:#edf0f5;border-radius:20px;overflow:hidden;margin:10px 0}.progress>div{height:100%;background:linear-gradient(90deg,#5b5bd6,#8b5cf6);width:0;transition:.3s}
+.lesson{max-width:800px;margin:auto}.flow{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.step{padding:8px 11px;background:#f1f2f8;border-radius:10px;font-size:13px}
+.visual{background:#f8f8ff;border:1px dashed #a9a8ed;border-radius:16px;padding:20px;white-space:pre-line;font-family:ui-monospace,monospace;line-height:1.7}
+.option{display:block;width:100%;text-align:left;background:#fff;border:1px solid var(--line);margin:9px 0}.option:hover{border-color:#8b5cf6}.correct{border-color:var(--ok)!important;background:#effaf4}.wrong{border-color:var(--bad)!important;background:#fff1f0}
+.explain{margin-top:14px;padding:16px;border-radius:14px;background:#f7f8fc;border-left:5px solid var(--brand)}.hidden{display:none}
+.day{border-left:5px solid #8b5cf6}.small{font-size:13px}.score{font-size:42px;font-weight:900}.footer{padding:30px;color:var(--muted);text-align:center}
+@media(max-width:600px){.wrap{padding:14px}header{padding:18px}.card{padding:15px}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<h1>🏦 Bank Zero → Hero</h1><div class="sub">SBI Clerk first • IOB LBO next • Learn → Practice → Test → Understand</div>
+<div class="tabs">
+<button class="active" onclick="show('home',this)">Today</button>
+<button onclick="show('plan',this)">Study Plan</button>
+<button onclick="show('learn',this)">Learn</button>
+<button onclick="show('practice',this)">Practice</button>
+<button onclick="show('progress',this)">Progress</button>
+</div></div></header>
+<main class="wrap" id="app"></main>
+<script>
+const state=JSON.parse(localStorage.getItem('bankHero')||'{"done":{},"best":0}');
+function save(){localStorage.setItem('bankHero',JSON.stringify(state))}
+const days=[
+["Day 1","Quant: Tables, Squares & Simplification","Reasoning: Inequality","English: Parts of Speech"],
+["Day 2","Quant: BODMAS & Simplification","Reasoning: Syllogism","English: Noun & Pronoun"],
+["Day 3","Quant: Approximation","Reasoning: Direction Sense","English: Verb"],
+["Day 4","Quant: Percentage I","Reasoning: Blood Relation","English: Tenses"],
+["Day 5","Quant: Percentage II","Reasoning: Ranking","English: Subject–Verb Agreement"],
+["Day 6","Quant: Ratio & Proportion","Reasoning: Coding-Decoding","English: Articles"],
+["Day 7","Revision + Mini Mock","Mistake analysis","Rest and confidence"],
+["Day 8","Quant: Average","Reasoning: Alphanumeric Series","English: Prepositions"],
+["Day 9","Quant: Profit & Loss","Reasoning: Linear Seating I","English: Fillers"],
+["Day 10","Quant: Discount","Reasoning: Linear Seating II","English: Error Spotting"],
+["Day 11","Quant: Simple Interest","Reasoning: Floor Puzzle","English: Cloze Test"],
+["Day 12","Quant: Compound Interest","Reasoning: Circular Seating","English: Reading Comprehension"],
+["Day 13","Quant: Number Series","Reasoning: Mixed Practice","English: Para Jumbles"],
+["Day 14","Full Revision","Section Tests","Mock + mistake notebook"]
+];
+const lessons={
+"home":()=>{let d=new Date().getDate()%14;let x=days[d];return `<div class="grid"><section class="card"><span class="pill">TODAY'S PRIORITY</span><h2>${x[0]}</h2><p>🎯 ${x[1]}<br>🧩 ${x[2]}<br>📖 ${x[3]}</p><button class="primary" onclick="show('learn')">Start today's lesson →</button></section><section class="card"><div class="muted">Your overall progress</div><div class="big">${Object.keys(state.done).length}/14 days</div><div class="progress"><div style="width:${Object.keys(state.done).length/14*100}%"></div></div><button onclick="markToday()">Mark today complete ✓</button></section><section class="card"><div class="muted">Golden rule</div><h3>Understand first. Speed later.</h3><p>Never guess blindly. Every wrong answer teaches the concept.</p></section></div><div class="card day" style="margin-top:18px"><h2>Today's flow</h2><div class="flow"><span class="step">1. Learn concept</span><span class="step">2. See visual</span><span class="step">3. Easy × 30</span><span class="step">4. Medium × 30</span><span class="step">5. Hard × 30</span><span class="step">6. Take test</span></div></div>`},
+"plan":()=>`<h2>14-Day SBI Foundation Sprint</h2><div class="grid">${days.map((d,i)=>`<div class="card"><span class="pill">${d[0]}</span><h3>${d[1]}</h3><p>🧩 ${d[2]}<br>📖 ${d[3]}</p><div class="small">${state.done[i]?'✅ Completed':'⏳ Pending'}</div></div>`).join('')}</div><div class="card" style="margin-top:16px"><h2>After SBI → IOB LBO mode</h2><p>Data Interpretation → Advanced Reasoning → Computer Aptitude → Banking Awareness → Economy → Current Affairs → English.</p></div>`,
+"learn":()=>`<section class="lesson"><span class="pill">DAY 1 • QUANT</span><h2>🔢 Simplification from Zero</h2><p class="muted">We solve the operation in the correct order using <b>BODMAS</b>.</p><div class="visual">B → Brackets\nO → Orders / powers\nD → Division\nM → Multiplication\nA → Addition\nS → Subtraction</div><h3>Visual example</h3><div class="visual">8 + 4 × 3\n\nFirst multiplication:\n4 × 3 = 12\n\nThen addition:\n8 + 12 = 20 ✅</div><div class="explain"><b>Easy memory trick:</b> Multiplication and Division happen before Addition and Subtraction unless brackets change the order.</div><h2>🧩 Inequality</h2><div class="visual">A > B > C > D\n\nA is greater than B\nB is greater than C\nC is greater than D\n\nTherefore: A > C and B > D</div><h2>📖 Parts of Speech</h2><div class="visual">SHE → IS → STUDYING\nSubject   Verb    Action\n\nNoun = name (Bank, Ravi)\nPronoun = replaces noun (he, she, they)\nVerb = action/state (study, is, run)</div><button class="primary" onclick="show('practice')">I understood. Start practice →</button></section>`,
+"practice":()=>practiceHTML(),
+"progress":()=>`<div class="grid"><div class="card"><div class="muted">Days completed</div><div class="score">${Object.keys(state.done).length}</div><div>out of 14</div></div><div class="card"><div class="muted">Best test score</div><div class="score">${state.best||0}%</div><div>Keep improving, not comparing.</div></div></div><div class="card" style="margin-top:18px"><h2>Mistake rule</h2><p>For every wrong answer ask: <b>Concept problem?</b> → learn it. <b>Calculation mistake?</b> → slow down. <b>Too difficult?</b> → skip and return.</p></div>`
+};
+let difficulty='easy', qIndex=0, answered=0, correct=0, questions=[];
+function makeQuestions(level){
+ let arr=[]; const base=level==='easy'?1:level==='medium'?2:3;
+ for(let i=1;i<=30;i++){
+   let a=10+((i*7)%40)*base,b=2+((i*3)%9);
+   let q,ans,exp;
+   if(i%3===0){q=`What is ${a} × ${b}?`;ans=a*b;exp=`Break it into easy multiplication:\n${a} × ${b} = ${a*b}.\n\nPractice goal: recognize multiplication patterns quickly.`}
+   else if(i%3===1){q=`What is ${a+b} − ${b}?`;ans=a;exp=`We subtract ${b} from ${a+b}:\n${a+b} − ${b} = ${a}.`}
+   else {q=`What is ${a} + ${b} × 2?`;ans=a+b*2;exp=`Use BODMAS:\nFirst ${b} × 2 = ${b*2}\nThen ${a} + ${b*2} = ${ans}.`}
+   let opts=[ans,ans+base,Math.max(0,ans-base),ans+2*base].sort(()=>Math.random()-.5);
+   arr.push({q,ans,opts,exp,level});
+ }
+ return arr;
+}
+function practiceHTML(){return `<section class="lesson"><span class="pill">QUESTION ENGINE</span><h2>Choose your practice</h2><p>Each level contains 30 questions. Start easy. Move up only when you understand the method.</p><div class="grid"><div class="card"><h3>🟢 Easy × 30</h3><p>Build confidence and concepts.</p><button class="primary" onclick="start('easy')">Start Easy</button></div><div class="card"><h3>🟡 Medium × 30</h3><p>Apply the concept with less guidance.</p><button class="primary" onclick="start('medium')">Start Medium</button></div><div class="card"><h3>🔴 Hard × 30</h3><p>Timed exam-style challenge.</p><button class="primary" onclick="start('hard')">Start Hard</button></div></div><div id="quiz"></div></section>`}
+function start(level){difficulty=level;questions=makeQuestions(level);qIndex=0;answered=0;correct=0;renderQ()}
+function renderQ(){let x=questions[qIndex];document.getElementById('quiz').innerHTML=`<div class="card" style="margin-top:20px"><div class="muted">${difficulty.toUpperCase()} • Question ${qIndex+1}/30</div><div class="progress"><div style="width:${qIndex/30*100}%"></div></div><h2>${x.q}</h2><div id="options">${x.opts.map(o=>`<button class="option" onclick="answer(${o})">${o}</button>`).join('')}</div><div id="feedback"></div></div>`}
+function answer(choice){let x=questions[qIndex],ok=choice===x.ans;if(ok)correct++;answered++;let opts=[...document.querySelectorAll('.option')];opts.forEach(b=>{b.disabled=true;if(+b.textContent===x.ans)b.classList.add('correct');if(+b.textContent===choice&&!ok)b.classList.add('wrong')});document.getElementById('feedback').innerHTML=`<div class="explain"><h3>${ok?'✅ Correct!':'❌ Not this time — let us understand it'}</h3><div class="visual">${x.exp}</div><button class="primary" onclick="nextQ()">${qIndex===29?'See result':'Next question →'}</button></div>`}
+function nextQ(){qIndex++;if(qIndex>=30){let score=Math.round(correct/30*100);state.best=Math.max(state.best||0,score);save();document.getElementById('quiz').innerHTML=`<div class="card"><div class="score">${score}%</div><h2>${correct}/30 correct</h2><p>${score>=80?'Excellent. You can move to the next level.':score>=60?'Good foundation. Review wrong answers once.':'Go back to the concept, then retry Easy.'}</p><button class="primary" onclick="start(difficulty)">Retry level</button></div>`}else renderQ()}
+function markToday(){let d=new Date().getDate()%14;state.done[d]=true;save();show('home')}
+function show(name,btn){document.getElementById('app').innerHTML=lessons[name]();document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('active'));if(btn)btn.classList.add('active')}
+show('home');
+</script>
+<div class="footer">Built for consistent learning • Progress is saved on this device</div>
+</body></html>
