@@ -1,10 +1,4 @@
-# Bank Zero → Hero v2
-
-Static web app for SBI Clerk / bank exam preparation.
-
-## Deploy
-Upload all files and folders to the root of the GitHub repository. Netlify should redeploy automatically.
-
-## Important
-Question data currently contains a small starter bank to demonstrate the architecture. Add questions to `js/app.js` or migrate the bank to JSON as the question library grows.
-Previous-year resources link to external providers and are not copied into this repository.
+# Bank Zero → Hero V4
+Upload these files to the repository root. Netlify can deploy it as a static site.
+The app includes complete topic/sub-topic navigation, lesson cards, examples, quick checks, 30-question practice sessions, non-repeat tracking and revision.
+The current 1,000-per-level capacity uses deterministic generated practice items as an engine demonstration; curated exam-grade question banks can replace these progressively.
