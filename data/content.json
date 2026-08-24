@@ -6,369 +6,974 @@
         {
           "id": "quantitative-aptitude-percentage",
           "name": "Percentage",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "What is Percentage?",
-                "explanation": "Percentage means 'out of 100'. If 25 out of 100 students pass, the result is 25%.",
-                "rule": "Percentage = Part / Total \u00d7 100",
-                "examples": [
-                  {
-                    "q": "25 students out of 100 pass",
-                    "steps": [
-                      "25 \u00f7 100 \u00d7 100"
-                    ],
-                    "answer": "25%"
-                  },
-                  {
-                    "q": "20 out of 80 are selected",
-                    "steps": [
-                      "20 \u00f7 80 \u00d7 100",
-                      "= 25"
-                    ],
-                    "answer": "25%"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Fraction to Percentage",
-                "explanation": "Convert a fraction by multiplying it by 100.",
-                "rule": "Fraction \u00d7 100",
-                "examples": [
-                  {
-                    "q": "Convert 1/4",
-                    "steps": [
-                      "1/4 \u00d7 100"
-                    ],
-                    "answer": "25%"
-                  },
-                  {
-                    "q": "Convert 3/5",
-                    "steps": [
-                      "3/5 \u00d7 100"
-                    ],
-                    "answer": "60%"
-                  },
-                  {
-                    "q": "Convert 7/8",
-                    "steps": [
-                      "7/8 \u00d7 100"
-                    ],
-                    "answer": "87.5%"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Percentage of a Number",
-                "explanation": "'20% of 500' means 20/100 \u00d7 500. Use easy fraction shortcuts when possible.",
-                "rule": "x% of y = x/100 \u00d7 y",
-                "examples": [
-                  {
-                    "q": "Find 20% of 500",
-                    "steps": [
-                      "20/100 \u00d7 500",
-                      "= 100"
-                    ],
-                    "answer": "100"
-                  },
-                  {
-                    "q": "Find 25% of 240",
-                    "steps": [
-                      "25% = 1/4",
-                      "240 \u00f7 4"
-                    ],
-                    "answer": "60"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Increase and Decrease",
-                "explanation": "Find the percentage amount first, then add for increase or subtract for decrease.",
-                "rule": "New = Original \u00b1 percentage amount",
-                "examples": [
-                  {
-                    "q": "500 increases by 10%",
-                    "steps": [
-                      "10% of 500 = 50",
-                      "500 + 50"
-                    ],
-                    "answer": "550"
-                  },
-                  {
-                    "q": "1000 decreases by 25%",
-                    "steps": [
-                      "25% of 1000 = 250",
-                      "1000 \u2212 250"
-                    ],
-                    "answer": "750"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "What Percentage Really Means",
+              "simple": "Percentage means 'out of 100'. 25% literally means 25 out of every 100. Before using formulas, convert the sentence into this idea.",
+              "visual": "100 boxes → 25 selected\n25 / 100 = 25%",
+              "rule": "Percentage = (Part ÷ Total) × 100",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "25 students out of 100 passed.",
+                  "steps": [
+                    "Part = 25",
+                    "Total = 100",
+                    "25/100 × 100"
+                  ],
+                  "answer": "25%"
+                },
+                {
+                  "level": "Easy",
+                  "question": "50 red balls out of 200 balls.",
+                  "steps": [
+                    "50/200 = 1/4",
+                    "1/4 × 100"
+                  ],
+                  "answer": "25%"
+                },
+                {
+                  "level": "Medium",
+                  "question": "36 candidates out of 144 qualified.",
+                  "steps": [
+                    "36/144 = 1/4",
+                    "× 100"
+                  ],
+                  "answer": "25%"
+                },
+                {
+                  "level": "Medium",
+                  "question": "18% of a class is 9 students. Find class strength.",
+                  "steps": [
+                    "18/100 × Total = 9",
+                    "Total = 9×100/18"
+                  ],
+                  "answer": "50"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A number increases from 80 to 104.",
+                  "steps": [
+                    "Increase = 24",
+                    "24/80 × 100"
+                  ],
+                  "answer": "30% increase"
+                }
+              ],
+              "shortcut": "Use familiar fractions: 50%=1/2, 25%=1/4, 20%=1/5, 12.5%=1/8.",
+              "mistakes": "Do not divide by the new value when percentage change asks for change from the original."
+            },
+            {
+              "title": "Percentage of a Number",
+              "simple": "'x% of y' always means x/100 × y. Simplify before multiplying.",
+              "visual": "x% of y\n= x/100 × y",
+              "rule": "x% of y = x×y/100",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "10% of 500",
+                  "steps": [
+                    "10% = 1/10",
+                    "500 ÷ 10"
+                  ],
+                  "answer": "50"
+                },
+                {
+                  "level": "Easy",
+                  "question": "25% of 240",
+                  "steps": [
+                    "25%=1/4",
+                    "240÷4"
+                  ],
+                  "answer": "60"
+                },
+                {
+                  "level": "Medium",
+                  "question": "12.5% of 800",
+                  "steps": [
+                    "12.5%=1/8",
+                    "800÷8"
+                  ],
+                  "answer": "100"
+                },
+                {
+                  "level": "Medium",
+                  "question": "35% of 460",
+                  "steps": [
+                    "35×460/100",
+                    "=161"
+                  ],
+                  "answer": "161"
+                },
+                {
+                  "level": "Hard",
+                  "question": "16⅔% of 600",
+                  "steps": [
+                    "16⅔%=1/6",
+                    "600÷6"
+                  ],
+                  "answer": "100"
+                }
+              ],
+              "shortcut": "Cancel 100 with the number first whenever possible.",
+              "mistakes": "Do not multiply first if easy cancellation makes the calculation simpler."
+            },
+            {
+              "title": "Increase, Decrease and Successive Change",
+              "simple": "Every percentage change is applied to the current value. After the first change, the base has changed.",
+              "visual": "100 → increase 20% → 120\n120 → decrease 20% → 96",
+              "rule": "New value = Original × (1 ± p/100)",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "500 increases by 10%",
+                  "steps": [
+                    "10% of 500=50",
+                    "500+50"
+                  ],
+                  "answer": "550"
+                },
+                {
+                  "level": "Medium",
+                  "question": "1000 decreases by 25%",
+                  "steps": [
+                    "25% of 1000=250",
+                    "1000−250"
+                  ],
+                  "answer": "750"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A price increases 10% and then 10% again.",
+                  "steps": [
+                    "100→110",
+                    "110→121"
+                  ],
+                  "answer": "21% increase"
+                },
+                {
+                  "level": "Hard",
+                  "question": "100 increases 20%, then decreases 20%.",
+                  "steps": [
+                    "100→120",
+                    "20% of 120=24",
+                    "120−24"
+                  ],
+                  "answer": "96; 4% decrease"
+                },
+                {
+                  "level": "Hard",
+                  "question": "Successive +25% and +20%.",
+                  "steps": [
+                    "Net = 25+20+(25×20/100)"
+                  ],
+                  "answer": "50% increase"
+                }
+              ],
+              "shortcut": "For two changes use a+b+ab/100, with decreases treated as negative.",
+              "mistakes": "+20% and −20% do NOT cancel because the bases are different."
+            }
+          ]
         },
         {
           "id": "quantitative-aptitude-ratio-and-proportion",
           "name": "Ratio & Proportion",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "What is Ratio?",
-                "explanation": "Ratio compares two quantities. 2:3 means for every 2 parts of the first quantity there are 3 parts of the second.",
-                "rule": "a:b = a/b",
-                "examples": [
-                  {
-                    "q": "Divide 100 in 2:3",
-                    "steps": [
-                      "Total parts = 5",
-                      "One part = 100 \u00f7 5 = 20",
-                      "Shares = 2\u00d720 and 3\u00d720"
-                    ],
-                    "answer": "40 and 60"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Equivalent Ratios",
-                "explanation": "Multiplying or dividing both sides by the same number keeps the ratio equal.",
-                "rule": "2:3 = 4:6",
-                "examples": [
-                  {
-                    "q": "Simplify 20:30",
-                    "steps": [
-                      "Divide both by 10"
-                    ],
-                    "answer": "2:3"
-                  },
-                  {
-                    "q": "Simplify 24:36",
-                    "steps": [
-                      "Divide both by 12"
-                    ],
-                    "answer": "2:3"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Direct and Inverse Proportion",
-                "explanation": "If both quantities move together it is direct. If one rises while the other falls, it is inverse.",
-                "rule": "Direct: same direction | Inverse: opposite direction",
-                "examples": [
-                  {
-                    "q": "More items at same price",
-                    "steps": [
-                      "Items double \u2192 cost doubles"
-                    ],
-                    "answer": "Direct"
-                  },
-                  {
-                    "q": "More workers for same work",
-                    "steps": [
-                      "Workers double \u2192 days reduce"
-                    ],
-                    "answer": "Inverse"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "Understanding Ratio",
+              "simple": "A ratio compares quantities. 2:3 means every 2 equal parts of the first correspond to 3 equal parts of the second.",
+              "visual": "A : B = 2 : 3\nTotal parts = 5",
+              "rule": "Share = Total × ratio part / sum of parts",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "Simplify 20:30",
+                  "steps": [
+                    "Divide both by 10"
+                  ],
+                  "answer": "2:3"
+                },
+                {
+                  "level": "Easy",
+                  "question": "Divide 50 in ratio 2:3",
+                  "steps": [
+                    "Parts=5",
+                    "One part=10",
+                    "Shares=20,30"
+                  ],
+                  "answer": "20 and 30"
+                },
+                {
+                  "level": "Medium",
+                  "question": "Boys:girls=3:5, total=64",
+                  "steps": [
+                    "Parts=8",
+                    "One part=8"
+                  ],
+                  "answer": "24 and 40"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A:B=2:3 and B:C=4:5",
+                  "steps": [
+                    "Make B equal: 2:3=8:12",
+                    "4:5=12:15"
+                  ],
+                  "answer": "8:12:15"
+                }
+              ],
+              "shortcut": "Find the sum of ratio parts before splitting a total.",
+              "mistakes": "Never add ratio numbers to the actual quantities without finding one part."
+            },
+            {
+              "title": "Direct and Inverse Proportion",
+              "simple": "Direct quantities move together; inverse quantities move in opposite directions.",
+              "visual": "More workers → fewer days\nWorkers × Days = constant",
+              "rule": "Direct: x/y constant. Inverse: x×y constant.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "At fixed price, 2 items cost ₹100. 4 items cost?",
+                  "steps": [
+                    "Items doubled",
+                    "Cost doubles"
+                  ],
+                  "answer": "₹200"
+                },
+                {
+                  "level": "Medium",
+                  "question": "6 workers finish in 10 days. 12 workers?",
+                  "steps": [
+                    "6×10=12×d",
+                    "d=5"
+                  ],
+                  "answer": "5 days"
+                },
+                {
+                  "level": "Hard",
+                  "question": "8 taps fill in 6 hours. 12 taps?",
+                  "steps": [
+                    "8×6=12×d",
+                    "48/12"
+                  ],
+                  "answer": "4 hours"
+                }
+              ],
+              "shortcut": "Ask: do both quantities move in the same direction or opposite?",
+              "mistakes": "Do not use direct proportion for workers and days; they are usually inverse."
+            }
+          ]
         },
         {
           "id": "quantitative-aptitude-average",
           "name": "Average",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "Average Basics",
-                "explanation": "Average is the equal value when a total is shared equally.",
-                "rule": "Average = Sum / Number",
-                "examples": [
-                  {
-                    "q": "10, 20, 30",
-                    "steps": [
-                      "Sum = 60",
-                      "60 \u00f7 3"
-                    ],
-                    "answer": "20"
-                  },
-                  {
-                    "q": "8, 12, 16, 20",
-                    "steps": [
-                      "Sum = 56",
-                      "56 \u00f7 4"
-                    ],
-                    "answer": "14"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Finding Total",
-                "explanation": "If average and number of values are known, multiply them.",
-                "rule": "Total = Average \u00d7 Number",
-                "examples": [
-                  {
-                    "q": "Average 60 for 10 students",
-                    "steps": [
-                      "60 \u00d7 10"
-                    ],
-                    "answer": "600"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Replacement",
-                "explanation": "A changed value changes the total. Divide that total change by the number of values.",
-                "rule": "Change in average = change in total / count",
-                "examples": [
-                  {
-                    "q": "40 replaced by 70 in group of 10",
-                    "steps": [
-                      "Total rises by 30",
-                      "30 \u00f7 10"
-                    ],
-                    "answer": "Average rises by 3"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "Average from Zero",
+              "simple": "Average is the value each item would have if the total were shared equally.",
+              "visual": "Values → ADD ALL → DIVIDE BY COUNT",
+              "rule": "Average = Sum ÷ Number of values",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "10, 20, 30",
+                  "steps": [
+                    "Sum=60",
+                    "60÷3"
+                  ],
+                  "answer": "20"
+                },
+                {
+                  "level": "Easy",
+                  "question": "8,12,16,20",
+                  "steps": [
+                    "Sum=56",
+                    "56÷4"
+                  ],
+                  "answer": "14"
+                },
+                {
+                  "level": "Medium",
+                  "question": "Average of first 5 even numbers",
+                  "steps": [
+                    "2+4+6+8+10=30",
+                    "30÷5"
+                  ],
+                  "answer": "6"
+                },
+                {
+                  "level": "Hard",
+                  "question": "Average of 12,18,x is 20",
+                  "steps": [
+                    "Required sum=20×3=60",
+                    "Known sum=30",
+                    "x=30"
+                  ],
+                  "answer": "30"
+                }
+              ],
+              "shortcut": "For consecutive numbers, average is often the middle number.",
+              "mistakes": "Do not divide before adding every value."
+            },
+            {
+              "title": "Replacement and Combined Average",
+              "simple": "A replacement changes the total first; the average changes according to total change divided by number of members.",
+              "visual": "Old total → remove old → add new → divide",
+              "rule": "Change in average = Change in total ÷ count",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "In a group of 10, 40 is replaced by 70.",
+                  "steps": [
+                    "Total rises by 30",
+                    "30÷10"
+                  ],
+                  "answer": "Average rises by 3"
+                },
+                {
+                  "level": "Medium",
+                  "question": "Average of 20 boys is 60; 30 girls is 70.",
+                  "steps": [
+                    "Totals=1200 and 2100",
+                    "3300÷50"
+                  ],
+                  "answer": "66"
+                },
+                {
+                  "level": "Hard",
+                  "question": "Average of 10 numbers is 50. Replace 30 with 80.",
+                  "steps": [
+                    "Total rises by 50",
+                    "Average rises by 50÷10"
+                  ],
+                  "answer": "55"
+                }
+              ],
+              "shortcut": "Use total = average × count whenever groups combine.",
+              "mistakes": "Do not average two averages directly unless group sizes are equal."
+            }
+          ]
         },
         {
           "id": "quantitative-aptitude-profit-and-loss",
           "name": "Profit & Loss",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "Cost Price and Selling Price",
-                "explanation": "Cost Price is what you paid. Selling Price is what you received.",
-                "rule": "Profit = SP\u2212CP | Loss = CP\u2212SP",
-                "examples": [
-                  {
-                    "q": "Buy 100, sell 120",
-                    "steps": [
-                      "120 \u2212 100"
-                    ],
-                    "answer": "20 profit"
-                  },
-                  {
-                    "q": "Buy 500, sell 450",
-                    "steps": [
-                      "500 \u2212 450"
-                    ],
-                    "answer": "50 loss"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Profit Percentage",
-                "explanation": "Profit percentage is normally calculated on Cost Price.",
-                "rule": "Profit% = Profit/CP \u00d7 100",
-                "examples": [
-                  {
-                    "q": "CP 100, SP 120",
-                    "steps": [
-                      "Profit = 20",
-                      "20/100 \u00d7 100"
-                    ],
-                    "answer": "20%"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Discount",
-                "explanation": "Discount is reduced from Marked Price.",
-                "rule": "Discount = MP \u2212 SP",
-                "examples": [
-                  {
-                    "q": "MP 1000, discount 20%",
-                    "steps": [
-                      "20% of 1000 = 200",
-                      "1000 \u2212 200"
-                    ],
-                    "answer": "800"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "Cost Price and Selling Price",
+              "simple": "Cost Price is what the seller paid. Selling Price is what the buyer pays.",
+              "visual": "CP → compare → SP\nSP>CP = Profit",
+              "rule": "Profit=SP−CP; Loss=CP−SP",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "CP=100, SP=120",
+                  "steps": [
+                    "120−100"
+                  ],
+                  "answer": "Profit ₹20"
+                },
+                {
+                  "level": "Easy",
+                  "question": "CP=500, SP=450",
+                  "steps": [
+                    "500−450"
+                  ],
+                  "answer": "Loss ₹50"
+                },
+                {
+                  "level": "Medium",
+                  "question": "CP=800, profit=15%",
+                  "steps": [
+                    "15% of 800=120",
+                    "SP=920"
+                  ],
+                  "answer": "₹920"
+                },
+                {
+                  "level": "Hard",
+                  "question": "SP is 120% of CP",
+                  "steps": [
+                    "Difference from CP=20%"
+                  ],
+                  "answer": "20% profit"
+                }
+              ],
+              "shortcut": "Profit% and loss% are normally calculated on CP.",
+              "mistakes": "Do not calculate profit percentage on SP unless the question explicitly asks."
+            },
+            {
+              "title": "Discount and Marked Price",
+              "simple": "Discount is calculated from Marked Price. Discount and profit are different ideas.",
+              "visual": "MP → subtract discount → SP",
+              "rule": "Discount = MP−SP",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "MP=1000, discount=20%",
+                  "steps": [
+                    "Discount=200",
+                    "SP=800"
+                  ],
+                  "answer": "₹800"
+                },
+                {
+                  "level": "Medium",
+                  "question": "MP=2000, discounts 20% then 10%",
+                  "steps": [
+                    "2000→1600",
+                    "1600−160"
+                  ],
+                  "answer": "₹1440"
+                },
+                {
+                  "level": "Hard",
+                  "question": "Successive discounts 20% and 10%",
+                  "steps": [
+                    "20+10−(20×10/100)"
+                  ],
+                  "answer": "28% effective discount"
+                }
+              ],
+              "shortcut": "Two discounts are not simply added.",
+              "mistakes": "Always apply the second discount to the reduced price."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-simplification",
+          "name": "Simplification",
+          "concepts": [
+            {
+              "title": "BODMAS / Order of Operations",
+              "simple": "Solve brackets first, then powers, division/multiplication left to right, then addition/subtraction left to right.",
+              "visual": "B → O → D/M → A/S",
+              "rule": "Follow operation priority and left-to-right for equal priority.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "12 + 3 × 4",
+                  "steps": [
+                    "Multiply first:3×4=12",
+                    "12+12"
+                  ],
+                  "answer": "24"
+                },
+                {
+                  "level": "Medium",
+                  "question": "(18−6) ÷ 3 + 5",
+                  "steps": [
+                    "Bracket=12",
+                    "12÷3=4",
+                    "4+5"
+                  ],
+                  "answer": "9"
+                },
+                {
+                  "level": "Hard",
+                  "question": "48 ÷ 6 × 3 + 2",
+                  "steps": [
+                    "48÷6=8",
+                    "8×3=24",
+                    "24+2"
+                  ],
+                  "answer": "26"
+                }
+              ],
+              "shortcut": "Do not invent a separate priority between division and multiplication; solve left to right.",
+              "mistakes": "A common mistake is doing addition before multiplication."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-number-series",
+          "name": "Number Series",
+          "concepts": [
+            {
+              "title": "Finding the Pattern",
+              "simple": "Look for differences, second differences, multiplication/division, squares, cubes, primes, or alternating patterns.",
+              "visual": "Write differences → check pattern → test next term",
+              "rule": "Start with first differences.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "2,4,6,8,?",
+                  "steps": [
+                    "+2 each time"
+                  ],
+                  "answer": "10"
+                },
+                {
+                  "level": "Medium",
+                  "question": "3,8,15,24,?",
+                  "steps": [
+                    "Differences +5,+7,+9",
+                    "Next +11"
+                  ],
+                  "answer": "35"
+                },
+                {
+                  "level": "Hard",
+                  "question": "2,6,12,20,30,?",
+                  "steps": [
+                    "+4,+6,+8,+10",
+                    "Next +12"
+                  ],
+                  "answer": "42"
+                }
+              ],
+              "shortcut": "Check at least two transitions before deciding the pattern.",
+              "mistakes": "Do not stop after seeing one accidental pattern."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-simple-interest",
+          "name": "Simple Interest",
+          "concepts": [
+            {
+              "title": "Simple Interest",
+              "simple": "Interest is calculated only on the original principal throughout the period.",
+              "visual": "Principal → same yearly interest → add",
+              "rule": "SI = P×R×T/100",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "P=1000,R=10%,T=2",
+                  "steps": [
+                    "1000×10×2/100"
+                  ],
+                  "answer": "₹200"
+                },
+                {
+                  "level": "Medium",
+                  "question": "P=5000,R=8%,T=3",
+                  "steps": [
+                    "5000×8×3/100"
+                  ],
+                  "answer": "₹1200"
+                },
+                {
+                  "level": "Hard",
+                  "question": "SI=1200,R=10%,T=3. Find P.",
+                  "steps": [
+                    "P=1200×100/(10×3)"
+                  ],
+                  "answer": "₹4000"
+                }
+              ],
+              "shortcut": "At 10%, one year interest is simply P/10.",
+              "mistakes": "Do not compound the principal in simple interest."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-compound-interest",
+          "name": "Compound Interest",
+          "concepts": [
+            {
+              "title": "Compound Interest",
+              "simple": "Each period's interest is added to the amount, so the next period earns interest on interest.",
+              "visual": "P → P(1+r) → P(1+r)²",
+              "rule": "Amount = P(1+R/100)^n",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "₹1000 at 10% for 2 years",
+                  "steps": [
+                    "1000×1.1×1.1"
+                  ],
+                  "answer": "₹1210"
+                },
+                {
+                  "level": "Medium",
+                  "question": "₹5000 at 20% for 2 years",
+                  "steps": [
+                    "5000×1.2²=5000×1.44"
+                  ],
+                  "answer": "₹7200"
+                },
+                {
+                  "level": "Hard",
+                  "question": "Difference between CI and SI for 2 years at 10% on 1000",
+                  "steps": [
+                    "CI=210",
+                    "SI=200"
+                  ],
+                  "answer": "₹10"
+                }
+              ],
+              "shortcut": "For 2 years, CI−SI = P(R/100)^2.",
+              "mistakes": "Do not calculate every year separately if the multiplier is easy."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-time-and-work",
+          "name": "Time & Work",
+          "concepts": [
+            {
+              "title": "Core Idea",
+              "simple": "Time & Work questions become easier when information is converted into a table, equation, or diagram before calculation.",
+              "visual": "Read data → organize → choose formula → calculate → verify",
+              "rule": "Use the simplest valid method.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Time & Work problem.",
+                  "steps": [
+                    "Identify what is asked",
+                    "Write the given values",
+                    "Apply the direct method"
+                  ],
+                  "answer": "Solved by the direct method"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-step Time & Work problem.",
+                  "steps": [
+                    "Organize the values",
+                    "Solve step 1",
+                    "Use that result in step 2"
+                  ],
+                  "answer": "Check units"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-condition Time & Work problem.",
+                  "steps": [
+                    "Separate conditions",
+                    "Eliminate irrelevant data",
+                    "Solve systematically"
+                  ],
+                  "answer": "Verify the final condition"
+                }
+              ],
+              "shortcut": "Write units and conditions before calculating.",
+              "mistakes": "Do not use a shortcut before understanding the base method."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-pipes-and-cisterns",
+          "name": "Pipes & Cisterns",
+          "concepts": [
+            {
+              "title": "Core Idea",
+              "simple": "Pipes & Cisterns questions become easier when information is converted into a table, equation, or diagram before calculation.",
+              "visual": "Read data → organize → choose formula → calculate → verify",
+              "rule": "Use the simplest valid method.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Pipes & Cisterns problem.",
+                  "steps": [
+                    "Identify what is asked",
+                    "Write the given values",
+                    "Apply the direct method"
+                  ],
+                  "answer": "Solved by the direct method"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-step Pipes & Cisterns problem.",
+                  "steps": [
+                    "Organize the values",
+                    "Solve step 1",
+                    "Use that result in step 2"
+                  ],
+                  "answer": "Check units"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-condition Pipes & Cisterns problem.",
+                  "steps": [
+                    "Separate conditions",
+                    "Eliminate irrelevant data",
+                    "Solve systematically"
+                  ],
+                  "answer": "Verify the final condition"
+                }
+              ],
+              "shortcut": "Write units and conditions before calculating.",
+              "mistakes": "Do not use a shortcut before understanding the base method."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-time-speed-distance",
+          "name": "Time Speed Distance",
+          "concepts": [
+            {
+              "title": "Core Idea",
+              "simple": "Time Speed Distance questions become easier when information is converted into a table, equation, or diagram before calculation.",
+              "visual": "Read data → organize → choose formula → calculate → verify",
+              "rule": "Use the simplest valid method.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Time Speed Distance problem.",
+                  "steps": [
+                    "Identify what is asked",
+                    "Write the given values",
+                    "Apply the direct method"
+                  ],
+                  "answer": "Solved by the direct method"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-step Time Speed Distance problem.",
+                  "steps": [
+                    "Organize the values",
+                    "Solve step 1",
+                    "Use that result in step 2"
+                  ],
+                  "answer": "Check units"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-condition Time Speed Distance problem.",
+                  "steps": [
+                    "Separate conditions",
+                    "Eliminate irrelevant data",
+                    "Solve systematically"
+                  ],
+                  "answer": "Verify the final condition"
+                }
+              ],
+              "shortcut": "Write units and conditions before calculating.",
+              "mistakes": "Do not use a shortcut before understanding the base method."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-mixture-and-alligation",
+          "name": "Mixture & Alligation",
+          "concepts": [
+            {
+              "title": "Core Idea",
+              "simple": "Mixture & Alligation questions become easier when information is converted into a table, equation, or diagram before calculation.",
+              "visual": "Read data → organize → choose formula → calculate → verify",
+              "rule": "Use the simplest valid method.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Mixture & Alligation problem.",
+                  "steps": [
+                    "Identify what is asked",
+                    "Write the given values",
+                    "Apply the direct method"
+                  ],
+                  "answer": "Solved by the direct method"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-step Mixture & Alligation problem.",
+                  "steps": [
+                    "Organize the values",
+                    "Solve step 1",
+                    "Use that result in step 2"
+                  ],
+                  "answer": "Check units"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-condition Mixture & Alligation problem.",
+                  "steps": [
+                    "Separate conditions",
+                    "Eliminate irrelevant data",
+                    "Solve systematically"
+                  ],
+                  "answer": "Verify the final condition"
+                }
+              ],
+              "shortcut": "Write units and conditions before calculating.",
+              "mistakes": "Do not use a shortcut before understanding the base method."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-partnership",
+          "name": "Partnership",
+          "concepts": [
+            {
+              "title": "Core Idea",
+              "simple": "Partnership questions become easier when information is converted into a table, equation, or diagram before calculation.",
+              "visual": "Read data → organize → choose formula → calculate → verify",
+              "rule": "Use the simplest valid method.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Partnership problem.",
+                  "steps": [
+                    "Identify what is asked",
+                    "Write the given values",
+                    "Apply the direct method"
+                  ],
+                  "answer": "Solved by the direct method"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-step Partnership problem.",
+                  "steps": [
+                    "Organize the values",
+                    "Solve step 1",
+                    "Use that result in step 2"
+                  ],
+                  "answer": "Check units"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-condition Partnership problem.",
+                  "steps": [
+                    "Separate conditions",
+                    "Eliminate irrelevant data",
+                    "Solve systematically"
+                  ],
+                  "answer": "Verify the final condition"
+                }
+              ],
+              "shortcut": "Write units and conditions before calculating.",
+              "mistakes": "Do not use a shortcut before understanding the base method."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-data-interpretation",
+          "name": "Data Interpretation",
+          "concepts": [
+            {
+              "title": "Core Idea",
+              "simple": "Data Interpretation questions become easier when information is converted into a table, equation, or diagram before calculation.",
+              "visual": "Read data → organize → choose formula → calculate → verify",
+              "rule": "Use the simplest valid method.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Data Interpretation problem.",
+                  "steps": [
+                    "Identify what is asked",
+                    "Write the given values",
+                    "Apply the direct method"
+                  ],
+                  "answer": "Solved by the direct method"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-step Data Interpretation problem.",
+                  "steps": [
+                    "Organize the values",
+                    "Solve step 1",
+                    "Use that result in step 2"
+                  ],
+                  "answer": "Check units"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-condition Data Interpretation problem.",
+                  "steps": [
+                    "Separate conditions",
+                    "Eliminate irrelevant data",
+                    "Solve systematically"
+                  ],
+                  "answer": "Verify the final condition"
+                }
+              ],
+              "shortcut": "Write units and conditions before calculating.",
+              "mistakes": "Do not use a shortcut before understanding the base method."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-quadratic-equations",
+          "name": "Quadratic Equations",
+          "concepts": [
+            {
+              "title": "Core Idea",
+              "simple": "Quadratic Equations questions become easier when information is converted into a table, equation, or diagram before calculation.",
+              "visual": "Read data → organize → choose formula → calculate → verify",
+              "rule": "Use the simplest valid method.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Quadratic Equations problem.",
+                  "steps": [
+                    "Identify what is asked",
+                    "Write the given values",
+                    "Apply the direct method"
+                  ],
+                  "answer": "Solved by the direct method"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-step Quadratic Equations problem.",
+                  "steps": [
+                    "Organize the values",
+                    "Solve step 1",
+                    "Use that result in step 2"
+                  ],
+                  "answer": "Check units"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-condition Quadratic Equations problem.",
+                  "steps": [
+                    "Separate conditions",
+                    "Eliminate irrelevant data",
+                    "Solve systematically"
+                  ],
+                  "answer": "Verify the final condition"
+                }
+              ],
+              "shortcut": "Write units and conditions before calculating.",
+              "mistakes": "Do not use a shortcut before understanding the base method."
+            }
+          ]
+        },
+        {
+          "id": "quantitative-aptitude-approximation",
+          "name": "Approximation",
+          "concepts": [
+            {
+              "title": "Core Idea",
+              "simple": "Approximation questions become easier when information is converted into a table, equation, or diagram before calculation.",
+              "visual": "Read data → organize → choose formula → calculate → verify",
+              "rule": "Use the simplest valid method.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Approximation problem.",
+                  "steps": [
+                    "Identify what is asked",
+                    "Write the given values",
+                    "Apply the direct method"
+                  ],
+                  "answer": "Solved by the direct method"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-step Approximation problem.",
+                  "steps": [
+                    "Organize the values",
+                    "Solve step 1",
+                    "Use that result in step 2"
+                  ],
+                  "answer": "Check units"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-condition Approximation problem.",
+                  "steps": [
+                    "Separate conditions",
+                    "Eliminate irrelevant data",
+                    "Solve systematically"
+                  ],
+                  "answer": "Verify the final condition"
+                }
+              ],
+              "shortcut": "Write units and conditions before calculating.",
+              "mistakes": "Do not use a shortcut before understanding the base method."
+            }
+          ]
         }
       ]
     },
@@ -378,193 +983,679 @@
         {
           "id": "reasoning-direction-sense",
           "name": "Direction Sense",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "Four Directions",
-                "explanation": "Draw a simple compass: North up, South down, East right, West left.",
-                "rule": "North \u2194 South | East \u2194 West",
-                "examples": [
-                  {
-                    "q": "Face North, turn right",
-                    "steps": [
-                      "Right of North"
-                    ],
-                    "answer": "East"
-                  },
-                  {
-                    "q": "Opposite to West",
-                    "steps": [
-                      "East and West are opposites"
-                    ],
-                    "answer": "East"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Turns",
-                "explanation": "Right and left turns are 90 degrees. A U-turn is 180 degrees.",
-                "rule": "Right/Left = 90\u00b0 | U-turn = 180\u00b0",
-                "examples": [
-                  {
-                    "q": "Face North, turn right twice",
-                    "steps": [
-                      "First \u2192 East",
-                      "Second \u2192 South"
-                    ],
-                    "answer": "South"
-                  },
-                  {
-                    "q": "Face West, U-turn",
-                    "steps": [
-                      "Opposite direction"
-                    ],
-                    "answer": "East"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Movement Questions",
-                "explanation": "Draw arrows instead of trying to hold every movement in your head.",
-                "rule": "Draw \u2192 label \u2192 combine",
-                "examples": [
-                  {
-                    "q": "3 km North then 4 km East",
-                    "steps": [
-                      "North movement = 3",
-                      "East movement = 4"
-                    ],
-                    "answer": "North-East from start"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "Compass and Turns",
+              "simple": "Always draw a tiny compass. This prevents confusion in long questions.",
+              "visual": "      N\nW ←  +  → E\n      S",
+              "rule": "Right/left depends on current facing direction.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "Face North and turn right.",
+                  "steps": [
+                    "Right of North"
+                  ],
+                  "answer": "East"
+                },
+                {
+                  "level": "Easy",
+                  "question": "What is opposite West?",
+                  "steps": [
+                    "Opposite pair W↔E"
+                  ],
+                  "answer": "East"
+                },
+                {
+                  "level": "Medium",
+                  "question": "Face East, turn left twice.",
+                  "steps": [
+                    "East→North→West"
+                  ],
+                  "answer": "West"
+                },
+                {
+                  "level": "Hard",
+                  "question": "Face North; right, right, left, then U-turn.",
+                  "steps": [
+                    "N→E→S→E→W"
+                  ],
+                  "answer": "West"
+                }
+              ],
+              "shortcut": "Physically rotate your finger or draw arrows for complex turns.",
+              "mistakes": "Do not use page-left/page-right after the person has turned."
+            },
+            {
+              "title": "Distance and Final Position",
+              "simple": "Record each movement on a coordinate-like sketch and cancel opposite movements.",
+              "visual": "North + South → net vertical\nEast + West → net horizontal",
+              "rule": "Net movement determines final direction.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "3 km North then 4 km East",
+                  "steps": [
+                    "Up and right"
+                  ],
+                  "answer": "North-East"
+                },
+                {
+                  "level": "Medium",
+                  "question": "5 East,2 West,3 North",
+                  "steps": [
+                    "Net East=3",
+                    "North=3"
+                  ],
+                  "answer": "North-East"
+                },
+                {
+                  "level": "Hard",
+                  "question": "10 North,6 South,8 East,3 West",
+                  "steps": [
+                    "Net North=4",
+                    "Net East=5"
+                  ],
+                  "answer": "North-East"
+                }
+              ],
+              "shortcut": "Cancel opposite movements before deciding direction.",
+              "mistakes": "Do not add all distances together when only direction is asked."
+            }
+          ]
         },
         {
           "id": "reasoning-blood-relations",
           "name": "Blood Relations",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "Family Tree Method",
-                "explanation": "Turn each statement into a tiny family tree. Mark the person being asked about.",
-                "rule": "Parent \u2191 | Child \u2193 | Sibling \u2192",
-                "examples": [
-                  {
-                    "q": "A is B's mother. B is C's brother.",
-                    "steps": [
-                      "A is parent of B and C",
-                      "B is male sibling"
-                    ],
-                    "answer": "A is C's mother"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Generation Shortcut",
-                "explanation": "Parents are one generation above; children are below; siblings are at the same level.",
-                "rule": "Up = older | Down = younger",
-                "examples": [
-                  {
-                    "q": "Mother's brother",
-                    "steps": [
-                      "Mother's sibling",
-                      "Male"
-                    ],
-                    "answer": "Maternal uncle"
-                  },
-                  {
-                    "q": "Father's sister",
-                    "steps": [
-                      "Father's sibling",
-                      "Female"
-                    ],
-                    "answer": "Paternal aunt"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "Draw a Family Tree",
+              "simple": "Translate every sentence into a diagram. Avoid solving entirely in your head.",
+              "visual": "Grandparent\n   ↓\nParent → sibling\n   ↓\nChild",
+              "rule": "Identify generation first, then gender.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A is B's mother.",
+                  "steps": [
+                    "Direct statement"
+                  ],
+                  "answer": "A is B's mother"
+                },
+                {
+                  "level": "Medium",
+                  "question": "P is Q's father; Q is R's sister.",
+                  "steps": [
+                    "P is parent of Q",
+                    "Q and R are siblings"
+                  ],
+                  "answer": "P is R's father"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A is B's sister; B is C's father; C is D's brother.",
+                  "steps": [
+                    "A is sibling of B",
+                    "B parent of C and D"
+                  ],
+                  "answer": "A is D's aunt"
+                }
+              ],
+              "shortcut": "Mark M/F only when given or required.",
+              "mistakes": "Do not assume gender for words like sibling or cousin."
+            }
+          ]
         },
         {
           "id": "reasoning-syllogism",
           "name": "Syllogism",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "Think in Sets",
-                "explanation": "Statements describe groups. Imagine circles or draw them.",
-                "rule": "All A are B means A is inside B",
-                "examples": [
-                  {
-                    "q": "All cats are animals. All animals are living beings.",
-                    "steps": [
-                      "Cats inside animals",
-                      "Animals inside living beings"
-                    ],
-                    "answer": "All cats are living beings"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Meaning of Some",
-                "explanation": "Some means at least one. It does not automatically mean all.",
-                "rule": "Some A are B \u2260 All A are B",
-                "examples": [
-                  {
-                    "q": "Some students are players",
-                    "steps": [
-                      "At least one overlap exists"
-                    ],
-                    "answer": "Some players are students"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "All / Some / No as Circles",
+              "simple": "Imagine categories as circles. Only accept relationships that must be true.",
+              "visual": "All A are B: A inside B\nNo A is B: separate\nSome: overlap exists",
+              "rule": "Follow only the given logical relation.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "All cats are animals. All animals are living.",
+                  "steps": [
+                    "Cats inside animals",
+                    "Animals inside living"
+                  ],
+                  "answer": "All cats are living"
+                },
+                {
+                  "level": "Medium",
+                  "question": "Some pens are books. All books are useful.",
+                  "steps": [
+                    "Overlap of pens/books",
+                    "Books are inside useful"
+                  ],
+                  "answer": "Some pens may be useful"
+                },
+                {
+                  "level": "Hard",
+                  "question": "No A is B. Some B are C.",
+                  "steps": [
+                    "A and B separate",
+                    "B overlaps C"
+                  ],
+                  "answer": "No definite A-C relation"
+                }
+              ],
+              "shortcut": "Use a diagram for each statement before checking conclusions.",
+              "mistakes": "'Some A are B' does not mean all A are B."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-inequality",
+          "name": "Inequality",
+          "concepts": [
+            {
+              "title": "Comparison Chain",
+              "simple": "Turn symbols into one chain and connect only when the direction is logically valid.",
+              "visual": "A > B > C → A > C",
+              "rule": "Combine direct chains.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A>B and B>C",
+                  "steps": [
+                    "Chain them"
+                  ],
+                  "answer": "A>C"
+                },
+                {
+                  "level": "Medium",
+                  "question": "P≤Q and Q<R",
+                  "steps": [
+                    "P≤Q<R"
+                  ],
+                  "answer": "P<R"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A>B, C>A, D≤B",
+                  "steps": [
+                    "C>A>B≥D"
+                  ],
+                  "answer": "C>D"
+                }
+              ],
+              "shortcut": "Write a chain instead of mentally juggling symbols.",
+              "mistakes": "Do not reverse a symbol accidentally when rearranging."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-coding-decoding",
+          "name": "Coding-Decoding",
+          "concepts": [
+            {
+              "title": "Find the Transformation",
+              "simple": "Compare input and output letter by letter. Check position shift, reversal, alphabet positions, or word patterns.",
+              "visual": "INPUT → observe each change → verify with another pair",
+              "rule": "A=1 … Z=26 can help.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "If CAT → DBU, DOG → ?",
+                  "steps": [
+                    "Each letter +1",
+                    "D→E,O→P,G→H"
+                  ],
+                  "answer": "EPH"
+                },
+                {
+                  "level": "Medium",
+                  "question": "If BANK → 2-1-14-11",
+                  "steps": [
+                    "Alphabet positions"
+                  ],
+                  "answer": "B=2,A=1,N=14,K=11"
+                },
+                {
+                  "level": "Hard",
+                  "question": "ABC → CBA; DEF → ?",
+                  "steps": [
+                    "Reverse order"
+                  ],
+                  "answer": "FED"
+                }
+              ],
+              "shortcut": "Verify the rule using every available example.",
+              "mistakes": "Do not select a rule that works for only one letter."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-ranking-and-order",
+          "name": "Ranking & Order",
+          "concepts": [
+            {
+              "title": "Position Counting",
+              "simple": "Convert left/right or top/bottom positions into total positions carefully.",
+              "visual": "Total = left rank + right rank − 1",
+              "rule": "The person is counted from both sides.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A is 5th from left and 8th from right.",
+                  "steps": [
+                    "5+8−1"
+                  ],
+                  "answer": "12"
+                },
+                {
+                  "level": "Medium",
+                  "question": "20 people. B is 7th from left.",
+                  "steps": [
+                    "From right=20−7+1"
+                  ],
+                  "answer": "14th"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A is 12th from top and 19th from bottom.",
+                  "steps": [
+                    "12+19−1"
+                  ],
+                  "answer": "30"
+                }
+              ],
+              "shortcut": "Subtract 1 because the same person is counted twice.",
+              "mistakes": "Do not simply add ranks."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-alphabet-test",
+          "name": "Alphabet Test",
+          "concepts": [
+            {
+              "title": "Core Method",
+              "simple": "Alphabet Test is best solved by converting clues into a structured table or diagram instead of keeping everything in memory.",
+              "visual": "Clue 1 + Clue 2 → diagram/table → elimination → answer",
+              "rule": "Use fixed information first, then conditional clues.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A direct Alphabet Test clue.",
+                  "steps": [
+                    "Place the fixed information"
+                  ],
+                  "answer": "First position established"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-clue Alphabet Test problem.",
+                  "steps": [
+                    "Combine both clues",
+                    "Eliminate impossible positions"
+                  ],
+                  "answer": "One consistent arrangement"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-clue Alphabet Test problem.",
+                  "steps": [
+                    "Create cases",
+                    "Reject contradictions",
+                    "Verify all clues"
+                  ],
+                  "answer": "Only consistent case"
+                }
+              ],
+              "shortcut": "Start with the strongest clue.",
+              "mistakes": "Do not assume a position unless the clue forces it."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-alphanumeric-series",
+          "name": "Alphanumeric Series",
+          "concepts": [
+            {
+              "title": "Core Method",
+              "simple": "Alphanumeric Series is best solved by converting clues into a structured table or diagram instead of keeping everything in memory.",
+              "visual": "Clue 1 + Clue 2 → diagram/table → elimination → answer",
+              "rule": "Use fixed information first, then conditional clues.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A direct Alphanumeric Series clue.",
+                  "steps": [
+                    "Place the fixed information"
+                  ],
+                  "answer": "First position established"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-clue Alphanumeric Series problem.",
+                  "steps": [
+                    "Combine both clues",
+                    "Eliminate impossible positions"
+                  ],
+                  "answer": "One consistent arrangement"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-clue Alphanumeric Series problem.",
+                  "steps": [
+                    "Create cases",
+                    "Reject contradictions",
+                    "Verify all clues"
+                  ],
+                  "answer": "Only consistent case"
+                }
+              ],
+              "shortcut": "Start with the strongest clue.",
+              "mistakes": "Do not assume a position unless the clue forces it."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-linear-seating-arrangement",
+          "name": "Linear Seating Arrangement",
+          "concepts": [
+            {
+              "title": "Core Method",
+              "simple": "Linear Seating Arrangement is best solved by converting clues into a structured table or diagram instead of keeping everything in memory.",
+              "visual": "Clue 1 + Clue 2 → diagram/table → elimination → answer",
+              "rule": "Use fixed information first, then conditional clues.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A direct Linear Seating Arrangement clue.",
+                  "steps": [
+                    "Place the fixed information"
+                  ],
+                  "answer": "First position established"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-clue Linear Seating Arrangement problem.",
+                  "steps": [
+                    "Combine both clues",
+                    "Eliminate impossible positions"
+                  ],
+                  "answer": "One consistent arrangement"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-clue Linear Seating Arrangement problem.",
+                  "steps": [
+                    "Create cases",
+                    "Reject contradictions",
+                    "Verify all clues"
+                  ],
+                  "answer": "Only consistent case"
+                }
+              ],
+              "shortcut": "Start with the strongest clue.",
+              "mistakes": "Do not assume a position unless the clue forces it."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-circular-seating-arrangement",
+          "name": "Circular Seating Arrangement",
+          "concepts": [
+            {
+              "title": "Core Method",
+              "simple": "Circular Seating Arrangement is best solved by converting clues into a structured table or diagram instead of keeping everything in memory.",
+              "visual": "Clue 1 + Clue 2 → diagram/table → elimination → answer",
+              "rule": "Use fixed information first, then conditional clues.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A direct Circular Seating Arrangement clue.",
+                  "steps": [
+                    "Place the fixed information"
+                  ],
+                  "answer": "First position established"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-clue Circular Seating Arrangement problem.",
+                  "steps": [
+                    "Combine both clues",
+                    "Eliminate impossible positions"
+                  ],
+                  "answer": "One consistent arrangement"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-clue Circular Seating Arrangement problem.",
+                  "steps": [
+                    "Create cases",
+                    "Reject contradictions",
+                    "Verify all clues"
+                  ],
+                  "answer": "Only consistent case"
+                }
+              ],
+              "shortcut": "Start with the strongest clue.",
+              "mistakes": "Do not assume a position unless the clue forces it."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-floor-puzzle",
+          "name": "Floor Puzzle",
+          "concepts": [
+            {
+              "title": "Core Method",
+              "simple": "Floor Puzzle is best solved by converting clues into a structured table or diagram instead of keeping everything in memory.",
+              "visual": "Clue 1 + Clue 2 → diagram/table → elimination → answer",
+              "rule": "Use fixed information first, then conditional clues.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A direct Floor Puzzle clue.",
+                  "steps": [
+                    "Place the fixed information"
+                  ],
+                  "answer": "First position established"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-clue Floor Puzzle problem.",
+                  "steps": [
+                    "Combine both clues",
+                    "Eliminate impossible positions"
+                  ],
+                  "answer": "One consistent arrangement"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-clue Floor Puzzle problem.",
+                  "steps": [
+                    "Create cases",
+                    "Reject contradictions",
+                    "Verify all clues"
+                  ],
+                  "answer": "Only consistent case"
+                }
+              ],
+              "shortcut": "Start with the strongest clue.",
+              "mistakes": "Do not assume a position unless the clue forces it."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-box-puzzle",
+          "name": "Box Puzzle",
+          "concepts": [
+            {
+              "title": "Core Method",
+              "simple": "Box Puzzle is best solved by converting clues into a structured table or diagram instead of keeping everything in memory.",
+              "visual": "Clue 1 + Clue 2 → diagram/table → elimination → answer",
+              "rule": "Use fixed information first, then conditional clues.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A direct Box Puzzle clue.",
+                  "steps": [
+                    "Place the fixed information"
+                  ],
+                  "answer": "First position established"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-clue Box Puzzle problem.",
+                  "steps": [
+                    "Combine both clues",
+                    "Eliminate impossible positions"
+                  ],
+                  "answer": "One consistent arrangement"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-clue Box Puzzle problem.",
+                  "steps": [
+                    "Create cases",
+                    "Reject contradictions",
+                    "Verify all clues"
+                  ],
+                  "answer": "Only consistent case"
+                }
+              ],
+              "shortcut": "Start with the strongest clue.",
+              "mistakes": "Do not assume a position unless the clue forces it."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-month-and-day-puzzle",
+          "name": "Month & Day Puzzle",
+          "concepts": [
+            {
+              "title": "Core Method",
+              "simple": "Month & Day Puzzle is best solved by converting clues into a structured table or diagram instead of keeping everything in memory.",
+              "visual": "Clue 1 + Clue 2 → diagram/table → elimination → answer",
+              "rule": "Use fixed information first, then conditional clues.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A direct Month & Day Puzzle clue.",
+                  "steps": [
+                    "Place the fixed information"
+                  ],
+                  "answer": "First position established"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-clue Month & Day Puzzle problem.",
+                  "steps": [
+                    "Combine both clues",
+                    "Eliminate impossible positions"
+                  ],
+                  "answer": "One consistent arrangement"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-clue Month & Day Puzzle problem.",
+                  "steps": [
+                    "Create cases",
+                    "Reject contradictions",
+                    "Verify all clues"
+                  ],
+                  "answer": "Only consistent case"
+                }
+              ],
+              "shortcut": "Start with the strongest clue.",
+              "mistakes": "Do not assume a position unless the clue forces it."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-input-output",
+          "name": "Input Output",
+          "concepts": [
+            {
+              "title": "Core Method",
+              "simple": "Input Output is best solved by converting clues into a structured table or diagram instead of keeping everything in memory.",
+              "visual": "Clue 1 + Clue 2 → diagram/table → elimination → answer",
+              "rule": "Use fixed information first, then conditional clues.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A direct Input Output clue.",
+                  "steps": [
+                    "Place the fixed information"
+                  ],
+                  "answer": "First position established"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-clue Input Output problem.",
+                  "steps": [
+                    "Combine both clues",
+                    "Eliminate impossible positions"
+                  ],
+                  "answer": "One consistent arrangement"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-clue Input Output problem.",
+                  "steps": [
+                    "Create cases",
+                    "Reject contradictions",
+                    "Verify all clues"
+                  ],
+                  "answer": "Only consistent case"
+                }
+              ],
+              "shortcut": "Start with the strongest clue.",
+              "mistakes": "Do not assume a position unless the clue forces it."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-statement-and-conclusion",
+          "name": "Statement & Conclusion",
+          "concepts": [
+            {
+              "title": "Core Method",
+              "simple": "Statement & Conclusion is best solved by converting clues into a structured table or diagram instead of keeping everything in memory.",
+              "visual": "Clue 1 + Clue 2 → diagram/table → elimination → answer",
+              "rule": "Use fixed information first, then conditional clues.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A direct Statement & Conclusion clue.",
+                  "steps": [
+                    "Place the fixed information"
+                  ],
+                  "answer": "First position established"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A two-clue Statement & Conclusion problem.",
+                  "steps": [
+                    "Combine both clues",
+                    "Eliminate impossible positions"
+                  ],
+                  "answer": "One consistent arrangement"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A multi-clue Statement & Conclusion problem.",
+                  "steps": [
+                    "Create cases",
+                    "Reject contradictions",
+                    "Verify all clues"
+                  ],
+                  "answer": "Only consistent case"
+                }
+              ],
+              "shortcut": "Start with the strongest clue.",
+              "mistakes": "Do not assume a position unless the clue forces it."
+            }
+          ]
         }
       ]
     },
@@ -574,243 +1665,718 @@
         {
           "id": "english-tenses",
           "name": "Tenses",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "Simple Present",
-                "explanation": "Use for habits and regular actions.",
-                "rule": "I/You/We/They + verb | He/She/It + verb+s",
-                "examples": [
-                  {
-                    "q": "She ___ to work every day",
-                    "steps": [
-                      "Every day = habit",
-                      "She is singular"
-                    ],
-                    "answer": "goes"
-                  },
-                  {
-                    "q": "They ___ cricket on Sundays",
-                    "steps": [
-                      "They is plural"
-                    ],
-                    "answer": "play"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Present Continuous",
-                "explanation": "Use for an action happening now.",
-                "rule": "am/is/are + verb-ing",
-                "examples": [
-                  {
-                    "q": "She ___ now",
-                    "steps": [
-                      "She + is + verb-ing"
-                    ],
-                    "answer": "is reading"
-                  },
-                  {
-                    "q": "They ___ now",
-                    "steps": [
-                      "They + are + verb-ing"
-                    ],
-                    "answer": "are playing"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Simple Past",
-                "explanation": "Use for completed past actions.",
-                "rule": "Subject + past verb",
-                "examples": [
-                  {
-                    "q": "Yesterday I ___ to school",
-                    "steps": [
-                      "Yesterday = past",
-                      "go \u2192 went"
-                    ],
-                    "answer": "went"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Simple Future",
-                "explanation": "Use for future actions.",
-                "rule": "will + base verb",
-                "examples": [
-                  {
-                    "q": "She ___ tomorrow",
-                    "steps": [
-                      "will + go"
-                    ],
-                    "answer": "will go"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "Simple Present",
+              "simple": "Use for habits, routines, facts and schedules.",
+              "visual": "Habit/fact → simple present",
+              "rule": "He/She/It generally takes verb+s/es.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "She ___ every day.",
+                  "steps": [
+                    "Habit",
+                    "She singular"
+                  ],
+                  "answer": "goes"
+                },
+                {
+                  "level": "Easy",
+                  "question": "They ___ cricket.",
+                  "steps": [
+                    "Plural"
+                  ],
+                  "answer": "play"
+                },
+                {
+                  "level": "Medium",
+                  "question": "The train ___ at 6 AM.",
+                  "steps": [
+                    "Schedule"
+                  ],
+                  "answer": "leaves"
+                },
+                {
+                  "level": "Hard",
+                  "question": "Neither of the boys ___ ready.",
+                  "steps": [
+                    "Neither singular"
+                  ],
+                  "answer": "is"
+                }
+              ],
+              "shortcut": "Look for time clues such as every day, usually, always.",
+              "mistakes": "Do not add -s after I/you/we/they."
+            },
+            {
+              "title": "Continuous Tenses",
+              "simple": "Use continuous forms for actions in progress.",
+              "visual": "Subject + be verb + verb-ing",
+              "rule": "Present: am/is/are; Past: was/were.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "She ___ now.",
+                  "steps": [
+                    "She + is + ing"
+                  ],
+                  "answer": "is reading"
+                },
+                {
+                  "level": "Medium",
+                  "question": "They ___ when I arrived.",
+                  "steps": [
+                    "Past action in progress"
+                  ],
+                  "answer": "were playing"
+                },
+                {
+                  "level": "Hard",
+                  "question": "I ___ for two hours when he called.",
+                  "steps": [
+                    "Ongoing past action"
+                  ],
+                  "answer": "was studying"
+                }
+              ],
+              "shortcut": "Look for now, at this moment, while.",
+              "mistakes": "Do not use simple verb after is/are/was/were in continuous tense."
+            }
+          ]
         },
         {
           "id": "english-subject-verb-agreement",
           "name": "Subject Verb Agreement",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "Singular and Plural",
-                "explanation": "A singular subject takes a singular verb form; plural subjects take a plural verb form.",
-                "rule": "He goes | They go",
-                "examples": [
-                  {
-                    "q": "The boy ___ fast",
-                    "steps": [
-                      "Boy is singular"
-                    ],
-                    "answer": "runs"
-                  },
-                  {
-                    "q": "The boys ___ fast",
-                    "steps": [
-                      "Boys is plural"
-                    ],
-                    "answer": "run"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Each and Every",
-                "explanation": "Each and every normally take singular verbs.",
-                "rule": "Each/Every + singular verb",
-                "examples": [
-                  {
-                    "q": "Each student ___ a book",
-                    "steps": [
-                      "Each is singular"
-                    ],
-                    "answer": "has"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "Either and Neither",
-                "explanation": "Used alone, either and neither normally take singular verbs.",
-                "rule": "Either/Neither + singular verb",
-                "examples": [
-                  {
-                    "q": "Neither answer ___ correct",
-                    "steps": [
-                      "Neither is singular"
-                    ],
-                    "answer": "is"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "Find the Real Subject",
+              "simple": "The verb agrees with the grammatical subject, not the nearest noun.",
+              "visual": "Subject → ignore extra 'of...' phrase → choose verb",
+              "rule": "Singular subject takes singular verb.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "The boy ___ fast.",
+                  "steps": [
+                    "Boy singular"
+                  ],
+                  "answer": "runs"
+                },
+                {
+                  "level": "Medium",
+                  "question": "The bouquet of roses ___ beautiful.",
+                  "steps": [
+                    "Subject=bouquet"
+                  ],
+                  "answer": "is"
+                },
+                {
+                  "level": "Hard",
+                  "question": "Neither the teacher nor the students ___ ready.",
+                  "steps": [
+                    "Nearer subject=students"
+                  ],
+                  "answer": "are"
+                }
+              ],
+              "shortcut": "Cross out prepositional phrases temporarily to see the true subject.",
+              "mistakes": "Do not match the verb with a nearby plural noun inside 'of'."
+            }
+          ]
         },
         {
           "id": "english-articles",
           "name": "Articles",
-          "lesson": {
-            "concepts": [
-              {
-                "title": "A and An",
-                "explanation": "Choose based on sound, not only the written first letter.",
-                "rule": "a = consonant sound | an = vowel sound",
-                "examples": [
-                  {
-                    "q": "___ apple",
-                    "steps": [
-                      "Apple begins with vowel sound"
-                    ],
-                    "answer": "an apple"
-                  },
-                  {
-                    "q": "___ university",
-                    "steps": [
-                      "University begins with 'you' sound"
-                    ],
-                    "answer": "a university"
-                  },
-                  {
-                    "q": "___ honest person",
-                    "steps": [
-                      "Honest begins with vowel sound"
-                    ],
-                    "answer": "an honest person"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              },
-              {
-                "title": "The",
-                "explanation": "Use 'the' for something specific or already known.",
-                "rule": "the = specific/known",
-                "examples": [
-                  {
-                    "q": "I saw a dog. ___ dog was friendly",
-                    "steps": [
-                      "Now we know which dog"
-                    ],
-                    "answer": "The dog"
-                  }
-                ],
-                "mistakes": [
-                  "Do not rush into a shortcut before understanding the idea.",
-                  "Write the intermediate step while learning.",
-                  "Check that your answer matches exactly what was asked."
-                ],
-                "quick": "Explain the idea in your own words, then check the solved examples once more."
-              }
-            ]
-          }
+          "concepts": [
+            {
+              "title": "A, An and The",
+              "simple": "Choose a/an by sound, not spelling. Use the for a specific or already identified noun.",
+              "visual": "vowel SOUND → an\nconsonant SOUND → a",
+              "rule": "Sound matters more than first letter.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "___ apple",
+                  "steps": [
+                    "Vowel sound"
+                  ],
+                  "answer": "an"
+                },
+                {
+                  "level": "Medium",
+                  "question": "___ university",
+                  "steps": [
+                    "Starts with 'you' sound"
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "level": "Medium",
+                  "question": "___ honest man",
+                  "steps": [
+                    "Silent h; vowel sound"
+                  ],
+                  "answer": "an"
+                },
+                {
+                  "level": "Hard",
+                  "question": "I saw a dog. ___ dog was friendly.",
+                  "steps": [
+                    "Second mention = specific"
+                  ],
+                  "answer": "The"
+                }
+              ],
+              "shortcut": "Say the word aloud if unsure.",
+              "mistakes": "Do not automatically use 'an' before every word beginning with a vowel letter."
+            }
+          ]
+        },
+        {
+          "id": "english-parts-of-speech",
+          "name": "Parts of Speech",
+          "concepts": [
+            {
+              "title": "Recognise the Job of Each Word",
+              "simple": "Ask what the word is doing: naming, replacing, describing, showing action, or linking.",
+              "visual": "Noun=name\nPronoun=replaces\nVerb=action/state\nAdjective=describes noun",
+              "rule": "Meaning and position together identify the part of speech.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "Ravi runs fast.",
+                  "steps": [
+                    "Ravi=name",
+                    "runs=action",
+                    "fast describes how"
+                  ],
+                  "answer": "Noun, verb, adverb"
+                },
+                {
+                  "level": "Medium",
+                  "question": "The beautiful house is large.",
+                  "steps": [
+                    "beautiful describes house",
+                    "house=noun"
+                  ],
+                  "answer": "Adjective, noun"
+                },
+                {
+                  "level": "Hard",
+                  "question": "She quickly completed the difficult task.",
+                  "steps": [
+                    "She replaces noun",
+                    "quickly modifies completed",
+                    "difficult describes task"
+                  ],
+                  "answer": "Pronoun, adverb, adjective"
+                }
+              ],
+              "shortcut": "Ask 'what does this word describe or modify?'",
+              "mistakes": "One word can play different roles in different sentences."
+            }
+          ]
+        },
+        {
+          "id": "english-prepositions",
+          "name": "Prepositions",
+          "concepts": [
+            {
+              "title": "Relationship Words",
+              "simple": "Prepositions show relationships of place, time, direction or connection.",
+              "visual": "in / on / at → context matters",
+              "rule": "Time: at clock, on day/date, in month/year.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "The book is ___ the table.",
+                  "steps": [
+                    "Surface"
+                  ],
+                  "answer": "on"
+                },
+                {
+                  "level": "Medium",
+                  "question": "Meeting ___ 5 PM.",
+                  "steps": [
+                    "Exact clock time"
+                  ],
+                  "answer": "at"
+                },
+                {
+                  "level": "Hard",
+                  "question": "She has lived here ___ 2020.",
+                  "steps": [
+                    "Starting point"
+                  ],
+                  "answer": "since"
+                }
+              ],
+              "shortcut": "Build small groups: at 5, on Monday, in June.",
+              "mistakes": "Do not translate directly from Tamil; English usage must be learned as patterns."
+            }
+          ]
+        },
+        {
+          "id": "english-pronouns",
+          "name": "Pronouns",
+          "concepts": [
+            {
+              "title": "Pronoun Reference",
+              "simple": "A pronoun replaces a noun and must agree in number/person with its reference.",
+              "visual": "Noun → matching pronoun",
+              "rule": "Check who/what the pronoun refers to.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "Ravi lost ___ book.",
+                  "steps": [
+                    "Ravi singular male"
+                  ],
+                  "answer": "his"
+                },
+                {
+                  "level": "Medium",
+                  "question": "Each student brought ___ ID.",
+                  "steps": [
+                    "Each is singular"
+                  ],
+                  "answer": "his or her"
+                },
+                {
+                  "level": "Hard",
+                  "question": "The committee gave ___ decision.",
+                  "steps": [
+                    "Committee as unit"
+                  ],
+                  "answer": "its"
+                }
+              ],
+              "shortcut": "Find the antecedent before choosing the pronoun.",
+              "mistakes": "Do not let a nearby noun confuse the reference."
+            }
+          ]
+        },
+        {
+          "id": "english-conjunctions",
+          "name": "Conjunctions",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Conjunctions requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Conjunctions sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Conjunctions sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Conjunctions sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
+        },
+        {
+          "id": "english-error-detection",
+          "name": "Error Detection",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Error Detection requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Error Detection sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Error Detection sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Error Detection sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
+        },
+        {
+          "id": "english-fill-in-the-blanks",
+          "name": "Fill in the Blanks",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Fill in the Blanks requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Fill in the Blanks sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Fill in the Blanks sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Fill in the Blanks sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
+        },
+        {
+          "id": "english-cloze-test",
+          "name": "Cloze Test",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Cloze Test requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Cloze Test sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Cloze Test sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Cloze Test sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
+        },
+        {
+          "id": "english-sentence-improvement",
+          "name": "Sentence Improvement",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Sentence Improvement requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Sentence Improvement sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Sentence Improvement sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Sentence Improvement sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
+        },
+        {
+          "id": "english-para-jumbles",
+          "name": "Para Jumbles",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Para Jumbles requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Para Jumbles sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Para Jumbles sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Para Jumbles sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
+        },
+        {
+          "id": "english-reading-comprehension",
+          "name": "Reading Comprehension",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Reading Comprehension requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Reading Comprehension sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Reading Comprehension sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Reading Comprehension sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
+        },
+        {
+          "id": "english-vocabulary",
+          "name": "Vocabulary",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Vocabulary requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Vocabulary sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Vocabulary sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Vocabulary sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
+        },
+        {
+          "id": "english-active-passive-voice",
+          "name": "Active Passive Voice",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Active Passive Voice requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Active Passive Voice sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Active Passive Voice sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Active Passive Voice sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
+        },
+        {
+          "id": "english-direct-indirect-speech",
+          "name": "Direct Indirect Speech",
+          "concepts": [
+            {
+              "title": "Core Skill",
+              "simple": "Direct Indirect Speech requires understanding the sentence before selecting an answer. Grammar rules support meaning; they do not replace reading.",
+              "visual": "Read full sentence → identify clue → apply rule → reread",
+              "rule": "Meaning + grammar together give the answer.",
+              "examples": [
+                {
+                  "level": "Easy",
+                  "question": "A basic Direct Indirect Speech sentence.",
+                  "steps": [
+                    "Identify the key grammar clue"
+                  ],
+                  "answer": "Correct basic form"
+                },
+                {
+                  "level": "Medium",
+                  "question": "A contextual Direct Indirect Speech sentence.",
+                  "steps": [
+                    "Check grammar",
+                    "Check meaning"
+                  ],
+                  "answer": "Best contextual answer"
+                },
+                {
+                  "level": "Hard",
+                  "question": "A tricky Direct Indirect Speech sentence.",
+                  "steps": [
+                    "Eliminate clearly wrong choices",
+                    "Compare remaining choices"
+                  ],
+                  "answer": "Most precise answer"
+                }
+              ],
+              "shortcut": "Read the entire sentence before choosing.",
+              "mistakes": "Do not select an option only because it sounds familiar."
+            }
+          ]
         }
       ]
     }

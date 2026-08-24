@@ -1,7 +1,30 @@
-# Bank Zero → Hero Learn Fix
-Upload the extracted contents directly into the GitHub repository root.
-Included taught topics:
-- Quant: Percentage, Ratio & Proportion, Average, Profit & Loss
-- Reasoning: Direction Sense, Blood Relations, Syllogism
-- English: Tenses, Subject-Verb Agreement, Articles
-Every lesson has explanation, rule, worked examples and common mistakes.
+# Bank Zero → Hero V6 MAX CONTENT
+
+## Included
+- Today
+- Learn
+- Practice
+- Revision
+- Progress
+- Previous Papers area
+- Detailed concept lessons
+- Visual flows
+- Rules/formulas
+- Worked Easy / Medium / Hard examples
+- Shortcuts and common mistakes
+- 30-question practice sessions
+- Correct questions do not repeat
+- Wrong/skipped questions go to revision
+
+## Upload
+Extract this ZIP and upload its contents to the ROOT of the GitHub repository:
+index.html
+css/
+js/
+data/
+README.md
+
+Then commit. Netlify will redeploy automatically.
+
+## Content structure
+The content JSON is deliberately separated from UI code so future lesson expansion can happen without redesigning the application.
