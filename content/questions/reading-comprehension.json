@@ -2,21 +2,1623 @@
   "topic": "Reading Comprehension",
   "questions": [
     {
-      "id": "reading-comprehension-read-for-structure-medium-21",
+      "id": "reading-comprehension-easy-001",
       "topic": "Reading Comprehension",
-      "subtopic": "Read for structure",
-      "level": "Medium",
-      "question": "For a main-idea question, the best answer is usually:",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
       "options": [
-        "A minor example",
-        "The broad idea supported by the whole passage",
-        "The first sentence only",
-        "Outside knowledge"
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
       ],
-      "answer": "The broad idea supported by the whole passage",
+      "answer": "Technology improves banking access and speed.",
       "solution": [
-        "Main idea summarizes the central message",
-        "It should be supported across the passage"
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-002",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-003",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-004",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-005",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-006",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-007",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-008",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-009",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-010",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-011",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-012",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-013",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-014",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-015",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-016",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-017",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-018",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-019",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-020",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-021",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-022",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-023",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-024",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-025",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-026",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-027",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-028",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-029",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-easy-030",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Easy",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-031",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-032",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-033",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-034",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-035",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-036",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-037",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-038",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-039",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-040",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-041",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-042",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-043",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-044",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-045",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-046",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-047",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-048",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-049",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-050",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-051",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-052",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-053",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-054",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-055",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-056",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-057",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-058",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-059",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-medium-060",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Medium",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-061",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-062",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-063",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-064",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-065",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-066",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-067",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-068",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-069",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-070",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-071",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-072",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-073",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-074",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-075",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-076",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-077",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-078",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-079",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-080",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-081",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-082",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-083",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-084",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-085",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-086",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-087",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-088",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Banks use technology to make services faster and more accessible. Digital systems can reduce waiting time, but customers still need clear guidance. What is the main idea?",
+      "options": [
+        "Technology improves banking access and speed.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Technology improves banking access and speed.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-089",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "Saving regularly helps people handle emergencies and plan for future goals. Even small, consistent amounts can grow over time. What is the central message?",
+      "options": [
+        "Consistent saving supports future financial security.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "Consistent saving supports future financial security.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
+      ]
+    },
+    {
+      "id": "reading-comprehension-hard-090",
+      "topic": "Reading Comprehension",
+      "subtopic": "Main idea and inference",
+      "level": "Hard",
+      "question": "A good study plan balances learning, practice and revision. Practice alone cannot replace understanding, and revision helps retain what was learned. What does the passage emphasize?",
+      "options": [
+        "A balanced cycle of learning, practice and revision.",
+        "Technology is unnecessary",
+        "Practice should be avoided",
+        "Saving has no long-term benefit"
+      ],
+      "answer": "A balanced cycle of learning, practice and revision.",
+      "solution": [
+        "Read the whole passage",
+        "Choose the statement covering the central idea"
       ]
     }
   ]

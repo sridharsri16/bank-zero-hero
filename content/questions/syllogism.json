@@ -2,41 +2,1713 @@
   "topic": "Syllogism",
   "questions": [
     {
-      "id": "syllogism-set-diagrams-hard-14",
+      "id": "syllogism-easy-001",
       "topic": "Syllogism",
-      "subtopic": "Set diagrams",
-      "level": "Hard",
-      "question": "Statements: All A are B. No B is C. Which conclusion definitely follows?",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
       "options": [
-        "Some A are C",
-        "No A is C",
-        "Some C are A",
-        "All C are A"
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
       ],
-      "answer": "No A is C",
+      "answer": "All A are C",
       "solution": [
-        "A is inside B",
-        "B and C are separate",
-        "So A and C cannot overlap"
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
       ]
     },
     {
-      "id": "syllogism-set-diagrams-medium-29",
+      "id": "syllogism-easy-002",
       "topic": "Syllogism",
-      "subtopic": "Set diagrams",
-      "level": "Medium",
-      "question": "Some A are B. All B are C. Which follows?",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-003",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
       "options": [
         "Some A are C",
-        "All A are C",
-        "No A is C",
-        "Some C are B"
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
       ],
-      "answer": "Some C are B",
+      "answer": "Some A are C",
       "solution": [
-        "Some B exist because some A are B",
-        "All B are C, so those B are C",
-        "Thus some C are B"
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-004",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-005",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-006",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-007",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-008",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-009",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-010",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-011",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-012",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-013",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-014",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-015",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-016",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-017",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-018",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-019",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-020",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-021",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-022",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-023",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-024",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-025",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-026",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-027",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-028",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-easy-029",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-easy-030",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Easy",
+      "question": "Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-031",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-032",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-033",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-034",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-035",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-036",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-037",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-038",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-039",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-040",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-041",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-042",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-043",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-044",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-045",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-046",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-047",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-048",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-049",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-050",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-051",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-052",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-053",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-054",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-055",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-056",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-057",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-058",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-medium-059",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-medium-060",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Medium",
+      "question": "Consider the statements: Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-061",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-062",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-063",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-064",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-065",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-066",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-067",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-068",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-069",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-070",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-071",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-072",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-073",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-074",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-075",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-076",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-077",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-078",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-079",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-080",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-081",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-082",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-083",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-084",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-085",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-086",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-087",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-088",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. All A are B. All B are C. Which conclusion definitely follows?",
+      "options": [
+        "All A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "All A are C",
+      "solution": [
+        "A is fully inside B",
+        "B is fully inside C",
+        "Therefore A is fully inside C"
+      ]
+    },
+    {
+      "id": "syllogism-hard-089",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. No A is B. Some C are A. Which conclusion definitely follows?",
+      "options": [
+        "Some C are not B",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some C are not B",
+      "solution": [
+        "Some C belong to A",
+        "No A belongs to B",
+        "Those C cannot be B"
+      ]
+    },
+    {
+      "id": "syllogism-hard-090",
+      "topic": "Syllogism",
+      "subtopic": "Statement and conclusion",
+      "level": "Hard",
+      "question": "Use Venn-diagram logic. Some A are B. All B are C. Which conclusion follows?",
+      "options": [
+        "Some A are C",
+        "All B are A",
+        "Some B are not C",
+        "No conclusion follows"
+      ],
+      "answer": "Some A are C",
+      "solution": [
+        "At least one A is B",
+        "Every B is C",
+        "That A is also C"
       ]
     }
   ]

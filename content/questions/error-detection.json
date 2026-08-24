@@ -2,38 +2,1623 @@
   "topic": "Error Detection",
   "questions": [
     {
-      "id": "error-detection-a-checking-sequence-hard-20",
+      "id": "error-detection-easy-001",
       "topic": "Error Detection",
-      "subtopic": "A checking sequence",
-      "level": "Hard",
-      "question": "Choose the correction: 'Each of the books have a cover.'",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'He do not like tea.'",
       "options": [
-        "have→has",
-        "Each→All",
-        "books→book",
-        "No error"
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
       ],
-      "answer": "have→has",
+      "answer": "He does not like tea.",
       "solution": [
-        "Main subject is Each",
-        "Each is singular"
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
       ]
     },
     {
-      "id": "error-detection-a-checking-sequence-medium-34",
+      "id": "error-detection-easy-002",
       "topic": "Error Detection",
-      "subtopic": "A checking sequence",
-      "level": "Medium",
-      "question": "Choose: 'The news ___ surprising.'",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'She have finished her work.'",
       "options": [
-        "are",
-        "is",
-        "have",
-        "were"
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
       ],
-      "answer": "is",
+      "answer": "She has finished her work.",
       "solution": [
-        "News is grammatically singular"
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-easy-003",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-easy-004",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-easy-005",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-easy-006",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-easy-007",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-easy-008",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-easy-009",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-easy-010",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-easy-011",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-easy-012",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-easy-013",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-easy-014",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-easy-015",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-easy-016",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-easy-017",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-easy-018",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-easy-019",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-easy-020",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-easy-021",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-easy-022",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-easy-023",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-easy-024",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-easy-025",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-easy-026",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-easy-027",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-easy-028",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-easy-029",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-easy-030",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Easy",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-medium-031",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-medium-032",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-medium-033",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-medium-034",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-medium-035",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-medium-036",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-medium-037",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-medium-038",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-medium-039",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-medium-040",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-medium-041",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-medium-042",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-medium-043",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-medium-044",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-medium-045",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-medium-046",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-medium-047",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-medium-048",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-medium-049",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-medium-050",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-medium-051",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-medium-052",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-medium-053",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-medium-054",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-medium-055",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-medium-056",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-medium-057",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-medium-058",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-medium-059",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-medium-060",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Medium",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-hard-061",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-hard-062",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-hard-063",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-hard-064",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-hard-065",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-hard-066",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-hard-067",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-hard-068",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-hard-069",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-hard-070",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-hard-071",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-hard-072",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-hard-073",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-hard-074",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-hard-075",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-hard-076",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-hard-077",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-hard-078",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-hard-079",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-hard-080",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-hard-081",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-hard-082",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-hard-083",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-hard-084",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-hard-085",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-hard-086",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
+      ]
+    },
+    {
+      "id": "error-detection-hard-087",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'Each of the boys are present.'",
+      "options": [
+        "Each of the boys is present.",
+        "Each of the boys are present.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "Each of the boys is present.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: Each of the boys is present."
+      ]
+    },
+    {
+      "id": "error-detection-hard-088",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'I am living here since 2020.'",
+      "options": [
+        "I have been living here since 2020.",
+        "I am living here since 2020.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "I have been living here since 2020.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: I have been living here since 2020."
+      ]
+    },
+    {
+      "id": "error-detection-hard-089",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'He do not like tea.'",
+      "options": [
+        "He does not like tea.",
+        "He do not like tea.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "He does not like tea.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: He does not like tea."
+      ]
+    },
+    {
+      "id": "error-detection-hard-090",
+      "topic": "Error Detection",
+      "subtopic": "Grammar correction",
+      "level": "Hard",
+      "question": "Choose the correct version of: 'She have finished her work.'",
+      "options": [
+        "She has finished her work.",
+        "She have finished her work.",
+        "No error",
+        "Both are correct"
+      ],
+      "answer": "She has finished her work.",
+      "solution": [
+        "Identify the grammar error",
+        "Correct form: She has finished her work."
       ]
     }
   ]

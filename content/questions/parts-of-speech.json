@@ -2,38 +2,1623 @@
   "topic": "Parts of Speech",
   "questions": [
     {
-      "id": "parts-of-speech-word-jobs-easy-16",
+      "id": "parts-of-speech-easy-001",
       "topic": "Parts of Speech",
-      "subtopic": "Word jobs",
+      "subtopic": "Word classes",
       "level": "Easy",
-      "question": "In 'She sings beautifully', what part of speech is 'beautifully'?",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-002",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-003",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'teacher'.",
       "options": [
         "Noun",
         "Verb",
         "Adjective",
-        "Adverb"
-      ],
-      "answer": "Adverb",
-      "solution": [
-        "It modifies the verb 'sings' by telling how"
-      ]
-    },
-    {
-      "id": "parts-of-speech-word-jobs-hard-31",
-      "topic": "Parts of Speech",
-      "subtopic": "Word jobs",
-      "level": "Hard",
-      "question": "In 'Walking is healthy', the word 'Walking' functions as:",
-      "options": [
-        "Verb",
-        "Noun",
-        "Adverb",
-        "Preposition"
+        "Cannot be determined"
       ],
       "answer": "Noun",
       "solution": [
-        "The activity is acting as the subject",
-        "A gerund functions as a noun"
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-004",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-005",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-006",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-007",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-008",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-009",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-010",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-011",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-012",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-013",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-014",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-015",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-016",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-017",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-018",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-019",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-020",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-021",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-022",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-023",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-024",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-025",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-026",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-027",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-028",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-029",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-easy-030",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Easy",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-031",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-032",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-033",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-034",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-035",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-036",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-037",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-038",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-039",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-040",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-041",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-042",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-043",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-044",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-045",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-046",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-047",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-048",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-049",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-050",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-051",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-052",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-053",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-054",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-055",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-056",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-057",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-058",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-059",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-medium-060",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Medium",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-061",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-062",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-063",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-064",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-065",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-066",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-067",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-068",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-069",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-070",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-071",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-072",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-073",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-074",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-075",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-076",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-077",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-078",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-079",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-080",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-081",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-082",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-083",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-084",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-085",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'quickly'.",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'quickly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-086",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'beautiful'.",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Verb",
+        "Cannot be determined"
+      ],
+      "answer": "Adjective",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'beautiful' is used as a adjective"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-087",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'teacher'.",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Cannot be determined"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'teacher' is used as a noun"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-088",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of the word 'honestly' in: 'She spoke honestly.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'honestly' is used as a adverb"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-089",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'and'.",
+      "options": [
+        "Conjunction",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Conjunction",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'and' is used as a conjunction"
+      ]
+    },
+    {
+      "id": "parts-of-speech-hard-090",
+      "topic": "Parts of Speech",
+      "subtopic": "Word classes",
+      "level": "Hard",
+      "question": "Identify the part of speech of 'under'.",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "answer": "Preposition",
+      "solution": [
+        "Look at how the word functions in the sentence",
+        "'under' is used as a preposition"
       ]
     }
   ]

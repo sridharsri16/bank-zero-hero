@@ -2,21 +2,1623 @@
   "topic": "Subject Verb Agreement",
   "questions": [
     {
-      "id": "subject-verb-agreement-find-the-true-subject-hard-18",
+      "id": "subject-verb-agreement-easy-001",
       "topic": "Subject Verb Agreement",
-      "subtopic": "Find the true subject",
-      "level": "Hard",
-      "question": "Choose: 'Neither the manager nor the employees ___ available.'",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The list of items ___ on the table.",
       "options": [
         "is",
         "are",
-        "was",
-        "has"
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-002",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
       ],
       "answer": "are",
       "solution": [
-        "With neither...nor, verb agrees with nearer subject",
-        "Employees is plural"
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-003",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-004",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-005",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-006",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-007",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-008",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-009",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-010",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-011",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-012",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-013",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-014",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-015",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-016",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-017",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-018",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-019",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-020",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-021",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-022",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-023",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-024",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-025",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-026",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-027",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-028",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-029",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-easy-030",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Easy",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-031",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-032",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-033",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-034",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-035",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-036",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-037",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-038",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-039",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-040",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-041",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-042",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-043",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-044",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-045",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-046",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-047",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-048",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-049",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-050",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-051",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-052",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-053",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-054",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-055",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-056",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-057",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-058",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-059",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-medium-060",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Medium",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-061",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-062",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-063",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-064",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-065",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-066",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-067",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-068",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-069",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-070",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-071",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-072",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-073",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-074",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-075",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-076",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-077",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-078",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-079",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-080",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-081",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-082",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-083",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-084",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-085",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-086",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-087",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "Neither of the answers ___ correct.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-088",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "A pair of shoes ___ under the bed.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-089",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The list of items ___ on the table.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "answer": "is",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: is"
+      ]
+    },
+    {
+      "id": "subject-verb-agreement-hard-090",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Agreement rules",
+      "level": "Hard",
+      "question": "The players ___ ready.",
+      "options": [
+        "are",
+        "were",
+        "be",
+        "Cannot be determined"
+      ],
+      "answer": "are",
+      "solution": [
+        "Find the true grammatical subject",
+        "Choose the verb agreeing with it: are"
       ]
     }
   ]

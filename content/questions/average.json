@@ -2,59 +2,1683 @@
   "topic": "Average",
   "questions": [
     {
-      "id": "average-average-as-equal-sharing-easy-7",
+      "id": "average-easy-001",
       "topic": "Average",
-      "subtopic": "Average as equal sharing",
+      "subtopic": "Average applications",
       "level": "Easy",
-      "question": "The average of 14, 18 and x is 20. Find x.",
+      "question": "Find the average of 10, 20, 30, 40.",
       "options": [
-        "24",
+        "25",
         "26",
+        "24",
+        "Cannot be determined"
+      ],
+      "answer": "25",
+      "solution": [
+        "Sum = 100",
+        "Average = 100/4 = 25"
+      ]
+    },
+    {
+      "id": "average-easy-002",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 11, 21, 31, 41.",
+      "options": [
+        "26",
+        "27",
+        "25",
+        "Cannot be determined"
+      ],
+      "answer": "26",
+      "solution": [
+        "Sum = 104",
+        "Average = 104/4 = 26"
+      ]
+    },
+    {
+      "id": "average-easy-003",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 12, 22, 32, 42.",
+      "options": [
+        "27",
         "28",
-        "30"
+        "26",
+        "Cannot be determined"
+      ],
+      "answer": "27",
+      "solution": [
+        "Sum = 108",
+        "Average = 108/4 = 27"
+      ]
+    },
+    {
+      "id": "average-easy-004",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 13, 23, 33, 43.",
+      "options": [
+        "28",
+        "29",
+        "27",
+        "Cannot be determined"
       ],
       "answer": "28",
       "solution": [
-        "Required total=60",
-        "Known total=32",
-        "x=28"
+        "Sum = 112",
+        "Average = 112/4 = 28"
       ]
     },
     {
-      "id": "average-combined-and-replacement-average-hard-8",
+      "id": "average-easy-005",
       "topic": "Average",
-      "subtopic": "Combined and replacement average",
-      "level": "Hard",
-      "question": "10 numbers have average 40. One number 25 is replaced by 55. New average?",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 14, 24, 34, 44.",
       "options": [
-        "40",
-        "41",
-        "42",
-        "43"
+        "29",
+        "30",
+        "28",
+        "Cannot be determined"
       ],
-      "answer": "43",
+      "answer": "29",
       "solution": [
-        "Total rises by 30",
-        "Average rises by 30/10=3",
-        "40+3=43"
+        "Sum = 116",
+        "Average = 116/4 = 29"
       ]
     },
     {
-      "id": "average-average-as-equal-sharing-medium-25",
+      "id": "average-easy-006",
       "topic": "Average",
-      "subtopic": "Average as equal sharing",
-      "level": "Medium",
-      "question": "Average of five consecutive odd numbers is 31. Largest number?",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 15, 25, 35, 45.",
+      "options": [
+        "30",
+        "31",
+        "29",
+        "Cannot be determined"
+      ],
+      "answer": "30",
+      "solution": [
+        "Sum = 120",
+        "Average = 120/4 = 30"
+      ]
+    },
+    {
+      "id": "average-easy-007",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 16, 26, 36, 46.",
+      "options": [
+        "31",
+        "32",
+        "30",
+        "Cannot be determined"
+      ],
+      "answer": "31",
+      "solution": [
+        "Sum = 124",
+        "Average = 124/4 = 31"
+      ]
+    },
+    {
+      "id": "average-easy-008",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 17, 27, 37, 47.",
+      "options": [
+        "32",
+        "33",
+        "31",
+        "Cannot be determined"
+      ],
+      "answer": "32",
+      "solution": [
+        "Sum = 128",
+        "Average = 128/4 = 32"
+      ]
+    },
+    {
+      "id": "average-easy-009",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 18, 28, 38, 48.",
       "options": [
         "33",
+        "34",
+        "32",
+        "Cannot be determined"
+      ],
+      "answer": "33",
+      "solution": [
+        "Sum = 132",
+        "Average = 132/4 = 33"
+      ]
+    },
+    {
+      "id": "average-easy-010",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 19, 29, 39, 49.",
+      "options": [
+        "34",
         "35",
-        "37",
-        "39"
+        "33",
+        "Cannot be determined"
+      ],
+      "answer": "34",
+      "solution": [
+        "Sum = 136",
+        "Average = 136/4 = 34"
+      ]
+    },
+    {
+      "id": "average-easy-011",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 20, 30, 40, 50.",
+      "options": [
+        "35",
+        "36",
+        "34",
+        "Cannot be determined"
       ],
       "answer": "35",
       "solution": [
-        "Middle=31",
-        "Numbers 27,29,31,33,35"
+        "Sum = 140",
+        "Average = 140/4 = 35"
+      ]
+    },
+    {
+      "id": "average-easy-012",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 21, 31, 41, 51.",
+      "options": [
+        "36",
+        "37",
+        "35",
+        "Cannot be determined"
+      ],
+      "answer": "36",
+      "solution": [
+        "Sum = 144",
+        "Average = 144/4 = 36"
+      ]
+    },
+    {
+      "id": "average-easy-013",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 22, 32, 42, 52.",
+      "options": [
+        "37",
+        "38",
+        "36",
+        "Cannot be determined"
+      ],
+      "answer": "37",
+      "solution": [
+        "Sum = 148",
+        "Average = 148/4 = 37"
+      ]
+    },
+    {
+      "id": "average-easy-014",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 23, 33, 43, 53.",
+      "options": [
+        "38",
+        "39",
+        "37",
+        "Cannot be determined"
+      ],
+      "answer": "38",
+      "solution": [
+        "Sum = 152",
+        "Average = 152/4 = 38"
+      ]
+    },
+    {
+      "id": "average-easy-015",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 24, 34, 44, 54.",
+      "options": [
+        "39",
+        "40",
+        "38",
+        "Cannot be determined"
+      ],
+      "answer": "39",
+      "solution": [
+        "Sum = 156",
+        "Average = 156/4 = 39"
+      ]
+    },
+    {
+      "id": "average-easy-016",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 25, 35, 45, 55.",
+      "options": [
+        "40",
+        "41",
+        "39",
+        "Cannot be determined"
+      ],
+      "answer": "40",
+      "solution": [
+        "Sum = 160",
+        "Average = 160/4 = 40"
+      ]
+    },
+    {
+      "id": "average-easy-017",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 26, 36, 46, 56.",
+      "options": [
+        "41",
+        "42",
+        "40",
+        "Cannot be determined"
+      ],
+      "answer": "41",
+      "solution": [
+        "Sum = 164",
+        "Average = 164/4 = 41"
+      ]
+    },
+    {
+      "id": "average-easy-018",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 27, 37, 47, 57.",
+      "options": [
+        "42",
+        "43",
+        "41",
+        "Cannot be determined"
+      ],
+      "answer": "42",
+      "solution": [
+        "Sum = 168",
+        "Average = 168/4 = 42"
+      ]
+    },
+    {
+      "id": "average-easy-019",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 28, 38, 48, 58.",
+      "options": [
+        "43",
+        "44",
+        "42",
+        "Cannot be determined"
+      ],
+      "answer": "43",
+      "solution": [
+        "Sum = 172",
+        "Average = 172/4 = 43"
+      ]
+    },
+    {
+      "id": "average-easy-020",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 29, 39, 49, 59.",
+      "options": [
+        "44",
+        "45",
+        "43",
+        "Cannot be determined"
+      ],
+      "answer": "44",
+      "solution": [
+        "Sum = 176",
+        "Average = 176/4 = 44"
+      ]
+    },
+    {
+      "id": "average-easy-021",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 30, 40, 50, 60.",
+      "options": [
+        "45",
+        "46",
+        "44",
+        "Cannot be determined"
+      ],
+      "answer": "45",
+      "solution": [
+        "Sum = 180",
+        "Average = 180/4 = 45"
+      ]
+    },
+    {
+      "id": "average-easy-022",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 31, 41, 51, 61.",
+      "options": [
+        "46",
+        "47",
+        "45",
+        "Cannot be determined"
+      ],
+      "answer": "46",
+      "solution": [
+        "Sum = 184",
+        "Average = 184/4 = 46"
+      ]
+    },
+    {
+      "id": "average-easy-023",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 32, 42, 52, 62.",
+      "options": [
+        "47",
+        "48",
+        "46",
+        "Cannot be determined"
+      ],
+      "answer": "47",
+      "solution": [
+        "Sum = 188",
+        "Average = 188/4 = 47"
+      ]
+    },
+    {
+      "id": "average-easy-024",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 33, 43, 53, 63.",
+      "options": [
+        "48",
+        "49",
+        "47",
+        "Cannot be determined"
+      ],
+      "answer": "48",
+      "solution": [
+        "Sum = 192",
+        "Average = 192/4 = 48"
+      ]
+    },
+    {
+      "id": "average-easy-025",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 34, 44, 54, 64.",
+      "options": [
+        "49",
+        "50",
+        "48",
+        "Cannot be determined"
+      ],
+      "answer": "49",
+      "solution": [
+        "Sum = 196",
+        "Average = 196/4 = 49"
+      ]
+    },
+    {
+      "id": "average-easy-026",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 35, 45, 55, 65.",
+      "options": [
+        "50",
+        "51",
+        "49",
+        "Cannot be determined"
+      ],
+      "answer": "50",
+      "solution": [
+        "Sum = 200",
+        "Average = 200/4 = 50"
+      ]
+    },
+    {
+      "id": "average-easy-027",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 36, 46, 56, 66.",
+      "options": [
+        "51",
+        "52",
+        "50",
+        "Cannot be determined"
+      ],
+      "answer": "51",
+      "solution": [
+        "Sum = 204",
+        "Average = 204/4 = 51"
+      ]
+    },
+    {
+      "id": "average-easy-028",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 37, 47, 57, 67.",
+      "options": [
+        "52",
+        "53",
+        "51",
+        "Cannot be determined"
+      ],
+      "answer": "52",
+      "solution": [
+        "Sum = 208",
+        "Average = 208/4 = 52"
+      ]
+    },
+    {
+      "id": "average-easy-029",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 38, 48, 58, 68.",
+      "options": [
+        "53",
+        "54",
+        "52",
+        "Cannot be determined"
+      ],
+      "answer": "53",
+      "solution": [
+        "Sum = 212",
+        "Average = 212/4 = 53"
+      ]
+    },
+    {
+      "id": "average-easy-030",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Easy",
+      "question": "Find the average of 39, 49, 59, 69.",
+      "options": [
+        "54",
+        "55",
+        "53",
+        "Cannot be determined"
+      ],
+      "answer": "54",
+      "solution": [
+        "Sum = 216",
+        "Average = 216/4 = 54"
+      ]
+    },
+    {
+      "id": "average-medium-031",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 5 numbers is 20. If 40 is added, what is the new average?",
+      "options": [
+        "23.3333",
+        "24.3333",
+        "22.3333",
+        "Cannot be determined"
+      ],
+      "answer": "23.3333",
+      "solution": [
+        "Old sum = 5 × 20 = 100",
+        "New sum = 100+40 = 140",
+        "New average = 140/6 = 23.3333"
+      ]
+    },
+    {
+      "id": "average-medium-032",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 6 numbers is 21. If 41 is added, what is the new average?",
+      "options": [
+        "23.8571",
+        "24.8571",
+        "22.8571",
+        "Cannot be determined"
+      ],
+      "answer": "23.8571",
+      "solution": [
+        "Old sum = 6 × 21 = 126",
+        "New sum = 126+41 = 167",
+        "New average = 167/7 = 23.8571"
+      ]
+    },
+    {
+      "id": "average-medium-033",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 7 numbers is 22. If 42 is added, what is the new average?",
+      "options": [
+        "24.5",
+        "25.5",
+        "23.5",
+        "Cannot be determined"
+      ],
+      "answer": "24.5",
+      "solution": [
+        "Old sum = 7 × 22 = 154",
+        "New sum = 154+42 = 196",
+        "New average = 196/8 = 24.5"
+      ]
+    },
+    {
+      "id": "average-medium-034",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 8 numbers is 23. If 43 is added, what is the new average?",
+      "options": [
+        "25.2222",
+        "26.2222",
+        "24.2222",
+        "Cannot be determined"
+      ],
+      "answer": "25.2222",
+      "solution": [
+        "Old sum = 8 × 23 = 184",
+        "New sum = 184+43 = 227",
+        "New average = 227/9 = 25.2222"
+      ]
+    },
+    {
+      "id": "average-medium-035",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 9 numbers is 24. If 44 is added, what is the new average?",
+      "options": [
+        "26",
+        "27",
+        "25",
+        "Cannot be determined"
+      ],
+      "answer": "26",
+      "solution": [
+        "Old sum = 9 × 24 = 216",
+        "New sum = 216+44 = 260",
+        "New average = 260/10 = 26"
+      ]
+    },
+    {
+      "id": "average-medium-036",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 5 numbers is 25. If 45 is added, what is the new average?",
+      "options": [
+        "28.3333",
+        "29.3333",
+        "27.3333",
+        "Cannot be determined"
+      ],
+      "answer": "28.3333",
+      "solution": [
+        "Old sum = 5 × 25 = 125",
+        "New sum = 125+45 = 170",
+        "New average = 170/6 = 28.3333"
+      ]
+    },
+    {
+      "id": "average-medium-037",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 6 numbers is 26. If 46 is added, what is the new average?",
+      "options": [
+        "28.8571",
+        "29.8571",
+        "27.8571",
+        "Cannot be determined"
+      ],
+      "answer": "28.8571",
+      "solution": [
+        "Old sum = 6 × 26 = 156",
+        "New sum = 156+46 = 202",
+        "New average = 202/7 = 28.8571"
+      ]
+    },
+    {
+      "id": "average-medium-038",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 7 numbers is 27. If 47 is added, what is the new average?",
+      "options": [
+        "29.5",
+        "30.5",
+        "28.5",
+        "Cannot be determined"
+      ],
+      "answer": "29.5",
+      "solution": [
+        "Old sum = 7 × 27 = 189",
+        "New sum = 189+47 = 236",
+        "New average = 236/8 = 29.5"
+      ]
+    },
+    {
+      "id": "average-medium-039",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 8 numbers is 28. If 48 is added, what is the new average?",
+      "options": [
+        "30.2222",
+        "31.2222",
+        "29.2222",
+        "Cannot be determined"
+      ],
+      "answer": "30.2222",
+      "solution": [
+        "Old sum = 8 × 28 = 224",
+        "New sum = 224+48 = 272",
+        "New average = 272/9 = 30.2222"
+      ]
+    },
+    {
+      "id": "average-medium-040",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 9 numbers is 29. If 49 is added, what is the new average?",
+      "options": [
+        "31",
+        "32",
+        "30",
+        "Cannot be determined"
+      ],
+      "answer": "31",
+      "solution": [
+        "Old sum = 9 × 29 = 261",
+        "New sum = 261+49 = 310",
+        "New average = 310/10 = 31"
+      ]
+    },
+    {
+      "id": "average-medium-041",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 5 numbers is 30. If 50 is added, what is the new average?",
+      "options": [
+        "33.3333",
+        "34.3333",
+        "32.3333",
+        "Cannot be determined"
+      ],
+      "answer": "33.3333",
+      "solution": [
+        "Old sum = 5 × 30 = 150",
+        "New sum = 150+50 = 200",
+        "New average = 200/6 = 33.3333"
+      ]
+    },
+    {
+      "id": "average-medium-042",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 6 numbers is 31. If 51 is added, what is the new average?",
+      "options": [
+        "33.8571",
+        "34.8571",
+        "32.8571",
+        "Cannot be determined"
+      ],
+      "answer": "33.8571",
+      "solution": [
+        "Old sum = 6 × 31 = 186",
+        "New sum = 186+51 = 237",
+        "New average = 237/7 = 33.8571"
+      ]
+    },
+    {
+      "id": "average-medium-043",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 7 numbers is 32. If 52 is added, what is the new average?",
+      "options": [
+        "34.5",
+        "35.5",
+        "33.5",
+        "Cannot be determined"
+      ],
+      "answer": "34.5",
+      "solution": [
+        "Old sum = 7 × 32 = 224",
+        "New sum = 224+52 = 276",
+        "New average = 276/8 = 34.5"
+      ]
+    },
+    {
+      "id": "average-medium-044",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 8 numbers is 33. If 53 is added, what is the new average?",
+      "options": [
+        "35.2222",
+        "36.2222",
+        "34.2222",
+        "Cannot be determined"
+      ],
+      "answer": "35.2222",
+      "solution": [
+        "Old sum = 8 × 33 = 264",
+        "New sum = 264+53 = 317",
+        "New average = 317/9 = 35.2222"
+      ]
+    },
+    {
+      "id": "average-medium-045",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 9 numbers is 34. If 54 is added, what is the new average?",
+      "options": [
+        "36",
+        "37",
+        "35",
+        "Cannot be determined"
+      ],
+      "answer": "36",
+      "solution": [
+        "Old sum = 9 × 34 = 306",
+        "New sum = 306+54 = 360",
+        "New average = 360/10 = 36"
+      ]
+    },
+    {
+      "id": "average-medium-046",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 5 numbers is 35. If 55 is added, what is the new average?",
+      "options": [
+        "38.3333",
+        "39.3333",
+        "37.3333",
+        "Cannot be determined"
+      ],
+      "answer": "38.3333",
+      "solution": [
+        "Old sum = 5 × 35 = 175",
+        "New sum = 175+55 = 230",
+        "New average = 230/6 = 38.3333"
+      ]
+    },
+    {
+      "id": "average-medium-047",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 6 numbers is 36. If 56 is added, what is the new average?",
+      "options": [
+        "38.8571",
+        "39.8571",
+        "37.8571",
+        "Cannot be determined"
+      ],
+      "answer": "38.8571",
+      "solution": [
+        "Old sum = 6 × 36 = 216",
+        "New sum = 216+56 = 272",
+        "New average = 272/7 = 38.8571"
+      ]
+    },
+    {
+      "id": "average-medium-048",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 7 numbers is 37. If 57 is added, what is the new average?",
+      "options": [
+        "39.5",
+        "40.5",
+        "38.5",
+        "Cannot be determined"
+      ],
+      "answer": "39.5",
+      "solution": [
+        "Old sum = 7 × 37 = 259",
+        "New sum = 259+57 = 316",
+        "New average = 316/8 = 39.5"
+      ]
+    },
+    {
+      "id": "average-medium-049",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 8 numbers is 38. If 58 is added, what is the new average?",
+      "options": [
+        "40.2222",
+        "41.2222",
+        "39.2222",
+        "Cannot be determined"
+      ],
+      "answer": "40.2222",
+      "solution": [
+        "Old sum = 8 × 38 = 304",
+        "New sum = 304+58 = 362",
+        "New average = 362/9 = 40.2222"
+      ]
+    },
+    {
+      "id": "average-medium-050",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 9 numbers is 39. If 59 is added, what is the new average?",
+      "options": [
+        "41",
+        "42",
+        "40",
+        "Cannot be determined"
+      ],
+      "answer": "41",
+      "solution": [
+        "Old sum = 9 × 39 = 351",
+        "New sum = 351+59 = 410",
+        "New average = 410/10 = 41"
+      ]
+    },
+    {
+      "id": "average-medium-051",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 5 numbers is 40. If 60 is added, what is the new average?",
+      "options": [
+        "43.3333",
+        "44.3333",
+        "42.3333",
+        "Cannot be determined"
+      ],
+      "answer": "43.3333",
+      "solution": [
+        "Old sum = 5 × 40 = 200",
+        "New sum = 200+60 = 260",
+        "New average = 260/6 = 43.3333"
+      ]
+    },
+    {
+      "id": "average-medium-052",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 6 numbers is 41. If 61 is added, what is the new average?",
+      "options": [
+        "43.8571",
+        "44.8571",
+        "42.8571",
+        "Cannot be determined"
+      ],
+      "answer": "43.8571",
+      "solution": [
+        "Old sum = 6 × 41 = 246",
+        "New sum = 246+61 = 307",
+        "New average = 307/7 = 43.8571"
+      ]
+    },
+    {
+      "id": "average-medium-053",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 7 numbers is 42. If 62 is added, what is the new average?",
+      "options": [
+        "44.5",
+        "45.5",
+        "43.5",
+        "Cannot be determined"
+      ],
+      "answer": "44.5",
+      "solution": [
+        "Old sum = 7 × 42 = 294",
+        "New sum = 294+62 = 356",
+        "New average = 356/8 = 44.5"
+      ]
+    },
+    {
+      "id": "average-medium-054",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 8 numbers is 43. If 63 is added, what is the new average?",
+      "options": [
+        "45.2222",
+        "46.2222",
+        "44.2222",
+        "Cannot be determined"
+      ],
+      "answer": "45.2222",
+      "solution": [
+        "Old sum = 8 × 43 = 344",
+        "New sum = 344+63 = 407",
+        "New average = 407/9 = 45.2222"
+      ]
+    },
+    {
+      "id": "average-medium-055",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 9 numbers is 44. If 64 is added, what is the new average?",
+      "options": [
+        "46",
+        "47",
+        "45",
+        "Cannot be determined"
+      ],
+      "answer": "46",
+      "solution": [
+        "Old sum = 9 × 44 = 396",
+        "New sum = 396+64 = 460",
+        "New average = 460/10 = 46"
+      ]
+    },
+    {
+      "id": "average-medium-056",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 5 numbers is 45. If 65 is added, what is the new average?",
+      "options": [
+        "48.3333",
+        "49.3333",
+        "47.3333",
+        "Cannot be determined"
+      ],
+      "answer": "48.3333",
+      "solution": [
+        "Old sum = 5 × 45 = 225",
+        "New sum = 225+65 = 290",
+        "New average = 290/6 = 48.3333"
+      ]
+    },
+    {
+      "id": "average-medium-057",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 6 numbers is 46. If 66 is added, what is the new average?",
+      "options": [
+        "48.8571",
+        "49.8571",
+        "47.8571",
+        "Cannot be determined"
+      ],
+      "answer": "48.8571",
+      "solution": [
+        "Old sum = 6 × 46 = 276",
+        "New sum = 276+66 = 342",
+        "New average = 342/7 = 48.8571"
+      ]
+    },
+    {
+      "id": "average-medium-058",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 7 numbers is 47. If 67 is added, what is the new average?",
+      "options": [
+        "49.5",
+        "50.5",
+        "48.5",
+        "Cannot be determined"
+      ],
+      "answer": "49.5",
+      "solution": [
+        "Old sum = 7 × 47 = 329",
+        "New sum = 329+67 = 396",
+        "New average = 396/8 = 49.5"
+      ]
+    },
+    {
+      "id": "average-medium-059",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 8 numbers is 48. If 68 is added, what is the new average?",
+      "options": [
+        "50.2222",
+        "51.2222",
+        "49.2222",
+        "Cannot be determined"
+      ],
+      "answer": "50.2222",
+      "solution": [
+        "Old sum = 8 × 48 = 384",
+        "New sum = 384+68 = 452",
+        "New average = 452/9 = 50.2222"
+      ]
+    },
+    {
+      "id": "average-medium-060",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Medium",
+      "question": "The average of 9 numbers is 49. If 69 is added, what is the new average?",
+      "options": [
+        "51",
+        "52",
+        "50",
+        "Cannot be determined"
+      ],
+      "answer": "51",
+      "solution": [
+        "Old sum = 9 × 49 = 441",
+        "New sum = 441+69 = 510",
+        "New average = 510/10 = 51"
+      ]
+    },
+    {
+      "id": "average-hard-061",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 6 numbers is 30. If 20 is replaced by 50, what is the new average?",
+      "options": [
+        "35",
+        "36",
+        "34",
+        "Cannot be determined"
+      ],
+      "answer": "35",
+      "solution": [
+        "Change in total = 50-20 = 30",
+        "Change in average = 30/6",
+        "New average = 35"
+      ]
+    },
+    {
+      "id": "average-hard-062",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 7 numbers is 31. If 21 is replaced by 51, what is the new average?",
+      "options": [
+        "35.2857",
+        "36.2857",
+        "34.2857",
+        "Cannot be determined"
+      ],
+      "answer": "35.2857",
+      "solution": [
+        "Change in total = 51-21 = 30",
+        "Change in average = 30/7",
+        "New average = 35.2857"
+      ]
+    },
+    {
+      "id": "average-hard-063",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 8 numbers is 32. If 22 is replaced by 52, what is the new average?",
+      "options": [
+        "35.75",
+        "36.75",
+        "34.75",
+        "Cannot be determined"
+      ],
+      "answer": "35.75",
+      "solution": [
+        "Change in total = 52-22 = 30",
+        "Change in average = 30/8",
+        "New average = 35.75"
+      ]
+    },
+    {
+      "id": "average-hard-064",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 9 numbers is 33. If 23 is replaced by 53, what is the new average?",
+      "options": [
+        "36.3333",
+        "37.3333",
+        "35.3333",
+        "Cannot be determined"
+      ],
+      "answer": "36.3333",
+      "solution": [
+        "Change in total = 53-23 = 30",
+        "Change in average = 30/9",
+        "New average = 36.3333"
+      ]
+    },
+    {
+      "id": "average-hard-065",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 10 numbers is 34. If 24 is replaced by 54, what is the new average?",
+      "options": [
+        "37",
+        "38",
+        "36",
+        "Cannot be determined"
+      ],
+      "answer": "37",
+      "solution": [
+        "Change in total = 54-24 = 30",
+        "Change in average = 30/10",
+        "New average = 37"
+      ]
+    },
+    {
+      "id": "average-hard-066",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 6 numbers is 35. If 25 is replaced by 55, what is the new average?",
+      "options": [
+        "40",
+        "41",
+        "39",
+        "Cannot be determined"
+      ],
+      "answer": "40",
+      "solution": [
+        "Change in total = 55-25 = 30",
+        "Change in average = 30/6",
+        "New average = 40"
+      ]
+    },
+    {
+      "id": "average-hard-067",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 7 numbers is 36. If 26 is replaced by 56, what is the new average?",
+      "options": [
+        "40.2857",
+        "41.2857",
+        "39.2857",
+        "Cannot be determined"
+      ],
+      "answer": "40.2857",
+      "solution": [
+        "Change in total = 56-26 = 30",
+        "Change in average = 30/7",
+        "New average = 40.2857"
+      ]
+    },
+    {
+      "id": "average-hard-068",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 8 numbers is 37. If 27 is replaced by 57, what is the new average?",
+      "options": [
+        "40.75",
+        "41.75",
+        "39.75",
+        "Cannot be determined"
+      ],
+      "answer": "40.75",
+      "solution": [
+        "Change in total = 57-27 = 30",
+        "Change in average = 30/8",
+        "New average = 40.75"
+      ]
+    },
+    {
+      "id": "average-hard-069",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 9 numbers is 38. If 28 is replaced by 58, what is the new average?",
+      "options": [
+        "41.3333",
+        "42.3333",
+        "40.3333",
+        "Cannot be determined"
+      ],
+      "answer": "41.3333",
+      "solution": [
+        "Change in total = 58-28 = 30",
+        "Change in average = 30/9",
+        "New average = 41.3333"
+      ]
+    },
+    {
+      "id": "average-hard-070",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 10 numbers is 39. If 29 is replaced by 59, what is the new average?",
+      "options": [
+        "42",
+        "43",
+        "41",
+        "Cannot be determined"
+      ],
+      "answer": "42",
+      "solution": [
+        "Change in total = 59-29 = 30",
+        "Change in average = 30/10",
+        "New average = 42"
+      ]
+    },
+    {
+      "id": "average-hard-071",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 6 numbers is 40. If 30 is replaced by 60, what is the new average?",
+      "options": [
+        "45",
+        "46",
+        "44",
+        "Cannot be determined"
+      ],
+      "answer": "45",
+      "solution": [
+        "Change in total = 60-30 = 30",
+        "Change in average = 30/6",
+        "New average = 45"
+      ]
+    },
+    {
+      "id": "average-hard-072",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 7 numbers is 41. If 31 is replaced by 61, what is the new average?",
+      "options": [
+        "45.2857",
+        "46.2857",
+        "44.2857",
+        "Cannot be determined"
+      ],
+      "answer": "45.2857",
+      "solution": [
+        "Change in total = 61-31 = 30",
+        "Change in average = 30/7",
+        "New average = 45.2857"
+      ]
+    },
+    {
+      "id": "average-hard-073",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 8 numbers is 42. If 32 is replaced by 62, what is the new average?",
+      "options": [
+        "45.75",
+        "46.75",
+        "44.75",
+        "Cannot be determined"
+      ],
+      "answer": "45.75",
+      "solution": [
+        "Change in total = 62-32 = 30",
+        "Change in average = 30/8",
+        "New average = 45.75"
+      ]
+    },
+    {
+      "id": "average-hard-074",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 9 numbers is 43. If 33 is replaced by 63, what is the new average?",
+      "options": [
+        "46.3333",
+        "47.3333",
+        "45.3333",
+        "Cannot be determined"
+      ],
+      "answer": "46.3333",
+      "solution": [
+        "Change in total = 63-33 = 30",
+        "Change in average = 30/9",
+        "New average = 46.3333"
+      ]
+    },
+    {
+      "id": "average-hard-075",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 10 numbers is 44. If 34 is replaced by 64, what is the new average?",
+      "options": [
+        "47",
+        "48",
+        "46",
+        "Cannot be determined"
+      ],
+      "answer": "47",
+      "solution": [
+        "Change in total = 64-34 = 30",
+        "Change in average = 30/10",
+        "New average = 47"
+      ]
+    },
+    {
+      "id": "average-hard-076",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 6 numbers is 45. If 35 is replaced by 65, what is the new average?",
+      "options": [
+        "50",
+        "51",
+        "49",
+        "Cannot be determined"
+      ],
+      "answer": "50",
+      "solution": [
+        "Change in total = 65-35 = 30",
+        "Change in average = 30/6",
+        "New average = 50"
+      ]
+    },
+    {
+      "id": "average-hard-077",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 7 numbers is 46. If 36 is replaced by 66, what is the new average?",
+      "options": [
+        "50.2857",
+        "51.2857",
+        "49.2857",
+        "Cannot be determined"
+      ],
+      "answer": "50.2857",
+      "solution": [
+        "Change in total = 66-36 = 30",
+        "Change in average = 30/7",
+        "New average = 50.2857"
+      ]
+    },
+    {
+      "id": "average-hard-078",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 8 numbers is 47. If 37 is replaced by 67, what is the new average?",
+      "options": [
+        "50.75",
+        "51.75",
+        "49.75",
+        "Cannot be determined"
+      ],
+      "answer": "50.75",
+      "solution": [
+        "Change in total = 67-37 = 30",
+        "Change in average = 30/8",
+        "New average = 50.75"
+      ]
+    },
+    {
+      "id": "average-hard-079",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 9 numbers is 48. If 38 is replaced by 68, what is the new average?",
+      "options": [
+        "51.3333",
+        "52.3333",
+        "50.3333",
+        "Cannot be determined"
+      ],
+      "answer": "51.3333",
+      "solution": [
+        "Change in total = 68-38 = 30",
+        "Change in average = 30/9",
+        "New average = 51.3333"
+      ]
+    },
+    {
+      "id": "average-hard-080",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 10 numbers is 49. If 39 is replaced by 69, what is the new average?",
+      "options": [
+        "52",
+        "53",
+        "51",
+        "Cannot be determined"
+      ],
+      "answer": "52",
+      "solution": [
+        "Change in total = 69-39 = 30",
+        "Change in average = 30/10",
+        "New average = 52"
+      ]
+    },
+    {
+      "id": "average-hard-081",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 6 numbers is 50. If 40 is replaced by 70, what is the new average?",
+      "options": [
+        "55",
+        "56",
+        "54",
+        "Cannot be determined"
+      ],
+      "answer": "55",
+      "solution": [
+        "Change in total = 70-40 = 30",
+        "Change in average = 30/6",
+        "New average = 55"
+      ]
+    },
+    {
+      "id": "average-hard-082",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 7 numbers is 51. If 41 is replaced by 71, what is the new average?",
+      "options": [
+        "55.2857",
+        "56.2857",
+        "54.2857",
+        "Cannot be determined"
+      ],
+      "answer": "55.2857",
+      "solution": [
+        "Change in total = 71-41 = 30",
+        "Change in average = 30/7",
+        "New average = 55.2857"
+      ]
+    },
+    {
+      "id": "average-hard-083",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 8 numbers is 52. If 42 is replaced by 72, what is the new average?",
+      "options": [
+        "55.75",
+        "56.75",
+        "54.75",
+        "Cannot be determined"
+      ],
+      "answer": "55.75",
+      "solution": [
+        "Change in total = 72-42 = 30",
+        "Change in average = 30/8",
+        "New average = 55.75"
+      ]
+    },
+    {
+      "id": "average-hard-084",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 9 numbers is 53. If 43 is replaced by 73, what is the new average?",
+      "options": [
+        "56.3333",
+        "57.3333",
+        "55.3333",
+        "Cannot be determined"
+      ],
+      "answer": "56.3333",
+      "solution": [
+        "Change in total = 73-43 = 30",
+        "Change in average = 30/9",
+        "New average = 56.3333"
+      ]
+    },
+    {
+      "id": "average-hard-085",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 10 numbers is 54. If 44 is replaced by 74, what is the new average?",
+      "options": [
+        "57",
+        "58",
+        "56",
+        "Cannot be determined"
+      ],
+      "answer": "57",
+      "solution": [
+        "Change in total = 74-44 = 30",
+        "Change in average = 30/10",
+        "New average = 57"
+      ]
+    },
+    {
+      "id": "average-hard-086",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 6 numbers is 55. If 45 is replaced by 75, what is the new average?",
+      "options": [
+        "60",
+        "61",
+        "59",
+        "Cannot be determined"
+      ],
+      "answer": "60",
+      "solution": [
+        "Change in total = 75-45 = 30",
+        "Change in average = 30/6",
+        "New average = 60"
+      ]
+    },
+    {
+      "id": "average-hard-087",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 7 numbers is 56. If 46 is replaced by 76, what is the new average?",
+      "options": [
+        "60.2857",
+        "61.2857",
+        "59.2857",
+        "Cannot be determined"
+      ],
+      "answer": "60.2857",
+      "solution": [
+        "Change in total = 76-46 = 30",
+        "Change in average = 30/7",
+        "New average = 60.2857"
+      ]
+    },
+    {
+      "id": "average-hard-088",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 8 numbers is 57. If 47 is replaced by 77, what is the new average?",
+      "options": [
+        "60.75",
+        "61.75",
+        "59.75",
+        "Cannot be determined"
+      ],
+      "answer": "60.75",
+      "solution": [
+        "Change in total = 77-47 = 30",
+        "Change in average = 30/8",
+        "New average = 60.75"
+      ]
+    },
+    {
+      "id": "average-hard-089",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 9 numbers is 58. If 48 is replaced by 78, what is the new average?",
+      "options": [
+        "61.3333",
+        "62.3333",
+        "60.3333",
+        "Cannot be determined"
+      ],
+      "answer": "61.3333",
+      "solution": [
+        "Change in total = 78-48 = 30",
+        "Change in average = 30/9",
+        "New average = 61.3333"
+      ]
+    },
+    {
+      "id": "average-hard-090",
+      "topic": "Average",
+      "subtopic": "Average applications",
+      "level": "Hard",
+      "question": "The average of 10 numbers is 59. If 49 is replaced by 79, what is the new average?",
+      "options": [
+        "62",
+        "63",
+        "61",
+        "Cannot be determined"
+      ],
+      "answer": "62",
+      "solution": [
+        "Change in total = 79-49 = 30",
+        "Change in average = 30/10",
+        "New average = 62"
       ]
     }
   ]

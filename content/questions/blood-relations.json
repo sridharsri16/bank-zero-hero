@@ -2,40 +2,1713 @@
   "topic": "Blood Relations",
   "questions": [
     {
-      "id": "blood-relations-family-tree-method-medium-13",
+      "id": "blood-relations-easy-001",
       "topic": "Blood Relations",
-      "subtopic": "Family tree method",
-      "level": "Medium",
-      "question": "A is B's brother. B is C's mother. How is A related to C?",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
       "options": [
         "Uncle",
-        "Father",
         "Brother",
-        "Grandfather"
+        "Sister",
+        "Cousin"
       ],
       "answer": "Uncle",
       "solution": [
-        "A is sibling of C's mother",
-        "Therefore maternal uncle"
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
       ]
     },
     {
-      "id": "blood-relations-family-tree-method-hard-28",
+      "id": "blood-relations-easy-002",
       "topic": "Blood Relations",
-      "subtopic": "Family tree method",
-      "level": "Hard",
-      "question": "P is Q's daughter. Q is R's brother. P is R's:",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
       "options": [
-        "Niece",
         "Aunt",
+        "Brother",
         "Sister",
-        "Granddaughter"
+        "Cousin"
       ],
-      "answer": "Niece",
+      "answer": "Aunt",
       "solution": [
-        "Q and R are siblings",
-        "P is child of Q",
-        "Therefore niece"
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-003",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-004",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-005",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-006",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-007",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-008",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-009",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-010",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-011",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-012",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-013",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-014",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-015",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-016",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-017",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-018",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-019",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-020",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-021",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-022",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-023",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-024",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-025",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-026",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-027",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-028",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-029",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-easy-030",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Easy",
+      "question": "Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-031",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-032",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-033",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-034",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-035",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-036",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-037",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-038",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-039",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-040",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-041",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-042",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-043",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-044",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-045",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-046",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-047",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-048",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-049",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-050",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-051",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-052",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-053",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-054",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-055",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-056",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-057",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-058",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-059",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-medium-060",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Medium",
+      "question": "In a family: Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-061",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-062",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-063",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-064",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-065",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-066",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-067",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-068",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-069",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-070",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-071",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-072",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-073",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-074",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-075",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-076",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-077",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-078",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-079",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-080",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-081",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-082",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-083",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-084",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-085",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-086",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-087",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-088",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Ravi is the brother of Meena. Meena is the mother of Kiran. Ravi is Kiran’s?",
+      "options": [
+        "Uncle",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "Ravi is Meena’s brother",
+        "Meena is Kiran’s mother",
+        "Therefore Ravi is Kiran’s maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-089",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Anu is the daughter of Bala. Bala is the sister of Devi. Devi is Anu’s?",
+      "options": [
+        "Aunt",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Aunt",
+      "solution": [
+        "Bala and Devi are sisters",
+        "Devi is the sister of Anu’s mother",
+        "So Devi is Anu’s aunt"
+      ]
+    },
+    {
+      "id": "blood-relations-hard-090",
+      "topic": "Blood Relations",
+      "subtopic": "Family relationship chain",
+      "level": "Hard",
+      "question": "Using only the relationships stated, Mani is the father of Raju. Raju is the brother of Sita. Mani is Sita’s?",
+      "options": [
+        "Father",
+        "Brother",
+        "Sister",
+        "Cousin"
+      ],
+      "answer": "Father",
+      "solution": [
+        "Raju and Sita are siblings",
+        "Mani is Raju’s father",
+        "Therefore Mani is also Sita’s father"
       ]
     }
   ]

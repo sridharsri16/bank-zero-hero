@@ -2,38 +2,1623 @@
   "topic": "Articles",
   "questions": [
     {
-      "id": "articles-sound-rule-and-specificity-medium-19",
+      "id": "articles-easy-001",
       "topic": "Articles",
-      "subtopic": "Sound rule and specificity",
-      "level": "Medium",
-      "question": "Choose: 'He is ___ honest officer.'",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "___ honest person keeps promises.",
       "options": [
-        "a",
-        "an",
+        "An",
+        "A",
         "the",
-        "no article"
+        "Cannot be determined"
       ],
-      "answer": "an",
+      "answer": "An",
       "solution": [
-        "Honest begins with a vowel sound because h is silent"
+        "Choose based on sound and specificity",
+        "Correct article: An"
       ]
     },
     {
-      "id": "articles-sound-rule-and-specificity-hard-33",
+      "id": "articles-easy-002",
       "topic": "Articles",
-      "subtopic": "Sound rule and specificity",
-      "level": "Hard",
-      "question": "Choose: 'She bought ___ MBA guide.'",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "I saw ___ European tourist.",
       "options": [
-        "a",
-        "an",
+        "A",
+        "An",
         "the",
-        "no article"
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-easy-003",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-easy-004",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
       ],
       "answer": "an",
       "solution": [
-        "MBA is pronounced 'em-bee-ay'",
-        "It begins with vowel sound"
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-easy-005",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-easy-006",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-easy-007",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-easy-008",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-easy-009",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-easy-010",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-easy-011",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-easy-012",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-easy-013",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-easy-014",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-easy-015",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-easy-016",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-easy-017",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-easy-018",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-easy-019",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-easy-020",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-easy-021",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-easy-022",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-easy-023",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-easy-024",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-easy-025",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-easy-026",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-easy-027",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-easy-028",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-easy-029",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-easy-030",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Easy",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-medium-031",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-medium-032",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-medium-033",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-medium-034",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-medium-035",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-medium-036",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-medium-037",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-medium-038",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-medium-039",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-medium-040",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-medium-041",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-medium-042",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-medium-043",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-medium-044",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-medium-045",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-medium-046",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-medium-047",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-medium-048",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-medium-049",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-medium-050",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-medium-051",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-medium-052",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-medium-053",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-medium-054",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-medium-055",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-medium-056",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-medium-057",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-medium-058",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-medium-059",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-medium-060",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Medium",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-hard-061",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-hard-062",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-hard-063",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-hard-064",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-hard-065",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-hard-066",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-hard-067",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-hard-068",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-hard-069",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-hard-070",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-hard-071",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-hard-072",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-hard-073",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-hard-074",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-hard-075",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-hard-076",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-hard-077",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-hard-078",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-hard-079",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-hard-080",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-hard-081",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-hard-082",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-hard-083",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-hard-084",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-hard-085",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-hard-086",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
+      ]
+    },
+    {
+      "id": "articles-hard-087",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "The sun rises in ___ east.",
+      "options": [
+        "the",
+        "A",
+        "An",
+        "Cannot be determined"
+      ],
+      "answer": "the",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: the"
+      ]
+    },
+    {
+      "id": "articles-hard-088",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "She bought ___ umbrella.",
+      "options": [
+        "an",
+        "A",
+        "An",
+        "the"
+      ],
+      "answer": "an",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: an"
+      ]
+    },
+    {
+      "id": "articles-hard-089",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "___ honest person keeps promises.",
+      "options": [
+        "An",
+        "A",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "An",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: An"
+      ]
+    },
+    {
+      "id": "articles-hard-090",
+      "topic": "Articles",
+      "subtopic": "A, an and the",
+      "level": "Hard",
+      "question": "I saw ___ European tourist.",
+      "options": [
+        "A",
+        "An",
+        "the",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "solution": [
+        "Choose based on sound and specificity",
+        "Correct article: A"
       ]
     }
   ]

@@ -1,0 +1,38 @@
+[
+  {
+    "exam": "SBI Clerk / Junior Associate",
+    "year": "2025-26",
+    "stage": "Official recruitment / exam information",
+    "title": "SBI Junior Associate careers page",
+    "source": "Official SBI",
+    "url": "https://sbi.co.in/web/careers/junior-associate",
+    "note": "SBI states it does not provide public answer-sheet/question-paper/right-answer-key copies; use this for official pattern and recruitment information."
+  },
+  {
+    "exam": "SBI Clerk / Junior Associate",
+    "year": "2025-26",
+    "stage": "Official current opening archive",
+    "title": "SBI Current Openings",
+    "source": "Official SBI",
+    "url": "https://sbi.bank.in/en/web/careers/current-openings",
+    "note": "Official recruitment archive and notices."
+  },
+  {
+    "exam": "IOB LBO",
+    "year": "2025",
+    "stage": "Previous-year practice paper with solutions",
+    "title": "IOB LBO previous year papers",
+    "source": "Testbook",
+    "url": "https://testbook.com/blog/indian-overseas-bank-lbo-previous-year-question-papers/",
+    "note": "External practice-paper resource; open the source to access its downloads/solutions."
+  },
+  {
+    "exam": "IOB LBO",
+    "year": "2025",
+    "stage": "Previous-year paper resource",
+    "title": "IOB LBO old question paper",
+    "source": "OnlineResult",
+    "url": "https://onlineresult.in/article/indian-overseas-bank-lbo-previous-year-question-paper",
+    "note": "External previous-paper resource; availability may change."
+  }
+]

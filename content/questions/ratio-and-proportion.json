@@ -2,59 +2,1653 @@
   "topic": "Ratio and Proportion",
   "questions": [
     {
-      "id": "ratio-and-proportion-ratio-basics-easy-5",
+      "id": "ratio-and-proportion-easy-001",
       "topic": "Ratio and Proportion",
       "subtopic": "Ratio basics",
       "level": "Easy",
-      "question": "Divide ₹240 in the ratio 3:5.",
+      "question": "In the ratio 2:3, if the total is 50, what is the first share?",
       "options": [
-        "₹90,₹150",
-        "₹100,₹140",
-        "₹120,₹120",
-        "₹80,₹160"
+        "20",
+        "25",
+        "2:3",
+        "3:2"
       ],
-      "answer": "₹90,₹150",
+      "answer": "20",
       "solution": [
-        "Total parts=8",
-        "One part=30",
-        "3 parts=90,5 parts=150"
+        "Total parts = 2+3 = 5",
+        "One part = 50/5 = 10",
+        "First share = 2 × 10 = 20"
       ]
     },
     {
-      "id": "ratio-and-proportion-direct-and-inverse-proportion-medium-6",
+      "id": "ratio-and-proportion-easy-002",
       "topic": "Ratio and Proportion",
-      "subtopic": "Direct and inverse proportion",
-      "level": "Medium",
-      "question": "8 workers complete a job in 15 days. How many days will 12 workers take?",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 3:5, if the total is 88, what is the first share?",
       "options": [
-        "8",
-        "10",
-        "12",
-        "15"
+        "33",
+        "38",
+        "2:3",
+        "3:2"
       ],
-      "answer": "10",
+      "answer": "33",
       "solution": [
-        "Workers×days constant",
-        "8×15=12×d",
-        "d=10"
+        "Total parts = 3+5 = 8",
+        "One part = 88/8 = 11",
+        "First share = 3 × 11 = 33"
       ]
     },
     {
-      "id": "ratio-and-proportion-ratio-basics-hard-24",
+      "id": "ratio-and-proportion-easy-003",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 4:7, if the total is 132, what is the first share?",
+      "options": [
+        "48",
+        "53",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "48",
+      "solution": [
+        "Total parts = 4+7 = 11",
+        "One part = 132/11 = 12",
+        "First share = 4 × 12 = 48"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-004",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 5:9, if the total is 182, what is the first share?",
+      "options": [
+        "65",
+        "70",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "65",
+      "solution": [
+        "Total parts = 5+9 = 14",
+        "One part = 182/14 = 13",
+        "First share = 5 × 13 = 65"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-005",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 6:3, if the total is 126, what is the first share?",
+      "options": [
+        "84",
+        "89",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "84",
+      "solution": [
+        "Total parts = 6+3 = 9",
+        "One part = 126/9 = 14",
+        "First share = 6 × 14 = 84"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-006",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 7:5, if the total is 180, what is the first share?",
+      "options": [
+        "105",
+        "110",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "105",
+      "solution": [
+        "Total parts = 7+5 = 12",
+        "One part = 180/12 = 15",
+        "First share = 7 × 15 = 105"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-007",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 8:7, if the total is 240, what is the first share?",
+      "options": [
+        "128",
+        "133",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "128",
+      "solution": [
+        "Total parts = 8+7 = 15",
+        "One part = 240/15 = 16",
+        "First share = 8 × 16 = 128"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-008",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 2:9, if the total is 187, what is the first share?",
+      "options": [
+        "34",
+        "39",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "34",
+      "solution": [
+        "Total parts = 2+9 = 11",
+        "One part = 187/11 = 17",
+        "First share = 2 × 17 = 34"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-009",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 3:3, if the total is 108, what is the first share?",
+      "options": [
+        "54",
+        "59",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "54",
+      "solution": [
+        "Total parts = 3+3 = 6",
+        "One part = 108/6 = 18",
+        "First share = 3 × 18 = 54"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-010",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 4:5, if the total is 90, what is the first share?",
+      "options": [
+        "40",
+        "45",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "40",
+      "solution": [
+        "Total parts = 4+5 = 9",
+        "One part = 90/9 = 10",
+        "First share = 4 × 10 = 40"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-011",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 5:7, if the total is 132, what is the first share?",
+      "options": [
+        "55",
+        "60",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "55",
+      "solution": [
+        "Total parts = 5+7 = 12",
+        "One part = 132/12 = 11",
+        "First share = 5 × 11 = 55"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-012",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 6:9, if the total is 180, what is the first share?",
+      "options": [
+        "72",
+        "77",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "72",
+      "solution": [
+        "Total parts = 6+9 = 15",
+        "One part = 180/15 = 12",
+        "First share = 6 × 12 = 72"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-013",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 7:3, if the total is 130, what is the first share?",
+      "options": [
+        "91",
+        "96",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "91",
+      "solution": [
+        "Total parts = 7+3 = 10",
+        "One part = 130/10 = 13",
+        "First share = 7 × 13 = 91"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-014",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 8:5, if the total is 182, what is the first share?",
+      "options": [
+        "112",
+        "117",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "112",
+      "solution": [
+        "Total parts = 8+5 = 13",
+        "One part = 182/13 = 14",
+        "First share = 8 × 14 = 112"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-015",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 2:7, if the total is 135, what is the first share?",
+      "options": [
+        "30",
+        "35",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "30",
+      "solution": [
+        "Total parts = 2+7 = 9",
+        "One part = 135/9 = 15",
+        "First share = 2 × 15 = 30"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-016",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 3:9, if the total is 192, what is the first share?",
+      "options": [
+        "48",
+        "53",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "48",
+      "solution": [
+        "Total parts = 3+9 = 12",
+        "One part = 192/12 = 16",
+        "First share = 3 × 16 = 48"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-017",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 4:3, if the total is 119, what is the first share?",
+      "options": [
+        "68",
+        "73",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "68",
+      "solution": [
+        "Total parts = 4+3 = 7",
+        "One part = 119/7 = 17",
+        "First share = 4 × 17 = 68"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-018",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 5:5, if the total is 180, what is the first share?",
+      "options": [
+        "90",
+        "95",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "90",
+      "solution": [
+        "Total parts = 5+5 = 10",
+        "One part = 180/10 = 18",
+        "First share = 5 × 18 = 90"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-019",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 6:7, if the total is 130, what is the first share?",
+      "options": [
+        "60",
+        "65",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "60",
+      "solution": [
+        "Total parts = 6+7 = 13",
+        "One part = 130/13 = 10",
+        "First share = 6 × 10 = 60"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-020",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 7:9, if the total is 176, what is the first share?",
+      "options": [
+        "77",
+        "82",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "77",
+      "solution": [
+        "Total parts = 7+9 = 16",
+        "One part = 176/16 = 11",
+        "First share = 7 × 11 = 77"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-021",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 8:3, if the total is 132, what is the first share?",
+      "options": [
+        "96",
+        "101",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "96",
+      "solution": [
+        "Total parts = 8+3 = 11",
+        "One part = 132/11 = 12",
+        "First share = 8 × 12 = 96"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-022",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 2:5, if the total is 91, what is the first share?",
+      "options": [
+        "26",
+        "31",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "26",
+      "solution": [
+        "Total parts = 2+5 = 7",
+        "One part = 91/7 = 13",
+        "First share = 2 × 13 = 26"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-023",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 3:7, if the total is 140, what is the first share?",
+      "options": [
+        "42",
+        "47",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "42",
+      "solution": [
+        "Total parts = 3+7 = 10",
+        "One part = 140/10 = 14",
+        "First share = 3 × 14 = 42"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-024",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 4:9, if the total is 195, what is the first share?",
+      "options": [
+        "60",
+        "65",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "60",
+      "solution": [
+        "Total parts = 4+9 = 13",
+        "One part = 195/13 = 15",
+        "First share = 4 × 15 = 60"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-025",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 5:3, if the total is 128, what is the first share?",
+      "options": [
+        "80",
+        "85",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "80",
+      "solution": [
+        "Total parts = 5+3 = 8",
+        "One part = 128/8 = 16",
+        "First share = 5 × 16 = 80"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-026",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 6:5, if the total is 187, what is the first share?",
+      "options": [
+        "102",
+        "107",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "102",
+      "solution": [
+        "Total parts = 6+5 = 11",
+        "One part = 187/11 = 17",
+        "First share = 6 × 17 = 102"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-027",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 7:7, if the total is 252, what is the first share?",
+      "options": [
+        "126",
+        "131",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "126",
+      "solution": [
+        "Total parts = 7+7 = 14",
+        "One part = 252/14 = 18",
+        "First share = 7 × 18 = 126"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-028",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 8:9, if the total is 170, what is the first share?",
+      "options": [
+        "80",
+        "85",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "80",
+      "solution": [
+        "Total parts = 8+9 = 17",
+        "One part = 170/17 = 10",
+        "First share = 8 × 10 = 80"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-029",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 2:3, if the total is 55, what is the first share?",
+      "options": [
+        "22",
+        "27",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "22",
+      "solution": [
+        "Total parts = 2+3 = 5",
+        "One part = 55/5 = 11",
+        "First share = 2 × 11 = 22"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-easy-030",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "In the ratio 3:5, if the total is 96, what is the first share?",
+      "options": [
+        "36",
+        "41",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "36",
+      "solution": [
+        "Total parts = 3+5 = 8",
+        "One part = 96/8 = 12",
+        "First share = 3 × 12 = 36"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-031",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 20:30.",
+      "options": [
+        "2:3",
+        "1:1",
+        "3:2",
+        "Cannot be determined"
+      ],
+      "answer": "2:3",
+      "solution": [
+        "Both numbers have common factor 10",
+        "20:30 = 2:3"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-032",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 33:55.",
+      "options": [
+        "3:5",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "3:5",
+      "solution": [
+        "Both numbers have common factor 11",
+        "33:55 = 3:5"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-033",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 48:84.",
+      "options": [
+        "4:7",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "4:7",
+      "solution": [
+        "Both numbers have common factor 12",
+        "48:84 = 4:7"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-034",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 65:117.",
+      "options": [
+        "5:9",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "5:9",
+      "solution": [
+        "Both numbers have common factor 13",
+        "65:117 = 5:9"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-035",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 84:42.",
+      "options": [
+        "6:3",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "6:3",
+      "solution": [
+        "Both numbers have common factor 14",
+        "84:42 = 6:3"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-036",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 105:75.",
+      "options": [
+        "7:5",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "7:5",
+      "solution": [
+        "Both numbers have common factor 15",
+        "105:75 = 7:5"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-037",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 128:112.",
+      "options": [
+        "8:7",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "8:7",
+      "solution": [
+        "Both numbers have common factor 16",
+        "128:112 = 8:7"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-038",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 34:153.",
+      "options": [
+        "2:9",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "2:9",
+      "solution": [
+        "Both numbers have common factor 17",
+        "34:153 = 2:9"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-039",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 30:30.",
+      "options": [
+        "3:3",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "3:3",
+      "solution": [
+        "Both numbers have common factor 10",
+        "30:30 = 3:3"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-040",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 44:55.",
+      "options": [
+        "4:5",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "4:5",
+      "solution": [
+        "Both numbers have common factor 11",
+        "44:55 = 4:5"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-041",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 60:84.",
+      "options": [
+        "5:7",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "5:7",
+      "solution": [
+        "Both numbers have common factor 12",
+        "60:84 = 5:7"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-042",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 78:117.",
+      "options": [
+        "6:9",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "6:9",
+      "solution": [
+        "Both numbers have common factor 13",
+        "78:117 = 6:9"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-043",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 98:42.",
+      "options": [
+        "7:3",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "7:3",
+      "solution": [
+        "Both numbers have common factor 14",
+        "98:42 = 7:3"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-044",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 120:75.",
+      "options": [
+        "8:5",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "8:5",
+      "solution": [
+        "Both numbers have common factor 15",
+        "120:75 = 8:5"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-045",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 32:112.",
+      "options": [
+        "2:7",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "2:7",
+      "solution": [
+        "Both numbers have common factor 16",
+        "32:112 = 2:7"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-046",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 51:153.",
+      "options": [
+        "3:9",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "3:9",
+      "solution": [
+        "Both numbers have common factor 17",
+        "51:153 = 3:9"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-047",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 40:30.",
+      "options": [
+        "4:3",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "4:3",
+      "solution": [
+        "Both numbers have common factor 10",
+        "40:30 = 4:3"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-048",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 55:55.",
+      "options": [
+        "5:5",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "5:5",
+      "solution": [
+        "Both numbers have common factor 11",
+        "55:55 = 5:5"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-049",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 72:84.",
+      "options": [
+        "6:7",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "6:7",
+      "solution": [
+        "Both numbers have common factor 12",
+        "72:84 = 6:7"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-050",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 91:117.",
+      "options": [
+        "7:9",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "7:9",
+      "solution": [
+        "Both numbers have common factor 13",
+        "91:117 = 7:9"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-051",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 112:42.",
+      "options": [
+        "8:3",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "8:3",
+      "solution": [
+        "Both numbers have common factor 14",
+        "112:42 = 8:3"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-052",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 30:75.",
+      "options": [
+        "2:5",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "2:5",
+      "solution": [
+        "Both numbers have common factor 15",
+        "30:75 = 2:5"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-053",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 48:112.",
+      "options": [
+        "3:7",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "3:7",
+      "solution": [
+        "Both numbers have common factor 16",
+        "48:112 = 3:7"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-054",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 68:153.",
+      "options": [
+        "4:9",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "4:9",
+      "solution": [
+        "Both numbers have common factor 17",
+        "68:153 = 4:9"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-055",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 50:30.",
+      "options": [
+        "5:3",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "5:3",
+      "solution": [
+        "Both numbers have common factor 10",
+        "50:30 = 5:3"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-056",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 66:55.",
+      "options": [
+        "6:5",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "6:5",
+      "solution": [
+        "Both numbers have common factor 11",
+        "66:55 = 6:5"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-057",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 84:84.",
+      "options": [
+        "7:7",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "7:7",
+      "solution": [
+        "Both numbers have common factor 12",
+        "84:84 = 7:7"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-058",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 104:117.",
+      "options": [
+        "8:9",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "8:9",
+      "solution": [
+        "Both numbers have common factor 13",
+        "104:117 = 8:9"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-059",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 28:42.",
+      "options": [
+        "2:3",
+        "1:1",
+        "3:2",
+        "Cannot be determined"
+      ],
+      "answer": "2:3",
+      "solution": [
+        "Both numbers have common factor 14",
+        "28:42 = 2:3"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-medium-060",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Medium",
+      "question": "Simplify the ratio 45:75.",
+      "options": [
+        "3:5",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "3:5",
+      "solution": [
+        "Both numbers have common factor 15",
+        "45:75 = 3:5"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-061",
       "topic": "Ratio and Proportion",
       "subtopic": "Ratio basics",
       "level": "Hard",
-      "question": "A:B=4:5 and B:C=10:7. Find A:B:C.",
+      "question": "If A:B = 100:80, what is the equivalent ratio after both quantities are doubled?",
       "options": [
-        "4:10:7",
-        "8:10:7",
-        "8:5:7",
-        "4:5:7"
+        "200:160",
+        "1:1",
+        "2:3",
+        "3:2"
       ],
-      "answer": "8:10:7",
+      "answer": "200:160",
       "solution": [
-        "Make B common: 4:5 ×2 =8:10",
-        "Combine with 10:7"
+        "Doubling both terms keeps the same relationship",
+        "100×2:80×2 = 200:160"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-062",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 105:84, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "210:168",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "210:168",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "105×2:84×2 = 210:168"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-063",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 110:88, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "220:176",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "220:176",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "110×2:88×2 = 220:176"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-064",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 115:92, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "230:184",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "230:184",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "115×2:92×2 = 230:184"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-065",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 120:96, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "240:192",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "240:192",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "120×2:96×2 = 240:192"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-066",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 125:100, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "250:200",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "250:200",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "125×2:100×2 = 250:200"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-067",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 130:104, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "260:208",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "260:208",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "130×2:104×2 = 260:208"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-068",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 135:108, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "270:216",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "270:216",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "135×2:108×2 = 270:216"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-069",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 140:112, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "280:224",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "280:224",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "140×2:112×2 = 280:224"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-070",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 145:116, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "290:232",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "290:232",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "145×2:116×2 = 290:232"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-071",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 150:120, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "300:240",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "300:240",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "150×2:120×2 = 300:240"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-072",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 155:124, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "310:248",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "310:248",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "155×2:124×2 = 310:248"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-073",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 160:128, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "320:256",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "320:256",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "160×2:128×2 = 320:256"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-074",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 165:132, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "330:264",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "330:264",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "165×2:132×2 = 330:264"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-075",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 170:136, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "340:272",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "340:272",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "170×2:136×2 = 340:272"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-076",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 175:140, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "350:280",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "350:280",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "175×2:140×2 = 350:280"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-077",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 180:144, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "360:288",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "360:288",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "180×2:144×2 = 360:288"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-078",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 185:148, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "370:296",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "370:296",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "185×2:148×2 = 370:296"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-079",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 190:152, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "380:304",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "380:304",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "190×2:152×2 = 380:304"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-080",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 195:156, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "390:312",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "390:312",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "195×2:156×2 = 390:312"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-081",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 200:160, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "400:320",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "400:320",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "200×2:160×2 = 400:320"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-082",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 205:164, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "410:328",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "410:328",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "205×2:164×2 = 410:328"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-083",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 210:168, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "420:336",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "420:336",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "210×2:168×2 = 420:336"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-084",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 215:172, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "430:344",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "430:344",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "215×2:172×2 = 430:344"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-085",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 220:176, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "440:352",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "440:352",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "220×2:176×2 = 440:352"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-086",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 225:180, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "450:360",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "450:360",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "225×2:180×2 = 450:360"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-087",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 230:184, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "460:368",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "460:368",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "230×2:184×2 = 460:368"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-088",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 235:188, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "470:376",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "470:376",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "235×2:188×2 = 470:376"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-089",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 240:192, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "480:384",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "480:384",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "240×2:192×2 = 480:384"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-hard-090",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "If A:B = 245:196, what is the equivalent ratio after both quantities are doubled?",
+      "options": [
+        "490:392",
+        "1:1",
+        "2:3",
+        "3:2"
+      ],
+      "answer": "490:392",
+      "solution": [
+        "Doubling both terms keeps the same relationship",
+        "245×2:196×2 = 490:392"
       ]
     }
   ]

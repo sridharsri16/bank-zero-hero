@@ -1,0 +1,11 @@
+{
+  "version": "5.0",
+  "question_topics": 14,
+  "questions_per_topic": 90,
+  "total_questions": 1260,
+  "levels": {
+    "Easy": 30,
+    "Medium": 30,
+    "Hard": 30
+  }
+}

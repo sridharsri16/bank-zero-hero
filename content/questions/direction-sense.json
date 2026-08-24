@@ -2,55 +2,1653 @@
   "topic": "Direction Sense",
   "questions": [
     {
-      "id": "direction-sense-compass-from-zero-easy-11",
+      "id": "direction-sense-easy-001",
       "topic": "Direction Sense",
-      "subtopic": "Compass from zero",
+      "subtopic": "Direction and distance",
       "level": "Easy",
-      "question": "A person faces West and turns left. Which direction now?",
+      "question": "A person faces North. They turn right. Which direction are they facing?",
       "options": [
+        "East",
         "North",
         "South",
-        "East",
-        "West"
-      ],
-      "answer": "South",
-      "solution": [
-        "Left of West is South"
-      ]
-    },
-    {
-      "id": "direction-sense-net-direction-medium-12",
-      "topic": "Direction Sense",
-      "subtopic": "Net direction",
-      "level": "Medium",
-      "question": "A person walks 6 km North and 8 km East. Final direction?",
-      "options": [
-        "North-West",
-        "North-East",
-        "South-East",
-        "East"
-      ],
-      "answer": "North-East",
-      "solution": [
-        "Net movement is North and East",
-        "Therefore North-East"
-      ]
-    },
-    {
-      "id": "direction-sense-compass-from-zero-hard-27",
-      "topic": "Direction Sense",
-      "subtopic": "Compass from zero",
-      "level": "Hard",
-      "question": "Facing North, a person turns right, then right, then left. Final direction?",
-      "options": [
-        "North",
-        "South",
-        "East",
         "West"
       ],
       "answer": "East",
       "solution": [
-        "N→E→S→E"
+        "Face North",
+        "A right turn leads to East"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-002",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn left. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face North",
+        "A left turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-003",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces East. They turn right. Which direction are they facing?",
+      "options": [
+        "South",
+        "North",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "South",
+      "solution": [
+        "Face East",
+        "A right turn leads to South"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-004",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces South. They turn right. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face South",
+        "A right turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-005",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces West. They turn right. Which direction are they facing?",
+      "options": [
+        "North",
+        "South",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "North",
+      "solution": [
+        "Face West",
+        "A right turn leads to North"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-006",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn right. Which direction are they facing?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "Face North",
+        "A right turn leads to East"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-007",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn left. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face North",
+        "A left turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-008",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces East. They turn right. Which direction are they facing?",
+      "options": [
+        "South",
+        "North",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "South",
+      "solution": [
+        "Face East",
+        "A right turn leads to South"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-009",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces South. They turn right. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face South",
+        "A right turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-010",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces West. They turn right. Which direction are they facing?",
+      "options": [
+        "North",
+        "South",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "North",
+      "solution": [
+        "Face West",
+        "A right turn leads to North"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-011",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn right. Which direction are they facing?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "Face North",
+        "A right turn leads to East"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-012",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn left. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face North",
+        "A left turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-013",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces East. They turn right. Which direction are they facing?",
+      "options": [
+        "South",
+        "North",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "South",
+      "solution": [
+        "Face East",
+        "A right turn leads to South"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-014",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces South. They turn right. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face South",
+        "A right turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-015",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces West. They turn right. Which direction are they facing?",
+      "options": [
+        "North",
+        "South",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "North",
+      "solution": [
+        "Face West",
+        "A right turn leads to North"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-016",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn right. Which direction are they facing?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "Face North",
+        "A right turn leads to East"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-017",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn left. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face North",
+        "A left turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-018",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces East. They turn right. Which direction are they facing?",
+      "options": [
+        "South",
+        "North",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "South",
+      "solution": [
+        "Face East",
+        "A right turn leads to South"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-019",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces South. They turn right. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face South",
+        "A right turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-020",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces West. They turn right. Which direction are they facing?",
+      "options": [
+        "North",
+        "South",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "North",
+      "solution": [
+        "Face West",
+        "A right turn leads to North"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-021",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn right. Which direction are they facing?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "Face North",
+        "A right turn leads to East"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-022",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn left. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face North",
+        "A left turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-023",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces East. They turn right. Which direction are they facing?",
+      "options": [
+        "South",
+        "North",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "South",
+      "solution": [
+        "Face East",
+        "A right turn leads to South"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-024",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces South. They turn right. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face South",
+        "A right turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-025",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces West. They turn right. Which direction are they facing?",
+      "options": [
+        "North",
+        "South",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "North",
+      "solution": [
+        "Face West",
+        "A right turn leads to North"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-026",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn right. Which direction are they facing?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "Face North",
+        "A right turn leads to East"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-027",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces North. They turn left. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face North",
+        "A left turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-028",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces East. They turn right. Which direction are they facing?",
+      "options": [
+        "South",
+        "North",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "South",
+      "solution": [
+        "Face East",
+        "A right turn leads to South"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-029",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces South. They turn right. Which direction are they facing?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "Face South",
+        "A right turn leads to West"
+      ]
+    },
+    {
+      "id": "direction-sense-easy-030",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Easy",
+      "question": "A person faces West. They turn right. Which direction are they facing?",
+      "options": [
+        "North",
+        "South",
+        "West",
+        "Cannot be determined"
+      ],
+      "answer": "North",
+      "solution": [
+        "Face West",
+        "A right turn leads to North"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-031",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-032",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-033",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-034",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-035",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-036",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-037",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-038",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-039",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-040",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-041",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-042",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-043",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-044",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-045",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-046",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-047",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-048",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-049",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-050",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-051",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-052",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-053",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-054",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-055",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-056",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-057",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-058",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-059",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km East. In which direction is the person from the starting point?",
+      "options": [
+        "North-East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is North-East of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-medium-060",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Medium",
+      "question": "A person walks 5 km North and then 5 km West. In which direction is the person from the starting point?",
+      "options": [
+        "South-West",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "South-West",
+      "solution": [
+        "Draw the two perpendicular movements",
+        "The final position is South-West of the start"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-061",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-062",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-063",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-064",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-065",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-066",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-067",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-068",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-069",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-070",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-071",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-072",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-073",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-074",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-075",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-076",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-077",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-078",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-079",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-080",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-081",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-082",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-083",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-084",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-085",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-086",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-087",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-088",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-089",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km East, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: East"
+      ]
+    },
+    {
+      "id": "direction-sense-hard-090",
+      "topic": "Direction Sense",
+      "subtopic": "Direction and distance",
+      "level": "Hard",
+      "question": "A person walks 4 km North, 4 km West, then 4 km South. In which direction is the person from the start?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "Cannot be determined"
+      ],
+      "answer": "West",
+      "solution": [
+        "North and South movements cancel",
+        "Only the horizontal movement remains",
+        "Answer: West"
       ]
     }
   ]

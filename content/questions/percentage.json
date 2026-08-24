@@ -2,113 +2,1635 @@
   "topic": "Percentage",
   "questions": [
     {
-      "id": "percentage-meaning-and-conversion-easy-1",
+      "id": "percentage-easy-01",
       "topic": "Percentage",
       "subtopic": "Meaning and conversion",
       "level": "Easy",
-      "question": "What percentage is 45 out of 180?",
+      "question": "Convert 0.45 into a percentage.",
       "options": [
-        "20%",
+        "45%",
+        "40%",
+        "50%",
+        "4.5%"
+      ],
+      "answer": "45%",
+      "solution": [
+        "0.45 × 100 = 45%"
+      ]
+    },
+    {
+      "id": "percentage-easy-02",
+      "topic": "Percentage",
+      "subtopic": "Meaning and conversion",
+      "level": "Easy",
+      "question": "Convert 3/4 into a percentage.",
+      "options": [
+        "75%",
         "25%",
+        "60%",
+        "80%"
+      ],
+      "answer": "75%",
+      "solution": [
+        "3 ÷ 4 = 0.75",
+        "0.75 × 100 = 75%"
+      ]
+    },
+    {
+      "id": "percentage-easy-03",
+      "topic": "Percentage",
+      "subtopic": "Meaning and conversion",
+      "level": "Easy",
+      "question": "What fraction is 20%?",
+      "options": [
+        "1/5",
+        "1/4",
+        "1/10",
+        "2/5"
+      ],
+      "answer": "1/5",
+      "solution": [
+        "20/100",
+        "Divide numerator and denominator by 20"
+      ]
+    },
+    {
+      "id": "percentage-easy-04",
+      "topic": "Percentage",
+      "subtopic": "Meaning and conversion",
+      "level": "Easy",
+      "question": "What decimal is 12.5%?",
+      "options": [
+        "0.125",
+        "1.25",
+        "0.0125",
+        "0.25"
+      ],
+      "answer": "0.125",
+      "solution": [
+        "12.5 ÷ 100 = 0.125"
+      ]
+    },
+    {
+      "id": "percentage-easy-05",
+      "topic": "Percentage",
+      "subtopic": "Finding percentage",
+      "level": "Easy",
+      "question": "Find 10% of 850.",
+      "options": [
+        "85",
+        "80",
+        "90",
+        "75"
+      ],
+      "answer": "85",
+      "solution": [
+        "850 ÷ 10 = 85"
+      ]
+    },
+    {
+      "id": "percentage-easy-06",
+      "topic": "Percentage",
+      "subtopic": "Finding percentage",
+      "level": "Easy",
+      "question": "Find 25% of 640.",
+      "options": [
+        "160",
+        "120",
+        "140",
+        "180"
+      ],
+      "answer": "160",
+      "solution": [
+        "25% = 1/4",
+        "640 ÷ 4 = 160"
+      ]
+    },
+    {
+      "id": "percentage-easy-07",
+      "topic": "Percentage",
+      "subtopic": "Finding percentage",
+      "level": "Easy",
+      "question": "Find 20% of 450.",
+      "options": [
+        "90",
+        "80",
+        "100",
+        "110"
+      ],
+      "answer": "90",
+      "solution": [
+        "20% = 1/5",
+        "450 ÷ 5 = 90"
+      ]
+    },
+    {
+      "id": "percentage-easy-08",
+      "topic": "Percentage",
+      "subtopic": "Finding percentage",
+      "level": "Easy",
+      "question": "Find 5% of 760.",
+      "options": [
+        "38",
+        "36",
+        "40",
+        "42"
+      ],
+      "answer": "38",
+      "solution": [
+        "10% of 760 = 76",
+        "5% = half of 10% = 38"
+      ]
+    },
+    {
+      "id": "percentage-easy-09",
+      "topic": "Percentage",
+      "subtopic": "Finding percentage",
+      "level": "Easy",
+      "question": "Find 50% of 918.",
+      "options": [
+        "459",
+        "449",
+        "469",
+        "409"
+      ],
+      "answer": "459",
+      "solution": [
+        "50% means half",
+        "918 ÷ 2 = 459"
+      ]
+    },
+    {
+      "id": "percentage-easy-10",
+      "topic": "Percentage",
+      "subtopic": "Finding percentage",
+      "level": "Easy",
+      "question": "Find 1% of 2400.",
+      "options": [
+        "24",
+        "2.4",
+        "240",
+        "12"
+      ],
+      "answer": "24",
+      "solution": [
+        "1% = 2400 ÷ 100 = 24"
+      ]
+    },
+    {
+      "id": "percentage-easy-11",
+      "topic": "Percentage",
+      "subtopic": "Part to whole",
+      "level": "Easy",
+      "question": "45 is what percentage of 180?",
+      "options": [
+        "25%",
+        "20%",
         "30%",
         "35%"
       ],
       "answer": "25%",
       "solution": [
-        "45/180=1/4",
-        "1/4×100=25%"
+        "45/180 = 1/4",
+        "1/4 × 100 = 25%"
       ]
     },
     {
-      "id": "percentage-finding-a-percentage-of-a-number-easy-2",
+      "id": "percentage-easy-12",
       "topic": "Percentage",
-      "subtopic": "Finding a percentage of a number",
+      "subtopic": "Part to whole",
       "level": "Easy",
-      "question": "Find 25% of 360.",
+      "question": "30 is what percentage of 120?",
       "options": [
-        "80",
-        "90",
-        "100",
-        "120"
+        "25%",
+        "20%",
+        "15%",
+        "30%"
       ],
-      "answer": "90",
+      "answer": "25%",
       "solution": [
-        "25%=1/4",
-        "360÷4=90"
+        "30/120 = 1/4",
+        "×100 = 25%"
       ]
     },
     {
-      "id": "percentage-increase-and-decrease-medium-3",
+      "id": "percentage-easy-13",
       "topic": "Percentage",
-      "subtopic": "Increase and decrease",
-      "level": "Medium",
-      "question": "A price increases by 10% and then by another 10%. What is the total percentage increase?",
+      "subtopic": "Part to whole",
+      "level": "Easy",
+      "question": "72 is what percentage of 240?",
+      "options": [
+        "30%",
+        "25%",
+        "35%",
+        "40%"
+      ],
+      "answer": "30%",
+      "solution": [
+        "72/240 = 0.3",
+        "×100 = 30%"
+      ]
+    },
+    {
+      "id": "percentage-easy-14",
+      "topic": "Percentage",
+      "subtopic": "Part to whole",
+      "level": "Easy",
+      "question": "18 is what percentage of 90?",
       "options": [
         "20%",
-        "21%",
-        "19%",
-        "22%"
+        "10%",
+        "15%",
+        "25%"
       ],
-      "answer": "21%",
+      "answer": "20%",
       "solution": [
-        "100→110",
-        "110→121",
-        "Increase=21"
+        "18/90 = 1/5",
+        "×100 = 20%"
       ]
     },
     {
-      "id": "percentage-reverse-percentage-hard-4",
+      "id": "percentage-easy-15",
+      "topic": "Percentage",
+      "subtopic": "Increase and decrease",
+      "level": "Easy",
+      "question": "Increase 500 by 10%.",
+      "options": [
+        "550",
+        "510",
+        "540",
+        "560"
+      ],
+      "answer": "550",
+      "solution": [
+        "10% of 500 = 50",
+        "500 + 50 = 550"
+      ]
+    },
+    {
+      "id": "percentage-easy-16",
+      "topic": "Percentage",
+      "subtopic": "Increase and decrease",
+      "level": "Easy",
+      "question": "Decrease 800 by 25%.",
+      "options": [
+        "600",
+        "650",
+        "700",
+        "550"
+      ],
+      "answer": "600",
+      "solution": [
+        "25% of 800 = 200",
+        "800 − 200 = 600"
+      ]
+    },
+    {
+      "id": "percentage-easy-17",
+      "topic": "Percentage",
+      "subtopic": "Increase and decrease",
+      "level": "Easy",
+      "question": "Increase 240 by 50%.",
+      "options": [
+        "360",
+        "300",
+        "340",
+        "380"
+      ],
+      "answer": "360",
+      "solution": [
+        "50% of 240 = 120",
+        "240 + 120 = 360"
+      ]
+    },
+    {
+      "id": "percentage-easy-18",
+      "topic": "Percentage",
+      "subtopic": "Increase and decrease",
+      "level": "Easy",
+      "question": "Decrease 360 by 10%.",
+      "options": [
+        "324",
+        "326",
+        "320",
+        "330"
+      ],
+      "answer": "324",
+      "solution": [
+        "10% of 360 = 36",
+        "360 − 36 = 324"
+      ]
+    },
+    {
+      "id": "percentage-easy-19",
+      "topic": "Percentage",
+      "subtopic": "Comparison",
+      "level": "Easy",
+      "question": "A score rises from 40 to 50. Percentage increase?",
+      "options": [
+        "25%",
+        "20%",
+        "10%",
+        "30%"
+      ],
+      "answer": "25%",
+      "solution": [
+        "Increase = 10",
+        "10/40 ×100 = 25%"
+      ]
+    },
+    {
+      "id": "percentage-easy-20",
+      "topic": "Percentage",
+      "subtopic": "Comparison",
+      "level": "Easy",
+      "question": "A price falls from 200 to 150. Percentage decrease?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "50%"
+      ],
+      "answer": "25%",
+      "solution": [
+        "Decrease = 50",
+        "50/200 ×100 = 25%"
+      ]
+    },
+    {
+      "id": "percentage-easy-21",
+      "topic": "Percentage",
+      "subtopic": "Comparison",
+      "level": "Easy",
+      "question": "A number changes from 80 to 100. Percentage increase?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "answer": "25%",
+      "solution": [
+        "Increase = 20",
+        "20/80 ×100 = 25%"
+      ]
+    },
+    {
+      "id": "percentage-easy-22",
+      "topic": "Percentage",
+      "subtopic": "Comparison",
+      "level": "Easy",
+      "question": "A salary falls from 60000 to 54000. Percentage decrease?",
+      "options": [
+        "10%",
+        "5%",
+        "12%",
+        "15%"
+      ],
+      "answer": "10%",
+      "solution": [
+        "Decrease = 6000",
+        "6000/60000 ×100 = 10%"
+      ]
+    },
+    {
+      "id": "percentage-easy-23",
+      "topic": "Percentage",
+      "subtopic": "Common fractions",
+      "level": "Easy",
+      "question": "33⅓% of 90 is:",
+      "options": [
+        "30",
+        "20",
+        "25",
+        "35"
+      ],
+      "answer": "30",
+      "solution": [
+        "33⅓% = 1/3",
+        "90 ÷ 3 = 30"
+      ]
+    },
+    {
+      "id": "percentage-easy-24",
+      "topic": "Percentage",
+      "subtopic": "Common fractions",
+      "level": "Easy",
+      "question": "66⅔% of 120 is:",
+      "options": [
+        "80",
+        "60",
+        "70",
+        "90"
+      ],
+      "answer": "80",
+      "solution": [
+        "66⅔% = 2/3",
+        "120 × 2/3 = 80"
+      ]
+    },
+    {
+      "id": "percentage-easy-25",
+      "topic": "Percentage",
+      "subtopic": "Common fractions",
+      "level": "Easy",
+      "question": "12.5% of 400 is:",
+      "options": [
+        "50",
+        "40",
+        "45",
+        "60"
+      ],
+      "answer": "50",
+      "solution": [
+        "12.5% = 1/8",
+        "400 ÷ 8 = 50"
+      ]
+    },
+    {
+      "id": "percentage-easy-26",
+      "topic": "Percentage",
+      "subtopic": "Common fractions",
+      "level": "Easy",
+      "question": "16⅔% of 300 is:",
+      "options": [
+        "50",
+        "40",
+        "60",
+        "75"
+      ],
+      "answer": "50",
+      "solution": [
+        "16⅔% = 1/6",
+        "300 ÷ 6 = 50"
+      ]
+    },
+    {
+      "id": "percentage-easy-27",
+      "topic": "Percentage",
+      "subtopic": "Basic equation",
+      "level": "Easy",
+      "question": "x% of 200 = 40. Find x.",
+      "options": [
+        "20",
+        "10",
+        "15",
+        "25"
+      ],
+      "answer": "20",
+      "solution": [
+        "x/100 ×200 = 40",
+        "2x = 40",
+        "x = 20"
+      ]
+    },
+    {
+      "id": "percentage-easy-28",
+      "topic": "Percentage",
+      "subtopic": "Basic equation",
+      "level": "Easy",
+      "question": "15% of x = 30. Find x.",
+      "options": [
+        "200",
+        "150",
+        "180",
+        "250"
+      ],
+      "answer": "200",
+      "solution": [
+        "0.15x = 30",
+        "x = 30/0.15 = 200"
+      ]
+    },
+    {
+      "id": "percentage-easy-29",
+      "topic": "Percentage",
+      "subtopic": "Basic equation",
+      "level": "Easy",
+      "question": "What number has 25% equal to 75?",
+      "options": [
+        "300",
+        "250",
+        "275",
+        "325"
+      ],
+      "answer": "300",
+      "solution": [
+        "25% = 1/4",
+        "One whole = 75 ×4 = 300"
+      ]
+    },
+    {
+      "id": "percentage-easy-30",
+      "topic": "Percentage",
+      "subtopic": "Basic equation",
+      "level": "Easy",
+      "question": "40% of a number is 80. Find the number.",
+      "options": [
+        "200",
+        "160",
+        "180",
+        "240"
+      ],
+      "answer": "200",
+      "solution": [
+        "0.4x = 80",
+        "x = 200"
+      ]
+    },
+    {
+      "id": "percentage-medium-01",
+      "topic": "Percentage",
+      "subtopic": "Successive change",
+      "level": "Medium",
+      "question": "A value increases by 10% and then by 20%. Net increase?",
+      "options": [
+        "32%",
+        "30%",
+        "31%",
+        "33%"
+      ],
+      "answer": "32%",
+      "solution": [
+        "100→110",
+        "110→132",
+        "Net increase = 32%"
+      ]
+    },
+    {
+      "id": "percentage-medium-02",
+      "topic": "Percentage",
+      "subtopic": "Successive change",
+      "level": "Medium",
+      "question": "A value decreases by 10% and then by 20%. Net decrease?",
+      "options": [
+        "28%",
+        "30%",
+        "26%",
+        "32%"
+      ],
+      "answer": "28%",
+      "solution": [
+        "100→90",
+        "90→72",
+        "Net decrease = 28%"
+      ]
+    },
+    {
+      "id": "percentage-medium-03",
+      "topic": "Percentage",
+      "subtopic": "Successive change",
+      "level": "Medium",
+      "question": "A price increases by 20% then decreases by 20%. Final change?",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "8% decrease"
+      ],
+      "answer": "4% decrease",
+      "solution": [
+        "100→120",
+        "120×0.8=96",
+        "4% decrease"
+      ]
+    },
+    {
+      "id": "percentage-medium-04",
       "topic": "Percentage",
       "subtopic": "Reverse percentage",
-      "level": "Hard",
-      "question": "After a 20% discount, an item costs ₹960. Find the marked price.",
+      "level": "Medium",
+      "question": "After a 20% increase, a salary is ₹72,000. Original salary?",
       "options": [
-        "₹1000",
-        "₹1152",
+        "₹60,000",
+        "₹57,600",
+        "₹64,000",
+        "₹70,000"
+      ],
+      "answer": "₹60,000",
+      "solution": [
+        "New = 1.2×original",
+        "72000/1.2 = 60000"
+      ]
+    },
+    {
+      "id": "percentage-medium-05",
+      "topic": "Percentage",
+      "subtopic": "Reverse percentage",
+      "level": "Medium",
+      "question": "After a 25% discount, price is ₹900. Marked price?",
+      "options": [
         "₹1200",
-        "₹1240"
+        "₹1100",
+        "₹1125",
+        "₹1350"
       ],
       "answer": "₹1200",
       "solution": [
-        "Final=80% of original",
-        "Original=960/0.8=1200"
+        "900 is 75%",
+        "900/0.75 = 1200"
       ]
     },
     {
-      "id": "percentage-finding-a-percentage-of-a-number-easy-22",
+      "id": "percentage-medium-06",
       "topic": "Percentage",
-      "subtopic": "Finding a percentage of a number",
-      "level": "Easy",
-      "question": "18% of 250 is: ",
-      "options": [
-        "40",
-        "45",
-        "50",
-        "55"
-      ],
-      "answer": "45",
-      "solution": [
-        "18/100×250",
-        "=18×2.5=45"
-      ]
-    },
-    {
-      "id": "percentage-increase-and-decrease-medium-23",
-      "topic": "Percentage",
-      "subtopic": "Increase and decrease",
+      "subtopic": "Reverse percentage",
       "level": "Medium",
-      "question": "A population falls by 10% and then rises by 10%. Compared with the original it is:",
+      "question": "A number becomes 540 after a 10% decrease. Original?",
       "options": [
-        "same",
-        "1% lower",
-        "1% higher",
-        "10% lower"
+        "600",
+        "590",
+        "594",
+        "660"
       ],
-      "answer": "1% lower",
+      "answer": "600",
       "solution": [
-        "100→90",
-        "90×1.1=99",
-        "1% lower"
+        "540 is 90%",
+        "540/0.9 = 600"
+      ]
+    },
+    {
+      "id": "percentage-medium-07",
+      "topic": "Percentage",
+      "subtopic": "Expenditure",
+      "level": "Medium",
+      "question": "Price rises 25%. To keep expenditure unchanged, consumption must reduce by:",
+      "options": [
+        "20%",
+        "25%",
+        "15%",
+        "30%"
+      ],
+      "answer": "20%",
+      "solution": [
+        "Required factor=1/1.25=0.8",
+        "Reduction=20%"
+      ]
+    },
+    {
+      "id": "percentage-medium-08",
+      "topic": "Percentage",
+      "subtopic": "Expenditure",
+      "level": "Medium",
+      "question": "Price falls 20%. Consumption can increase by what percent to keep expenditure same?",
+      "options": [
+        "25%",
+        "20%",
+        "15%",
+        "30%"
+      ],
+      "answer": "25%",
+      "solution": [
+        "Price factor=0.8",
+        "Required quantity factor=1/0.8=1.25"
+      ]
+    },
+    {
+      "id": "percentage-medium-09",
+      "topic": "Percentage",
+      "subtopic": "Expenditure",
+      "level": "Medium",
+      "question": "Income rises 20% and expenditure rises 10%. If saving was ₹2000 on income ₹10000, new saving?",
+      "options": [
+        "₹3800",
+        "₹3000",
+        "₹3200",
+        "₹3600"
+      ],
+      "answer": "₹3800",
+      "solution": [
+        "Old expenditure=8000",
+        "New income=12000",
+        "New expenditure=8800",
+        "Saving=3200"
+      ]
+    },
+    {
+      "id": "percentage-medium-10",
+      "topic": "Percentage",
+      "subtopic": "Marks",
+      "level": "Medium",
+      "question": "A student gets 360 out of 500. Percentage?",
+      "options": [
+        "72%",
+        "70%",
+        "75%",
+        "68%"
+      ],
+      "answer": "72%",
+      "solution": [
+        "360/500×100",
+        "=72%"
+      ]
+    },
+    {
+      "id": "percentage-medium-11",
+      "topic": "Percentage",
+      "subtopic": "Marks",
+      "level": "Medium",
+      "question": "Pass mark is 40% of 750. A student scores 280. By how many marks does the student fail?",
+      "options": [
+        "20",
+        "10",
+        "15",
+        "25"
+      ],
+      "answer": "20",
+      "solution": [
+        "Pass=300",
+        "300−280=20"
+      ]
+    },
+    {
+      "id": "percentage-medium-12",
+      "topic": "Percentage",
+      "subtopic": "Population",
+      "level": "Medium",
+      "question": "Population 20000 grows 5%. New population?",
+      "options": [
+        "21000",
+        "20500",
+        "20800",
+        "21500"
+      ],
+      "answer": "21000",
+      "solution": [
+        "5%=1000",
+        "20000+1000=21000"
+      ]
+    },
+    {
+      "id": "percentage-medium-13",
+      "topic": "Percentage",
+      "subtopic": "Population",
+      "level": "Medium",
+      "question": "Population rises 10% in year 1 and 10% in year 2 from 10000. Final?",
+      "options": [
+        "12100",
+        "12000",
+        "12200",
+        "11900"
+      ],
+      "answer": "12100",
+      "solution": [
+        "10000×1.1×1.1",
+        "=12100"
+      ]
+    },
+    {
+      "id": "percentage-medium-14",
+      "topic": "Percentage",
+      "subtopic": "Percentage points",
+      "level": "Medium",
+      "question": "Pass percentage rises from 60% to 75%. Increase in percentage points?",
+      "options": [
+        "15",
+        "15%",
+        "20",
+        "25"
+      ],
+      "answer": "15",
+      "solution": [
+        "75−60=15 percentage points"
+      ]
+    },
+    {
+      "id": "percentage-medium-15",
+      "topic": "Percentage",
+      "subtopic": "Comparison",
+      "level": "Medium",
+      "question": "A is 25% more than B. B is what percent less than A?",
+      "options": [
+        "20%",
+        "25%",
+        "15%",
+        "30%"
+      ],
+      "answer": "20%",
+      "solution": [
+        "Let B=100",
+        "A=125",
+        "Difference/125×100=20%"
+      ]
+    },
+    {
+      "id": "percentage-medium-16",
+      "topic": "Percentage",
+      "subtopic": "Comparison",
+      "level": "Medium",
+      "question": "A is 20% less than B. B is what percent more than A?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "16⅔%"
+      ],
+      "answer": "25%",
+      "solution": [
+        "Let B=100,A=80",
+        "20/80×100=25%"
+      ]
+    },
+    {
+      "id": "percentage-medium-17",
+      "topic": "Percentage",
+      "subtopic": "Mixture share",
+      "level": "Medium",
+      "question": "40% of a class are girls. If girls are 24, total students?",
+      "options": [
+        "60",
+        "50",
+        "54",
+        "64"
+      ],
+      "answer": "60",
+      "solution": [
+        "24=40%",
+        "Total=24/0.4=60"
+      ]
+    },
+    {
+      "id": "percentage-medium-18",
+      "topic": "Percentage",
+      "subtopic": "Profit relation",
+      "level": "Medium",
+      "question": "A shopkeeper gains 20%. SP is what percent of CP?",
+      "options": [
+        "120%",
+        "80%",
+        "100%",
+        "140%"
+      ],
+      "answer": "120%",
+      "solution": [
+        "SP=CP+20% of CP",
+        "=120% of CP"
+      ]
+    },
+    {
+      "id": "percentage-medium-19",
+      "topic": "Percentage",
+      "subtopic": "Discount relation",
+      "level": "Medium",
+      "question": "An item has 30% discount. SP is what percent of MP?",
+      "options": [
+        "70%",
+        "30%",
+        "60%",
+        "75%"
+      ],
+      "answer": "70%",
+      "solution": [
+        "100−30=70"
+      ]
+    },
+    {
+      "id": "percentage-medium-20",
+      "topic": "Percentage",
+      "subtopic": "Ratio percentage",
+      "level": "Medium",
+      "question": "Boys:girls=3:2. Boys are what percent of class?",
+      "options": [
+        "60%",
+        "50%",
+        "40%",
+        "66⅔%"
+      ],
+      "answer": "60%",
+      "solution": [
+        "Total parts=5",
+        "3/5×100=60%"
+      ]
+    },
+    {
+      "id": "percentage-medium-21",
+      "topic": "Percentage",
+      "subtopic": "Ratio percentage",
+      "level": "Medium",
+      "question": "Men:women=7:3. Women are what percent of total?",
+      "options": [
+        "30%",
+        "25%",
+        "35%",
+        "40%"
+      ],
+      "answer": "30%",
+      "solution": [
+        "3/10×100=30%"
+      ]
+    },
+    {
+      "id": "percentage-medium-22",
+      "topic": "Percentage",
+      "subtopic": "Successive discount",
+      "level": "Medium",
+      "question": "Successive discounts of 10% and 20%. Effective discount?",
+      "options": [
+        "28%",
+        "30%",
+        "26%",
+        "32%"
+      ],
+      "answer": "28%",
+      "solution": [
+        "10+20−2",
+        "=28%"
+      ]
+    },
+    {
+      "id": "percentage-medium-23",
+      "topic": "Percentage",
+      "subtopic": "Successive discount",
+      "level": "Medium",
+      "question": "Successive discounts of 25% and 10%. Effective discount?",
+      "options": [
+        "32.5%",
+        "35%",
+        "30%",
+        "37.5%"
+      ],
+      "answer": "32.5%",
+      "solution": [
+        "25+10−2.5",
+        "=32.5%"
+      ]
+    },
+    {
+      "id": "percentage-medium-24",
+      "topic": "Percentage",
+      "subtopic": "Recovery",
+      "level": "Medium",
+      "question": "A number falls 20%. Required increase to return to original?",
+      "options": [
+        "25%",
+        "20%",
+        "22.5%",
+        "30%"
+      ],
+      "answer": "25%",
+      "solution": [
+        "100→80",
+        "Need +20 on base 80",
+        "20/80=25%"
+      ]
+    },
+    {
+      "id": "percentage-medium-25",
+      "topic": "Percentage",
+      "subtopic": "Recovery",
+      "level": "Medium",
+      "question": "A number rises 25%. Required decrease to return to original?",
+      "options": [
+        "20%",
+        "25%",
+        "15%",
+        "30%"
+      ],
+      "answer": "20%",
+      "solution": [
+        "100→125",
+        "Need −25 on base 125",
+        "25/125=20%"
+      ]
+    },
+    {
+      "id": "percentage-medium-26",
+      "topic": "Percentage",
+      "subtopic": "Data comparison",
+      "level": "Medium",
+      "question": "Sales rise from 240 to 300. Percentage rise?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "answer": "25%",
+      "solution": [
+        "60/240×100=25%"
+      ]
+    },
+    {
+      "id": "percentage-medium-27",
+      "topic": "Percentage",
+      "subtopic": "Base finding",
+      "level": "Medium",
+      "question": "A value after 40% increase is 980. Original?",
+      "options": [
+        "700",
+        "686",
+        "720",
+        "750"
+      ],
+      "answer": "700",
+      "solution": [
+        "980/1.4=700"
+      ]
+    },
+    {
+      "id": "percentage-medium-28",
+      "topic": "Percentage",
+      "subtopic": "Base finding",
+      "level": "Medium",
+      "question": "After 12.5% decrease, value is 700. Original?",
+      "options": [
+        "800",
+        "780",
+        "790",
+        "840"
+      ],
+      "answer": "800",
+      "solution": [
+        "700 is 87.5%=7/8",
+        "700×8/7=800"
+      ]
+    },
+    {
+      "id": "percentage-medium-29",
+      "topic": "Percentage",
+      "subtopic": "Percentage of percentage",
+      "level": "Medium",
+      "question": "30% of 40% of 500 is:",
+      "options": [
+        "60",
+        "50",
+        "70",
+        "80"
+      ],
+      "answer": "60",
+      "solution": [
+        "0.3×0.4×500",
+        "=60"
+      ]
+    },
+    {
+      "id": "percentage-medium-30",
+      "topic": "Percentage",
+      "subtopic": "Change of fraction",
+      "level": "Medium",
+      "question": "If numerator increases 20% and denominator unchanged, fraction increases by:",
+      "options": [
+        "20%",
+        "16⅔%",
+        "25%",
+        "10%"
+      ],
+      "answer": "20%",
+      "solution": [
+        "Only numerator changes by 20%",
+        "Ratio increases by 20%"
+      ]
+    },
+    {
+      "id": "percentage-hard-01",
+      "topic": "Percentage",
+      "subtopic": "Successive mixed",
+      "level": "Hard",
+      "question": "A value increases 25%, decreases 20%, then increases 10%. Net change?",
+      "options": [
+        "10% increase",
+        "5% increase",
+        "No change",
+        "10% decrease"
+      ],
+      "answer": "10% increase",
+      "solution": [
+        "Multiplier=1.25×0.8×1.1=1.1",
+        "Net +10%"
+      ]
+    },
+    {
+      "id": "percentage-hard-02",
+      "topic": "Percentage",
+      "subtopic": "Successive mixed",
+      "level": "Hard",
+      "question": "A value decreases 20%, increases 25%, then decreases 20%. Net change?",
+      "options": [
+        "20% decrease",
+        "No change",
+        "15% decrease",
+        "25% decrease"
+      ],
+      "answer": "20% decrease",
+      "solution": [
+        "1×0.8×1.25×0.8=0.8",
+        "Net −20%"
+      ]
+    },
+    {
+      "id": "percentage-hard-03",
+      "topic": "Percentage",
+      "subtopic": "Base trap",
+      "level": "Hard",
+      "question": "Price of sugar rises 20%. By what percent must expenditure reduce to spend the same amount?",
+      "options": [
+        "16⅔%",
+        "20%",
+        "15%",
+        "25%"
+      ],
+      "answer": "16⅔%",
+      "solution": [
+        "Required quantity=1/1.2=5/6",
+        "Reduction=1/6=16⅔%"
+      ]
+    },
+    {
+      "id": "percentage-hard-04",
+      "topic": "Percentage",
+      "subtopic": "Base trap",
+      "level": "Hard",
+      "question": "Price falls 25%. Required consumption increase for same spend?",
+      "options": [
+        "33⅓%",
+        "25%",
+        "20%",
+        "30%"
+      ],
+      "answer": "33⅓%",
+      "solution": [
+        "Quantity factor=1/0.75=4/3",
+        "Increase=1/3"
+      ]
+    },
+    {
+      "id": "percentage-hard-05",
+      "topic": "Percentage",
+      "subtopic": "Profit discount",
+      "level": "Hard",
+      "question": "MP is 50% above CP. A 20% discount is given. Profit percent?",
+      "options": [
+        "20%",
+        "10%",
+        "15%",
+        "25%"
+      ],
+      "answer": "20%",
+      "solution": [
+        "Let CP=100,MP=150",
+        "SP=120",
+        "Profit=20%"
+      ]
+    },
+    {
+      "id": "percentage-hard-06",
+      "topic": "Percentage",
+      "subtopic": "Profit discount",
+      "level": "Hard",
+      "question": "MP is 25% above CP. A 20% discount is given. Profit/loss?",
+      "options": [
+        "No profit no loss",
+        "5% profit",
+        "5% loss",
+        "20% profit"
+      ],
+      "answer": "No profit no loss",
+      "solution": [
+        "CP=100,MP=125",
+        "SP=100"
+      ]
+    },
+    {
+      "id": "percentage-hard-07",
+      "topic": "Percentage",
+      "subtopic": "Marks correction",
+      "level": "Hard",
+      "question": "A candidate needs 40% to pass. She gets 180 and fails by 20. Total marks?",
+      "options": [
+        "500",
+        "450",
+        "480",
+        "550"
+      ],
+      "answer": "500",
+      "solution": [
+        "Pass=200=40%",
+        "Total=200/0.4=500"
+      ]
+    },
+    {
+      "id": "percentage-hard-08",
+      "topic": "Percentage",
+      "subtopic": "Marks comparison",
+      "level": "Hard",
+      "question": "A scores 20% more than B. By what percent is B less than A?",
+      "options": [
+        "16⅔%",
+        "20%",
+        "15%",
+        "25%"
+      ],
+      "answer": "16⅔%",
+      "solution": [
+        "Let B=100,A=120",
+        "20/120×100=16⅔%"
+      ]
+    },
+    {
+      "id": "percentage-hard-09",
+      "topic": "Percentage",
+      "subtopic": "Income saving",
+      "level": "Hard",
+      "question": "Income increases 20%, expenditure increases 25%. Original income ₹20000, saving ₹4000. New saving?",
+      "options": [
+        "₹4800",
+        "₹4000",
+        "₹4500",
+        "₹5000"
+      ],
+      "answer": "₹4800",
+      "solution": [
+        "Old expense=16000",
+        "New income=24000",
+        "New expense=20000",
+        "Saving=4000"
+      ]
+    },
+    {
+      "id": "percentage-hard-10",
+      "topic": "Percentage",
+      "subtopic": "Income saving",
+      "level": "Hard",
+      "question": "Income rises 10%, expenditure rises 20%. Original income ₹30000, saving ₹6000. New saving?",
+      "options": [
+        "₹2700",
+        "₹3000",
+        "₹3600",
+        "₹4200"
+      ],
+      "answer": "₹2700",
+      "solution": [
+        "Expense=24000",
+        "New income=33000",
+        "New expense=28800",
+        "Saving=4200"
+      ]
+    },
+    {
+      "id": "percentage-hard-11",
+      "topic": "Percentage",
+      "subtopic": "Population reverse",
+      "level": "Hard",
+      "question": "Population after 20% growth is 72000. What was it before growth?",
+      "options": [
+        "60000",
+        "57600",
+        "64000",
+        "70000"
+      ],
+      "answer": "60000",
+      "solution": [
+        "72000/1.2=60000"
+      ]
+    },
+    {
+      "id": "percentage-hard-12",
+      "topic": "Percentage",
+      "subtopic": "Population two years",
+      "level": "Hard",
+      "question": "A town grows 10% first year and 20% second year. Original 50000. Final?",
+      "options": [
+        "66000",
+        "65000",
+        "67000",
+        "60000"
+      ],
+      "answer": "66000",
+      "solution": [
+        "50000×1.1×1.2",
+        "=66000"
+      ]
+    },
+    {
+      "id": "percentage-hard-13",
+      "topic": "Percentage",
+      "subtopic": "Depreciation",
+      "level": "Hard",
+      "question": "A machine depreciates 10% yearly. Value after 2 years from ₹50000?",
+      "options": [
+        "₹40500",
+        "₹40000",
+        "₹41000",
+        "₹45000"
+      ],
+      "answer": "₹40500",
+      "solution": [
+        "50000×0.9²",
+        "=40500"
+      ]
+    },
+    {
+      "id": "percentage-hard-14",
+      "topic": "Percentage",
+      "subtopic": "Percentage equation",
+      "level": "Hard",
+      "question": "If 20% of x is 30% of 400, x equals:",
+      "options": [
+        "600",
+        "500",
+        "550",
+        "650"
+      ],
+      "answer": "600",
+      "solution": [
+        "0.2x=120",
+        "x=600"
+      ]
+    },
+    {
+      "id": "percentage-hard-15",
+      "topic": "Percentage",
+      "subtopic": "Percentage equation",
+      "level": "Hard",
+      "question": "x is 25% more than y and y is 20% less than z. Relation x:z?",
+      "options": [
+        "Equal",
+        "x 5% more",
+        "x 5% less",
+        "Cannot say"
+      ],
+      "answer": "Equal",
+      "solution": [
+        "x=1.25y",
+        "y=0.8z",
+        "x=1.25×0.8z=z"
+      ]
+    },
+    {
+      "id": "percentage-hard-16",
+      "topic": "Percentage",
+      "subtopic": "Ratio shift",
+      "level": "Hard",
+      "question": "In a class boys:girls=3:2. If 20% boys leave, new boys:girls ratio?",
+      "options": [
+        "6:5",
+        "3:2",
+        "5:6",
+        "4:3"
+      ],
+      "answer": "6:5",
+      "solution": [
+        "Boys=3k→2.4k",
+        "Girls=2k",
+        "2.4:2=6:5"
+      ]
+    },
+    {
+      "id": "percentage-hard-17",
+      "topic": "Percentage",
+      "subtopic": "Election",
+      "level": "Hard",
+      "question": "Candidate A gets 55% of valid votes and wins by 3000 votes. Total valid votes?",
+      "options": [
+        "30000",
+        "25000",
+        "27000",
+        "33000"
+      ],
+      "answer": "30000",
+      "solution": [
+        "Margin=10%",
+        "10%=3000",
+        "Total=30000"
+      ]
+    },
+    {
+      "id": "percentage-hard-18",
+      "topic": "Percentage",
+      "subtopic": "Election invalid",
+      "level": "Hard",
+      "question": "60% vote for A, 40% for B; 10% votes invalid. If total votes=10000, A's valid vote count?",
+      "options": [
+        "5400",
+        "6000",
+        "5000",
+        "5600"
+      ],
+      "answer": "5400",
+      "solution": [
+        "Valid votes=9000",
+        "A=60% of 9000=5400"
+      ]
+    },
+    {
+      "id": "percentage-hard-19",
+      "topic": "Percentage",
+      "subtopic": "Mixture percentage",
+      "level": "Hard",
+      "question": "A solution has 20% acid. Add 20 L pure water to 80 L solution. New acid percentage?",
+      "options": [
+        "16%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "answer": "16%",
+      "solution": [
+        "Acid=16 L remains",
+        "Total=100 L",
+        "16%"
+      ]
+    },
+    {
+      "id": "percentage-hard-20",
+      "topic": "Percentage",
+      "subtopic": "Mixture percentage",
+      "level": "Hard",
+      "question": "A 40 L mixture is 25% alcohol. How much water added to make alcohol 20%?",
+      "options": [
+        "10 L",
+        "5 L",
+        "8 L",
+        "12 L"
+      ],
+      "answer": "10 L",
+      "solution": [
+        "Alcohol=10 L",
+        "10/(40+x)=20/100",
+        "40+x=50"
+      ]
+    },
+    {
+      "id": "percentage-hard-21",
+      "topic": "Percentage",
+      "subtopic": "Comparison chain",
+      "level": "Hard",
+      "question": "A is 20% more than B; B is 25% more than C. A is how much more than C?",
+      "options": [
+        "45%",
+        "40%",
+        "50%"
+      ],
+      "answer": "50%",
+      "solution": [
+        "A=1.2B=1.2×1.25C",
+        "=1.5C"
+      ]
+    },
+    {
+      "id": "percentage-hard-22",
+      "topic": "Percentage",
+      "subtopic": "Comparison chain",
+      "level": "Hard",
+      "question": "A is 20% less than B; B is 25% less than C. A is how much less than C?",
+      "options": [
+        "40%",
+        "35%",
+        "45%",
+        "50%"
+      ],
+      "answer": "40%",
+      "solution": [
+        "A=0.8B=0.8×0.75C",
+        "=0.6C"
+      ]
+    },
+    {
+      "id": "percentage-hard-23",
+      "topic": "Percentage",
+      "subtopic": "Price quantity",
+      "level": "Hard",
+      "question": "Price increases 50%, consumption decreases 20%. Expenditure change?",
+      "options": [
+        "20% increase",
+        "No change",
+        "10% increase",
+        "20% decrease"
+      ],
+      "answer": "20% increase",
+      "solution": [
+        "Multiplier=1.5×0.8=1.2",
+        "Net +20%"
+      ]
+    },
+    {
+      "id": "percentage-hard-24",
+      "topic": "Percentage",
+      "subtopic": "Price quantity",
+      "level": "Hard",
+      "question": "Price decreases 20%, consumption increases 30%. Expenditure change?",
+      "options": [
+        "4% increase",
+        "4% decrease",
+        "10% increase",
+        "No change"
+      ],
+      "answer": "4% increase",
+      "solution": [
+        "0.8×1.3=1.04",
+        "Net +4%"
+      ]
+    },
+    {
+      "id": "percentage-hard-25",
+      "topic": "Percentage",
+      "subtopic": "Successive target",
+      "level": "Hard",
+      "question": "A value is increased 20% and then decreased x%. Final equals original. x?",
+      "options": [
+        "16⅔%",
+        "20%",
+        "15%",
+        "25%"
+      ],
+      "answer": "16⅔%",
+      "solution": [
+        "1.2(1−x)=1",
+        "1−x=5/6",
+        "x=1/6"
+      ]
+    },
+    {
+      "id": "percentage-hard-26",
+      "topic": "Percentage",
+      "subtopic": "Successive target",
+      "level": "Hard",
+      "question": "A value decreases 20% then must increase by x% to restore. x?",
+      "options": [
+        "25%",
+        "20%",
+        "22.5%",
+        "30%"
+      ],
+      "answer": "25%",
+      "solution": [
+        "80×(1+x)=100",
+        "x=20/80=25%"
+      ]
+    },
+    {
+      "id": "percentage-hard-27",
+      "topic": "Percentage",
+      "subtopic": "Discount profit",
+      "level": "Hard",
+      "question": "CP ₹800. Marked 50% above CP. Discount 25%. Profit percent?",
+      "options": [
+        "12.5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "12.5%",
+      "solution": [
+        "MP=1200",
+        "SP=900",
+        "Profit=100",
+        "100/800=12.5%"
+      ]
+    },
+    {
+      "id": "percentage-hard-28",
+      "topic": "Percentage",
+      "subtopic": "Discount profit",
+      "level": "Hard",
+      "question": "An article is marked 40% above CP. What discount gives 12% profit?",
+      "options": [
+        "20%",
+        "15%",
+        "18%",
+        "25%"
+      ],
+      "answer": "20%",
+      "solution": [
+        "CP=100,MP=140",
+        "Required SP=112",
+        "Discount=28/140=20%"
+      ]
+    },
+    {
+      "id": "percentage-hard-29",
+      "topic": "Percentage",
+      "subtopic": "Replacement",
+      "level": "Hard",
+      "question": "A number is increased by 50% then decreased by 1/3. Net change?",
+      "options": [
+        "No change",
+        "10% increase",
+        "10% decrease",
+        "16⅔% decrease"
+      ],
+      "answer": "No change",
+      "solution": [
+        "×1.5 then ×2/3",
+        "1.5×2/3=1"
+      ]
+    },
+    {
+      "id": "percentage-hard-30",
+      "topic": "Percentage",
+      "subtopic": "Fraction change",
+      "level": "Hard",
+      "question": "Numerator rises 20% and denominator rises 25%. Fraction changes by:",
+      "options": [
+        "4% decrease",
+        "4% increase",
+        "5% decrease",
+        "No change"
+      ],
+      "answer": "4% decrease",
+      "solution": [
+        "New factor=1.2/1.25=0.96",
+        "Net −4%"
       ]
     }
   ]

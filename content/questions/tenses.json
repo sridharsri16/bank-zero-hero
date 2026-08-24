@@ -2,39 +2,1623 @@
   "topic": "Tenses",
   "questions": [
     {
-      "id": "tenses-present-simple-medium-17",
+      "id": "tenses-easy-001",
       "topic": "Tenses",
-      "subtopic": "Present simple",
-      "level": "Medium",
-      "question": "Choose the correct form: 'The sun ___ in the east.'",
+      "subtopic": "Simple Present",
+      "level": "Easy",
+      "question": "She ___ to school every day.",
       "options": [
-        "rise",
-        "rises",
-        "is rising",
-        "rose"
+        "goes",
+        "go",
+        "went",
+        "is going"
       ],
-      "answer": "rises",
+      "answer": "goes",
       "solution": [
-        "General fact uses simple present",
-        "Sun is singular"
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
       ]
     },
     {
-      "id": "tenses-continuous-forms-easy-32",
+      "id": "tenses-easy-002",
       "topic": "Tenses",
-      "subtopic": "Continuous forms",
+      "subtopic": "Past Continuous",
       "level": "Easy",
-      "question": "Choose: 'They ___ dinner now.'",
+      "question": "They ___ dinner when I arrived.",
       "options": [
-        "have",
-        "are having",
-        "had",
-        "were"
+        "were having",
+        "go",
+        "went",
+        "is going"
       ],
-      "answer": "are having",
+      "answer": "were having",
       "solution": [
-        "Now indicates present continuous",
-        "They + are + having"
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-easy-003",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Easy",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-easy-004",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Easy",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-easy-005",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Easy",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-easy-006",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Easy",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-easy-007",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Easy",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-easy-008",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Easy",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-easy-009",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Easy",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-easy-010",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Easy",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-easy-011",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Easy",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-easy-012",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Easy",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-easy-013",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Easy",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-easy-014",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Easy",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-easy-015",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Easy",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-easy-016",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Easy",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-easy-017",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Easy",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-easy-018",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Easy",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-easy-019",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Easy",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-easy-020",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Easy",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-easy-021",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Easy",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-easy-022",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Easy",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-easy-023",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Easy",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-easy-024",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Easy",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-easy-025",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Easy",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-easy-026",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Easy",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-easy-027",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Easy",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-easy-028",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Easy",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-easy-029",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Easy",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-easy-030",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Easy",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-medium-031",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Medium",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-medium-032",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Medium",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-medium-033",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Medium",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-medium-034",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Medium",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-medium-035",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Medium",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-medium-036",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Medium",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-medium-037",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Medium",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-medium-038",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Medium",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-medium-039",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Medium",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-medium-040",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Medium",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-medium-041",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Medium",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-medium-042",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Medium",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-medium-043",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Medium",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-medium-044",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Medium",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-medium-045",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Medium",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-medium-046",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Medium",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-medium-047",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Medium",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-medium-048",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Medium",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-medium-049",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Medium",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-medium-050",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Medium",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-medium-051",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Medium",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-medium-052",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Medium",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-medium-053",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Medium",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-medium-054",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Medium",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-medium-055",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Medium",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-medium-056",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Medium",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-medium-057",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Medium",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-medium-058",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Medium",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-medium-059",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Medium",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-medium-060",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Medium",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-hard-061",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Hard",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-hard-062",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Hard",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-hard-063",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Hard",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-hard-064",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Hard",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-hard-065",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Hard",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-hard-066",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Hard",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-hard-067",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Hard",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-hard-068",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Hard",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-hard-069",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Hard",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-hard-070",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Hard",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-hard-071",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Hard",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-hard-072",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Hard",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-hard-073",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Hard",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-hard-074",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Hard",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-hard-075",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Hard",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-hard-076",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Hard",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-hard-077",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Hard",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-hard-078",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Hard",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-hard-079",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Hard",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-hard-080",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Hard",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-hard-081",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Hard",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-hard-082",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Hard",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-hard-083",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Hard",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-hard-084",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Hard",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-hard-085",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Hard",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-hard-086",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Hard",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
+      ]
+    },
+    {
+      "id": "tenses-hard-087",
+      "topic": "Tenses",
+      "subtopic": "Present Perfect",
+      "level": "Hard",
+      "question": "I ___ my work already.",
+      "options": [
+        "have finished",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "have finished",
+      "solution": [
+        "Time clue determines the tense: Present Perfect",
+        "Correct form: have finished"
+      ]
+    },
+    {
+      "id": "tenses-hard-088",
+      "topic": "Tenses",
+      "subtopic": "Future Perfect",
+      "level": "Hard",
+      "question": "By next year, he ___ here for ten years.",
+      "options": [
+        "will have worked",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "will have worked",
+      "solution": [
+        "Time clue determines the tense: Future Perfect",
+        "Correct form: will have worked"
+      ]
+    },
+    {
+      "id": "tenses-hard-089",
+      "topic": "Tenses",
+      "subtopic": "Simple Present",
+      "level": "Hard",
+      "question": "She ___ to school every day.",
+      "options": [
+        "goes",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "goes",
+      "solution": [
+        "Time clue determines the tense: Simple Present",
+        "Correct form: goes"
+      ]
+    },
+    {
+      "id": "tenses-hard-090",
+      "topic": "Tenses",
+      "subtopic": "Past Continuous",
+      "level": "Hard",
+      "question": "They ___ dinner when I arrived.",
+      "options": [
+        "were having",
+        "go",
+        "went",
+        "is going"
+      ],
+      "answer": "were having",
+      "solution": [
+        "Time clue determines the tense: Past Continuous",
+        "Correct form: were having"
       ]
     }
   ]

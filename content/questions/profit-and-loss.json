@@ -2,57 +2,1653 @@
   "topic": "Profit and Loss",
   "questions": [
     {
-      "id": "profit-and-loss-core-terms-easy-9",
+      "id": "profit-and-loss-easy-001",
       "topic": "Profit and Loss",
-      "subtopic": "Core terms",
+      "subtopic": "Profit, loss and discount",
       "level": "Easy",
-      "question": "CP=₹800 and SP=₹920. Profit percentage?",
+      "question": "An item costs ₹200. It is sold at a profit of 5%. Find the selling price.",
       "options": [
-        "10%",
-        "12%",
-        "15%",
-        "20%"
+        "210",
+        "200",
+        "0",
+        "Cannot be determined"
       ],
-      "answer": "15%",
+      "answer": "210",
       "solution": [
-        "Profit=120",
-        "120/800×100=15%"
+        "Profit = 5% of 200 = 10",
+        "SP = 200+10 = 210"
       ]
     },
     {
-      "id": "profit-and-loss-discount-and-marked-price-hard-10",
+      "id": "profit-and-loss-easy-002",
       "topic": "Profit and Loss",
-      "subtopic": "Discount and marked price",
-      "level": "Hard",
-      "question": "A shop gives successive discounts of 20% and 25%. Effective discount?",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹220. It is sold at a profit of 10%. Find the selling price.",
       "options": [
-        "40%",
-        "45%",
-        "35%",
-        "37.5%"
+        "242",
+        "220",
+        "230",
+        "0"
       ],
-      "answer": "40%",
+      "answer": "242",
       "solution": [
-        "20+25−20×25/100",
-        "45−5=40%"
+        "Profit = 10% of 220 = 22",
+        "SP = 220+22 = 242"
       ]
     },
     {
-      "id": "profit-and-loss-core-terms-medium-26",
+      "id": "profit-and-loss-easy-003",
       "topic": "Profit and Loss",
-      "subtopic": "Core terms",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹240. It is sold at a profit of 15%. Find the selling price.",
+      "options": [
+        "276",
+        "240",
+        "250",
+        "0"
+      ],
+      "answer": "276",
+      "solution": [
+        "Profit = 15% of 240 = 36",
+        "SP = 240+36 = 276"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-004",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹260. It is sold at a profit of 20%. Find the selling price.",
+      "options": [
+        "312",
+        "260",
+        "270",
+        "0"
+      ],
+      "answer": "312",
+      "solution": [
+        "Profit = 20% of 260 = 52",
+        "SP = 260+52 = 312"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-005",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹280. It is sold at a profit of 25%. Find the selling price.",
+      "options": [
+        "350",
+        "280",
+        "290",
+        "0"
+      ],
+      "answer": "350",
+      "solution": [
+        "Profit = 25% of 280 = 70",
+        "SP = 280+70 = 350"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-006",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹300. It is sold at a profit of 30%. Find the selling price.",
+      "options": [
+        "390",
+        "300",
+        "310",
+        "0"
+      ],
+      "answer": "390",
+      "solution": [
+        "Profit = 30% of 300 = 90",
+        "SP = 300+90 = 390"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-007",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹320. It is sold at a profit of 5%. Find the selling price.",
+      "options": [
+        "336",
+        "320",
+        "330",
+        "0"
+      ],
+      "answer": "336",
+      "solution": [
+        "Profit = 5% of 320 = 16",
+        "SP = 320+16 = 336"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-008",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹340. It is sold at a profit of 10%. Find the selling price.",
+      "options": [
+        "374",
+        "340",
+        "350",
+        "0"
+      ],
+      "answer": "374",
+      "solution": [
+        "Profit = 10% of 340 = 34",
+        "SP = 340+34 = 374"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-009",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹360. It is sold at a profit of 15%. Find the selling price.",
+      "options": [
+        "414",
+        "360",
+        "370",
+        "0"
+      ],
+      "answer": "414",
+      "solution": [
+        "Profit = 15% of 360 = 54",
+        "SP = 360+54 = 414"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-010",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹380. It is sold at a profit of 20%. Find the selling price.",
+      "options": [
+        "456",
+        "380",
+        "390",
+        "0"
+      ],
+      "answer": "456",
+      "solution": [
+        "Profit = 20% of 380 = 76",
+        "SP = 380+76 = 456"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-011",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹400. It is sold at a profit of 25%. Find the selling price.",
+      "options": [
+        "500",
+        "400",
+        "410",
+        "0"
+      ],
+      "answer": "500",
+      "solution": [
+        "Profit = 25% of 400 = 100",
+        "SP = 400+100 = 500"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-012",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹420. It is sold at a profit of 30%. Find the selling price.",
+      "options": [
+        "546",
+        "420",
+        "430",
+        "0"
+      ],
+      "answer": "546",
+      "solution": [
+        "Profit = 30% of 420 = 126",
+        "SP = 420+126 = 546"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-013",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹440. It is sold at a profit of 5%. Find the selling price.",
+      "options": [
+        "462",
+        "440",
+        "450",
+        "0"
+      ],
+      "answer": "462",
+      "solution": [
+        "Profit = 5% of 440 = 22",
+        "SP = 440+22 = 462"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-014",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹460. It is sold at a profit of 10%. Find the selling price.",
+      "options": [
+        "506",
+        "460",
+        "470",
+        "0"
+      ],
+      "answer": "506",
+      "solution": [
+        "Profit = 10% of 460 = 46",
+        "SP = 460+46 = 506"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-015",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹480. It is sold at a profit of 15%. Find the selling price.",
+      "options": [
+        "552",
+        "480",
+        "490",
+        "0"
+      ],
+      "answer": "552",
+      "solution": [
+        "Profit = 15% of 480 = 72",
+        "SP = 480+72 = 552"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-016",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹500. It is sold at a profit of 20%. Find the selling price.",
+      "options": [
+        "600",
+        "500",
+        "510",
+        "0"
+      ],
+      "answer": "600",
+      "solution": [
+        "Profit = 20% of 500 = 100",
+        "SP = 500+100 = 600"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-017",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹520. It is sold at a profit of 25%. Find the selling price.",
+      "options": [
+        "650",
+        "520",
+        "530",
+        "0"
+      ],
+      "answer": "650",
+      "solution": [
+        "Profit = 25% of 520 = 130",
+        "SP = 520+130 = 650"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-018",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹540. It is sold at a profit of 30%. Find the selling price.",
+      "options": [
+        "702",
+        "540",
+        "550",
+        "0"
+      ],
+      "answer": "702",
+      "solution": [
+        "Profit = 30% of 540 = 162",
+        "SP = 540+162 = 702"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-019",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹560. It is sold at a profit of 5%. Find the selling price.",
+      "options": [
+        "588",
+        "560",
+        "570",
+        "0"
+      ],
+      "answer": "588",
+      "solution": [
+        "Profit = 5% of 560 = 28",
+        "SP = 560+28 = 588"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-020",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹580. It is sold at a profit of 10%. Find the selling price.",
+      "options": [
+        "638",
+        "580",
+        "590",
+        "0"
+      ],
+      "answer": "638",
+      "solution": [
+        "Profit = 10% of 580 = 58",
+        "SP = 580+58 = 638"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-021",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹600. It is sold at a profit of 15%. Find the selling price.",
+      "options": [
+        "690",
+        "600",
+        "610",
+        "0"
+      ],
+      "answer": "690",
+      "solution": [
+        "Profit = 15% of 600 = 90",
+        "SP = 600+90 = 690"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-022",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹620. It is sold at a profit of 20%. Find the selling price.",
+      "options": [
+        "744",
+        "620",
+        "630",
+        "0"
+      ],
+      "answer": "744",
+      "solution": [
+        "Profit = 20% of 620 = 124",
+        "SP = 620+124 = 744"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-023",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹640. It is sold at a profit of 25%. Find the selling price.",
+      "options": [
+        "800",
+        "640",
+        "650",
+        "0"
+      ],
+      "answer": "800",
+      "solution": [
+        "Profit = 25% of 640 = 160",
+        "SP = 640+160 = 800"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-024",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹660. It is sold at a profit of 30%. Find the selling price.",
+      "options": [
+        "858",
+        "660",
+        "670",
+        "0"
+      ],
+      "answer": "858",
+      "solution": [
+        "Profit = 30% of 660 = 198",
+        "SP = 660+198 = 858"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-025",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹680. It is sold at a profit of 5%. Find the selling price.",
+      "options": [
+        "714",
+        "680",
+        "690",
+        "0"
+      ],
+      "answer": "714",
+      "solution": [
+        "Profit = 5% of 680 = 34",
+        "SP = 680+34 = 714"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-026",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹700. It is sold at a profit of 10%. Find the selling price.",
+      "options": [
+        "770",
+        "700",
+        "710",
+        "0"
+      ],
+      "answer": "770",
+      "solution": [
+        "Profit = 10% of 700 = 70",
+        "SP = 700+70 = 770"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-027",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹720. It is sold at a profit of 15%. Find the selling price.",
+      "options": [
+        "828",
+        "720",
+        "730",
+        "0"
+      ],
+      "answer": "828",
+      "solution": [
+        "Profit = 15% of 720 = 108",
+        "SP = 720+108 = 828"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-028",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹740. It is sold at a profit of 20%. Find the selling price.",
+      "options": [
+        "888",
+        "740",
+        "750",
+        "0"
+      ],
+      "answer": "888",
+      "solution": [
+        "Profit = 20% of 740 = 148",
+        "SP = 740+148 = 888"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-029",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹760. It is sold at a profit of 25%. Find the selling price.",
+      "options": [
+        "950",
+        "760",
+        "770",
+        "0"
+      ],
+      "answer": "950",
+      "solution": [
+        "Profit = 25% of 760 = 190",
+        "SP = 760+190 = 950"
+      ]
+    },
+    {
+      "id": "profit-and-loss-easy-030",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Easy",
+      "question": "An item costs ₹780. It is sold at a profit of 30%. Find the selling price.",
+      "options": [
+        "1014",
+        "780",
+        "790",
+        "0"
+      ],
+      "answer": "1014",
+      "solution": [
+        "Profit = 30% of 780 = 234",
+        "SP = 780+234 = 1014"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-031",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
       "level": "Medium",
-      "question": "An article is sold for ₹540 at 10% loss. CP is:",
+      "question": "CP is ₹200. The item is marked 50% above CP and sold after a 10% discount. Find profit/loss percent.",
       "options": [
-        "₹480",
-        "₹500",
-        "₹600",
-        "₹594"
+        "35%",
+        "200",
+        "270.0",
+        "0"
       ],
-      "answer": "₹600",
+      "answer": "35%",
       "solution": [
-        "SP=90% of CP",
-        "CP=540/0.9=600"
+        "MP = 200×1.5 = 300",
+        "SP = 300×90/100 = 270",
+        "Profit% = (270-200)/200×100 = 35%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-032",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹220. The item is marked 50% above CP and sold after a 15% discount. Find profit/loss percent.",
+      "options": [
+        "27.5%",
+        "220",
+        "280.5",
+        "0"
+      ],
+      "answer": "27.5%",
+      "solution": [
+        "MP = 220×1.5 = 330",
+        "SP = 330×85/100 = 280.5",
+        "Profit% = (280.5-220)/220×100 = 27.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-033",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹240. The item is marked 50% above CP and sold after a 20% discount. Find profit/loss percent.",
+      "options": [
+        "20%",
+        "240",
+        "288.0",
+        "0"
+      ],
+      "answer": "20%",
+      "solution": [
+        "MP = 240×1.5 = 360",
+        "SP = 360×80/100 = 288",
+        "Profit% = (288-240)/240×100 = 20%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-034",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹260. The item is marked 50% above CP and sold after a 25% discount. Find profit/loss percent.",
+      "options": [
+        "12.5%",
+        "260",
+        "292.5",
+        "0"
+      ],
+      "answer": "12.5%",
+      "solution": [
+        "MP = 260×1.5 = 390",
+        "SP = 390×75/100 = 292.5",
+        "Profit% = (292.5-260)/260×100 = 12.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-035",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹280. The item is marked 50% above CP and sold after a 30% discount. Find profit/loss percent.",
+      "options": [
+        "5%",
+        "280",
+        "294.0",
+        "0"
+      ],
+      "answer": "5%",
+      "solution": [
+        "MP = 280×1.5 = 420",
+        "SP = 420×70/100 = 294",
+        "Profit% = (294-280)/280×100 = 5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-036",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹300. The item is marked 50% above CP and sold after a 10% discount. Find profit/loss percent.",
+      "options": [
+        "35%",
+        "300",
+        "405.0",
+        "0"
+      ],
+      "answer": "35%",
+      "solution": [
+        "MP = 300×1.5 = 450",
+        "SP = 450×90/100 = 405",
+        "Profit% = (405-300)/300×100 = 35%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-037",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹320. The item is marked 50% above CP and sold after a 15% discount. Find profit/loss percent.",
+      "options": [
+        "27.5%",
+        "320",
+        "408.0",
+        "0"
+      ],
+      "answer": "27.5%",
+      "solution": [
+        "MP = 320×1.5 = 480",
+        "SP = 480×85/100 = 408",
+        "Profit% = (408-320)/320×100 = 27.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-038",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹340. The item is marked 50% above CP and sold after a 20% discount. Find profit/loss percent.",
+      "options": [
+        "20%",
+        "340",
+        "408.0",
+        "0"
+      ],
+      "answer": "20%",
+      "solution": [
+        "MP = 340×1.5 = 510",
+        "SP = 510×80/100 = 408",
+        "Profit% = (408-340)/340×100 = 20%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-039",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹360. The item is marked 50% above CP and sold after a 25% discount. Find profit/loss percent.",
+      "options": [
+        "12.5%",
+        "360",
+        "405.0",
+        "0"
+      ],
+      "answer": "12.5%",
+      "solution": [
+        "MP = 360×1.5 = 540",
+        "SP = 540×75/100 = 405",
+        "Profit% = (405-360)/360×100 = 12.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-040",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹380. The item is marked 50% above CP and sold after a 30% discount. Find profit/loss percent.",
+      "options": [
+        "5%",
+        "380",
+        "399.0",
+        "0"
+      ],
+      "answer": "5%",
+      "solution": [
+        "MP = 380×1.5 = 570",
+        "SP = 570×70/100 = 399",
+        "Profit% = (399-380)/380×100 = 5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-041",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹400. The item is marked 50% above CP and sold after a 10% discount. Find profit/loss percent.",
+      "options": [
+        "35%",
+        "400",
+        "540.0",
+        "0"
+      ],
+      "answer": "35%",
+      "solution": [
+        "MP = 400×1.5 = 600",
+        "SP = 600×90/100 = 540",
+        "Profit% = (540-400)/400×100 = 35%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-042",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹420. The item is marked 50% above CP and sold after a 15% discount. Find profit/loss percent.",
+      "options": [
+        "27.5%",
+        "420",
+        "535.5",
+        "0"
+      ],
+      "answer": "27.5%",
+      "solution": [
+        "MP = 420×1.5 = 630",
+        "SP = 630×85/100 = 535.5",
+        "Profit% = (535.5-420)/420×100 = 27.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-043",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹440. The item is marked 50% above CP and sold after a 20% discount. Find profit/loss percent.",
+      "options": [
+        "20%",
+        "440",
+        "528.0",
+        "0"
+      ],
+      "answer": "20%",
+      "solution": [
+        "MP = 440×1.5 = 660",
+        "SP = 660×80/100 = 528",
+        "Profit% = (528-440)/440×100 = 20%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-044",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹460. The item is marked 50% above CP and sold after a 25% discount. Find profit/loss percent.",
+      "options": [
+        "12.5%",
+        "460",
+        "517.5",
+        "0"
+      ],
+      "answer": "12.5%",
+      "solution": [
+        "MP = 460×1.5 = 690",
+        "SP = 690×75/100 = 517.5",
+        "Profit% = (517.5-460)/460×100 = 12.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-045",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹480. The item is marked 50% above CP and sold after a 30% discount. Find profit/loss percent.",
+      "options": [
+        "5%",
+        "480",
+        "504.0",
+        "0"
+      ],
+      "answer": "5%",
+      "solution": [
+        "MP = 480×1.5 = 720",
+        "SP = 720×70/100 = 504",
+        "Profit% = (504-480)/480×100 = 5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-046",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹500. The item is marked 50% above CP and sold after a 10% discount. Find profit/loss percent.",
+      "options": [
+        "35%",
+        "500",
+        "675.0",
+        "0"
+      ],
+      "answer": "35%",
+      "solution": [
+        "MP = 500×1.5 = 750",
+        "SP = 750×90/100 = 675",
+        "Profit% = (675-500)/500×100 = 35%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-047",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹520. The item is marked 50% above CP and sold after a 15% discount. Find profit/loss percent.",
+      "options": [
+        "27.5%",
+        "520",
+        "663.0",
+        "0"
+      ],
+      "answer": "27.5%",
+      "solution": [
+        "MP = 520×1.5 = 780",
+        "SP = 780×85/100 = 663",
+        "Profit% = (663-520)/520×100 = 27.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-048",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹540. The item is marked 50% above CP and sold after a 20% discount. Find profit/loss percent.",
+      "options": [
+        "20%",
+        "540",
+        "648.0",
+        "0"
+      ],
+      "answer": "20%",
+      "solution": [
+        "MP = 540×1.5 = 810",
+        "SP = 810×80/100 = 648",
+        "Profit% = (648-540)/540×100 = 20%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-049",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹560. The item is marked 50% above CP and sold after a 25% discount. Find profit/loss percent.",
+      "options": [
+        "12.5%",
+        "560",
+        "630.0",
+        "0"
+      ],
+      "answer": "12.5%",
+      "solution": [
+        "MP = 560×1.5 = 840",
+        "SP = 840×75/100 = 630",
+        "Profit% = (630-560)/560×100 = 12.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-050",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹580. The item is marked 50% above CP and sold after a 30% discount. Find profit/loss percent.",
+      "options": [
+        "5%",
+        "580",
+        "609.0",
+        "0"
+      ],
+      "answer": "5%",
+      "solution": [
+        "MP = 580×1.5 = 870",
+        "SP = 870×70/100 = 609",
+        "Profit% = (609-580)/580×100 = 5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-051",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹600. The item is marked 50% above CP and sold after a 10% discount. Find profit/loss percent.",
+      "options": [
+        "35%",
+        "600",
+        "810.0",
+        "0"
+      ],
+      "answer": "35%",
+      "solution": [
+        "MP = 600×1.5 = 900",
+        "SP = 900×90/100 = 810",
+        "Profit% = (810-600)/600×100 = 35%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-052",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹620. The item is marked 50% above CP and sold after a 15% discount. Find profit/loss percent.",
+      "options": [
+        "27.5%",
+        "620",
+        "790.5",
+        "0"
+      ],
+      "answer": "27.5%",
+      "solution": [
+        "MP = 620×1.5 = 930",
+        "SP = 930×85/100 = 790.5",
+        "Profit% = (790.5-620)/620×100 = 27.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-053",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹640. The item is marked 50% above CP and sold after a 20% discount. Find profit/loss percent.",
+      "options": [
+        "20%",
+        "640",
+        "768.0",
+        "0"
+      ],
+      "answer": "20%",
+      "solution": [
+        "MP = 640×1.5 = 960",
+        "SP = 960×80/100 = 768",
+        "Profit% = (768-640)/640×100 = 20%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-054",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹660. The item is marked 50% above CP and sold after a 25% discount. Find profit/loss percent.",
+      "options": [
+        "12.5%",
+        "660",
+        "742.5",
+        "0"
+      ],
+      "answer": "12.5%",
+      "solution": [
+        "MP = 660×1.5 = 990",
+        "SP = 990×75/100 = 742.5",
+        "Profit% = (742.5-660)/660×100 = 12.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-055",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹680. The item is marked 50% above CP and sold after a 30% discount. Find profit/loss percent.",
+      "options": [
+        "5%",
+        "680",
+        "714.0",
+        "0"
+      ],
+      "answer": "5%",
+      "solution": [
+        "MP = 680×1.5 = 1020",
+        "SP = 1020×70/100 = 714",
+        "Profit% = (714-680)/680×100 = 5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-056",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹700. The item is marked 50% above CP and sold after a 10% discount. Find profit/loss percent.",
+      "options": [
+        "35%",
+        "700",
+        "945.0",
+        "0"
+      ],
+      "answer": "35%",
+      "solution": [
+        "MP = 700×1.5 = 1050",
+        "SP = 1050×90/100 = 945",
+        "Profit% = (945-700)/700×100 = 35%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-057",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹720. The item is marked 50% above CP and sold after a 15% discount. Find profit/loss percent.",
+      "options": [
+        "27.5%",
+        "720",
+        "918.0",
+        "0"
+      ],
+      "answer": "27.5%",
+      "solution": [
+        "MP = 720×1.5 = 1080",
+        "SP = 1080×85/100 = 918",
+        "Profit% = (918-720)/720×100 = 27.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-058",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹740. The item is marked 50% above CP and sold after a 20% discount. Find profit/loss percent.",
+      "options": [
+        "20%",
+        "740",
+        "888.0",
+        "0"
+      ],
+      "answer": "20%",
+      "solution": [
+        "MP = 740×1.5 = 1110",
+        "SP = 1110×80/100 = 888",
+        "Profit% = (888-740)/740×100 = 20%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-059",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹760. The item is marked 50% above CP and sold after a 25% discount. Find profit/loss percent.",
+      "options": [
+        "12.5%",
+        "760",
+        "855.0",
+        "0"
+      ],
+      "answer": "12.5%",
+      "solution": [
+        "MP = 760×1.5 = 1140",
+        "SP = 1140×75/100 = 855",
+        "Profit% = (855-760)/760×100 = 12.5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-medium-060",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Medium",
+      "question": "CP is ₹780. The item is marked 50% above CP and sold after a 30% discount. Find profit/loss percent.",
+      "options": [
+        "5%",
+        "780",
+        "819.0",
+        "0"
+      ],
+      "answer": "5%",
+      "solution": [
+        "MP = 780×1.5 = 1170",
+        "SP = 1170×70/100 = 819",
+        "Profit% = (819-780)/780×100 = 5%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-061",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹200; MP is ₹280. What discount gives a profit of 10%?",
+      "options": [
+        "21.4286%",
+        "200",
+        "220.0",
+        "0"
+      ],
+      "answer": "21.4286%",
+      "solution": [
+        "Required SP = 200×110/100 = 220",
+        "Discount = (280-220)/280×100 = 21.4286%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-062",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹220; MP is ₹330. What discount gives a profit of 15%?",
+      "options": [
+        "23.3333%",
+        "220",
+        "253.0",
+        "0"
+      ],
+      "answer": "23.3333%",
+      "solution": [
+        "Required SP = 220×115/100 = 253",
+        "Discount = (330-253)/330×100 = 23.3333%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-063",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹240; MP is ₹384. What discount gives a profit of 20%?",
+      "options": [
+        "25%",
+        "240",
+        "288.0",
+        "0"
+      ],
+      "answer": "25%",
+      "solution": [
+        "Required SP = 240×120/100 = 288",
+        "Discount = (384-288)/384×100 = 25%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-064",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹260; MP is ₹442. What discount gives a profit of 25%?",
+      "options": [
+        "26.4706%",
+        "260",
+        "325.0",
+        "0"
+      ],
+      "answer": "26.4706%",
+      "solution": [
+        "Required SP = 260×125/100 = 325",
+        "Discount = (442-325)/442×100 = 26.4706%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-065",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹280; MP is ₹392. What discount gives a profit of 30%?",
+      "options": [
+        "7.14286%",
+        "280",
+        "364.0",
+        "0"
+      ],
+      "answer": "7.14286%",
+      "solution": [
+        "Required SP = 280×130/100 = 364",
+        "Discount = (392-364)/392×100 = 7.14286%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-066",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹300; MP is ₹450. What discount gives a profit of 10%?",
+      "options": [
+        "26.6667%",
+        "300",
+        "330.0",
+        "0"
+      ],
+      "answer": "26.6667%",
+      "solution": [
+        "Required SP = 300×110/100 = 330",
+        "Discount = (450-330)/450×100 = 26.6667%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-067",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹320; MP is ₹512. What discount gives a profit of 15%?",
+      "options": [
+        "28.125%",
+        "320",
+        "368.0",
+        "0"
+      ],
+      "answer": "28.125%",
+      "solution": [
+        "Required SP = 320×115/100 = 368",
+        "Discount = (512-368)/512×100 = 28.125%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-068",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹340; MP is ₹578. What discount gives a profit of 20%?",
+      "options": [
+        "29.4118%",
+        "340",
+        "408.0",
+        "0"
+      ],
+      "answer": "29.4118%",
+      "solution": [
+        "Required SP = 340×120/100 = 408",
+        "Discount = (578-408)/578×100 = 29.4118%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-069",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹360; MP is ₹504. What discount gives a profit of 25%?",
+      "options": [
+        "10.7143%",
+        "360",
+        "450.0",
+        "0"
+      ],
+      "answer": "10.7143%",
+      "solution": [
+        "Required SP = 360×125/100 = 450",
+        "Discount = (504-450)/504×100 = 10.7143%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-070",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹380; MP is ₹570. What discount gives a profit of 30%?",
+      "options": [
+        "13.3333%",
+        "380",
+        "494.0",
+        "0"
+      ],
+      "answer": "13.3333%",
+      "solution": [
+        "Required SP = 380×130/100 = 494",
+        "Discount = (570-494)/570×100 = 13.3333%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-071",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹400; MP is ₹640. What discount gives a profit of 10%?",
+      "options": [
+        "31.25%",
+        "400",
+        "440.0",
+        "0"
+      ],
+      "answer": "31.25%",
+      "solution": [
+        "Required SP = 400×110/100 = 440",
+        "Discount = (640-440)/640×100 = 31.25%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-072",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹420; MP is ₹714. What discount gives a profit of 15%?",
+      "options": [
+        "32.3529%",
+        "420",
+        "483.0",
+        "0"
+      ],
+      "answer": "32.3529%",
+      "solution": [
+        "Required SP = 420×115/100 = 483",
+        "Discount = (714-483)/714×100 = 32.3529%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-073",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹440; MP is ₹616. What discount gives a profit of 20%?",
+      "options": [
+        "14.2857%",
+        "440",
+        "528.0",
+        "0"
+      ],
+      "answer": "14.2857%",
+      "solution": [
+        "Required SP = 440×120/100 = 528",
+        "Discount = (616-528)/616×100 = 14.2857%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-074",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹460; MP is ₹690. What discount gives a profit of 25%?",
+      "options": [
+        "16.6667%",
+        "460",
+        "575.0",
+        "0"
+      ],
+      "answer": "16.6667%",
+      "solution": [
+        "Required SP = 460×125/100 = 575",
+        "Discount = (690-575)/690×100 = 16.6667%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-075",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹480; MP is ₹768. What discount gives a profit of 30%?",
+      "options": [
+        "18.75%",
+        "480",
+        "624.0",
+        "0"
+      ],
+      "answer": "18.75%",
+      "solution": [
+        "Required SP = 480×130/100 = 624",
+        "Discount = (768-624)/768×100 = 18.75%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-076",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹500; MP is ₹850. What discount gives a profit of 10%?",
+      "options": [
+        "35.2941%",
+        "500",
+        "550.0",
+        "0"
+      ],
+      "answer": "35.2941%",
+      "solution": [
+        "Required SP = 500×110/100 = 550",
+        "Discount = (850-550)/850×100 = 35.2941%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-077",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹520; MP is ₹728. What discount gives a profit of 15%?",
+      "options": [
+        "17.8571%",
+        "520",
+        "598.0",
+        "0"
+      ],
+      "answer": "17.8571%",
+      "solution": [
+        "Required SP = 520×115/100 = 598",
+        "Discount = (728-598)/728×100 = 17.8571%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-078",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹540; MP is ₹810. What discount gives a profit of 20%?",
+      "options": [
+        "20%",
+        "540",
+        "648.0",
+        "0"
+      ],
+      "answer": "20%",
+      "solution": [
+        "Required SP = 540×120/100 = 648",
+        "Discount = (810-648)/810×100 = 20%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-079",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹560; MP is ₹896. What discount gives a profit of 25%?",
+      "options": [
+        "21.875%",
+        "560",
+        "700.0",
+        "0"
+      ],
+      "answer": "21.875%",
+      "solution": [
+        "Required SP = 560×125/100 = 700",
+        "Discount = (896-700)/896×100 = 21.875%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-080",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹580; MP is ₹986. What discount gives a profit of 30%?",
+      "options": [
+        "23.5294%",
+        "580",
+        "754.0",
+        "0"
+      ],
+      "answer": "23.5294%",
+      "solution": [
+        "Required SP = 580×130/100 = 754",
+        "Discount = (986-754)/986×100 = 23.5294%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-081",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹600; MP is ₹840. What discount gives a profit of 10%?",
+      "options": [
+        "21.4286%",
+        "600",
+        "660.0",
+        "0"
+      ],
+      "answer": "21.4286%",
+      "solution": [
+        "Required SP = 600×110/100 = 660",
+        "Discount = (840-660)/840×100 = 21.4286%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-082",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹620; MP is ₹930. What discount gives a profit of 15%?",
+      "options": [
+        "23.3333%",
+        "620",
+        "713.0",
+        "0"
+      ],
+      "answer": "23.3333%",
+      "solution": [
+        "Required SP = 620×115/100 = 713",
+        "Discount = (930-713)/930×100 = 23.3333%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-083",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹640; MP is ₹1024. What discount gives a profit of 20%?",
+      "options": [
+        "25%",
+        "640",
+        "768.0",
+        "0"
+      ],
+      "answer": "25%",
+      "solution": [
+        "Required SP = 640×120/100 = 768",
+        "Discount = (1024-768)/1024×100 = 25%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-084",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹660; MP is ₹1122. What discount gives a profit of 25%?",
+      "options": [
+        "26.4706%",
+        "660",
+        "825.0",
+        "0"
+      ],
+      "answer": "26.4706%",
+      "solution": [
+        "Required SP = 660×125/100 = 825",
+        "Discount = (1122-825)/1122×100 = 26.4706%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-085",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹680; MP is ₹952. What discount gives a profit of 30%?",
+      "options": [
+        "7.14286%",
+        "680",
+        "884.0",
+        "0"
+      ],
+      "answer": "7.14286%",
+      "solution": [
+        "Required SP = 680×130/100 = 884",
+        "Discount = (952-884)/952×100 = 7.14286%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-086",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹700; MP is ₹1050. What discount gives a profit of 10%?",
+      "options": [
+        "26.6667%",
+        "700",
+        "770.0",
+        "0"
+      ],
+      "answer": "26.6667%",
+      "solution": [
+        "Required SP = 700×110/100 = 770",
+        "Discount = (1050-770)/1050×100 = 26.6667%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-087",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹720; MP is ₹1152. What discount gives a profit of 15%?",
+      "options": [
+        "28.125%",
+        "720",
+        "828.0",
+        "0"
+      ],
+      "answer": "28.125%",
+      "solution": [
+        "Required SP = 720×115/100 = 828",
+        "Discount = (1152-828)/1152×100 = 28.125%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-088",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹740; MP is ₹1258. What discount gives a profit of 20%?",
+      "options": [
+        "29.4118%",
+        "740",
+        "888.0",
+        "0"
+      ],
+      "answer": "29.4118%",
+      "solution": [
+        "Required SP = 740×120/100 = 888",
+        "Discount = (1258-888)/1258×100 = 29.4118%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-089",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹760; MP is ₹1064. What discount gives a profit of 25%?",
+      "options": [
+        "10.7143%",
+        "760",
+        "950.0",
+        "0"
+      ],
+      "answer": "10.7143%",
+      "solution": [
+        "Required SP = 760×125/100 = 950",
+        "Discount = (1064-950)/1064×100 = 10.7143%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-hard-090",
+      "topic": "Profit and Loss",
+      "subtopic": "Profit, loss and discount",
+      "level": "Hard",
+      "question": "CP is ₹780; MP is ₹1170. What discount gives a profit of 30%?",
+      "options": [
+        "13.3333%",
+        "780",
+        "1014.0",
+        "0"
+      ],
+      "answer": "13.3333%",
+      "solution": [
+        "Required SP = 780×130/100 = 1014",
+        "Discount = (1170-1014)/1170×100 = 13.3333%"
       ]
     }
   ]

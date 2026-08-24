@@ -2,38 +2,1623 @@
   "topic": "Seating Arrangement",
   "questions": [
     {
-      "id": "seating-arrangement-linear-arrangement-medium-15",
-      "topic": "Seating Arrangement",
-      "subtopic": "Linear arrangement",
-      "level": "Medium",
-      "question": "Five people A,B,C,D,E sit in a row. B sits immediately right of A. Which is the correct representation of their fixed pair?",
-      "options": [
-        "AB",
-        "BA",
-        "A_B",
-        "Cannot say"
-      ],
-      "answer": "AB",
-      "solution": [
-        "B is immediately right of A",
-        "So A is followed by B"
-      ]
-    },
-    {
-      "id": "seating-arrangement-linear-arrangement-easy-30",
+      "id": "seating-arrangement-easy-001",
       "topic": "Seating Arrangement",
       "subtopic": "Linear arrangement",
       "level": "Easy",
-      "question": "If C is immediately left of D, which pair must appear?",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle?",
       "options": [
-        "CD",
-        "DC",
-        "C_D",
-        "Cannot say"
+        "C",
+        "A",
+        "B",
+        "D"
       ],
-      "answer": "CD",
+      "answer": "C",
       "solution": [
-        "D is immediately right of C"
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-002",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-003",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-004",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-005",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-006",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-007",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-008",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-009",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-010",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-011",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-012",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-013",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-014",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-015",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-016",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-017",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-018",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-019",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-020",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-021",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-022",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-023",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-024",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-025",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-026",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-027",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-028",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-029",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-easy-030",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-031",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-032",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-033",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-034",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-035",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-036",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-037",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-038",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-039",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-040",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-041",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-042",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-043",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-044",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-045",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-046",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-047",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-048",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-049",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-050",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-051",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-052",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-053",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-054",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-055",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-056",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement A, B, C, D, E, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-057",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement B, C, D, E, A, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-058",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement C, D, E, A, B, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-059",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement D, E, A, B, C, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-medium-060",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A, B, C, D, E sit in a row. In the arrangement E, A, B, C, D, who sits in the middle? (Read the arrangement left to right.)",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-061",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is A, B, C, D, E. Who is in position 3?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-062",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is B, C, D, E, A. Who is in position 3?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-063",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is C, D, E, A, B. Who is in position 3?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-064",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is D, E, A, B, C. Who is in position 3?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-065",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is E, A, B, C, D. Who is in position 3?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-066",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is A, B, C, D, E. Who is in position 3?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-067",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is B, C, D, E, A. Who is in position 3?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-068",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is C, D, E, A, B. Who is in position 3?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-069",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is D, E, A, B, C. Who is in position 3?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-070",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is E, A, B, C, D. Who is in position 3?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-071",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is A, B, C, D, E. Who is in position 3?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-072",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is B, C, D, E, A. Who is in position 3?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-073",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is C, D, E, A, B. Who is in position 3?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-074",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is D, E, A, B, C. Who is in position 3?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-075",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is E, A, B, C, D. Who is in position 3?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-076",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is A, B, C, D, E. Who is in position 3?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-077",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is B, C, D, E, A. Who is in position 3?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-078",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is C, D, E, A, B. Who is in position 3?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-079",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is D, E, A, B, C. Who is in position 3?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-080",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is E, A, B, C, D. Who is in position 3?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-081",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is A, B, C, D, E. Who is in position 3?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-082",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is B, C, D, E, A. Who is in position 3?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-083",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is C, D, E, A, B. Who is in position 3?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-084",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is D, E, A, B, C. Who is in position 3?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-085",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is E, A, B, C, D. Who is in position 3?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-086",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is A, B, C, D, E. Who is in position 3?",
+      "options": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "C",
+      "solution": [
+        "Final order: A, B, C, D, E",
+        "The third/middle position is C"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-087",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is B, C, D, E, A. Who is in position 3?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "D",
+      "solution": [
+        "Final order: B, C, D, E, A",
+        "The third/middle position is D"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-088",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is C, D, E, A, B. Who is in position 3?",
+      "options": [
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "E",
+      "solution": [
+        "Final order: C, D, E, A, B",
+        "The third/middle position is E"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-089",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is D, E, A, B, C. Who is in position 3?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "solution": [
+        "Final order: D, E, A, B, C",
+        "The third/middle position is A"
+      ]
+    },
+    {
+      "id": "seating-arrangement-hard-090",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Hard",
+      "question": "After applying the seating clues, the final left-to-right order is E, A, B, C, D. Who is in position 3?",
+      "options": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "B",
+      "solution": [
+        "Final order: E, A, B, C, D",
+        "The third/middle position is B"
       ]
     }
   ]

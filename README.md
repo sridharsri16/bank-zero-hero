@@ -34,3 +34,11 @@ For manual deploy, upload the extracted project folder contents, not the ZIP its
 
 ## V2 content expansion
 Added/expanded topic modules should remain data-only under content/learn and content/questions.
+
+
+## V3 Percentage bank
+`content/questions/percentage.json` now contains exactly 90 stored questions: 30 Easy, 30 Medium, 30 Hard. They are explicit JSON records with solutions; the browser does not generate them at runtime.
+
+
+## V5 consolidated bank
+All 14 current topics now contain 90 stored question objects each (30 Easy, 30 Medium, 30 Hard): 1,260 questions total. Percentage is retained from V4; the other 13 banks are expanded. Previous-paper metadata is in content/papers/index.json and rendered by the Papers tab.
