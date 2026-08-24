@@ -1,0 +1,23 @@
+{
+  "topic": "Reading Comprehension",
+  "questions": [
+    {
+      "id": "reading-comprehension-read-for-structure-medium-21",
+      "topic": "Reading Comprehension",
+      "subtopic": "Read for structure",
+      "level": "Medium",
+      "question": "For a main-idea question, the best answer is usually:",
+      "options": [
+        "A minor example",
+        "The broad idea supported by the whole passage",
+        "The first sentence only",
+        "Outside knowledge"
+      ],
+      "answer": "The broad idea supported by the whole passage",
+      "solution": [
+        "Main idea summarizes the central message",
+        "It should be supported across the passage"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "subject": "English",
+  "topic": "Articles",
+  "id": "articles",
+  "subtopics": [
+    {
+      "title": "Sound rule and specificity",
+      "zero": "Choose a/an by sound. Use the for a specific or previously mentioned thing.",
+      "visual": "an honest man; a university; a dog → the dog",
+      "rule": "Sound matters more than spelling.",
+      "examples": [
+        {
+          "question": "___ apple",
+          "solution": [
+            "vowel sound"
+          ],
+          "answer": "an",
+          "level": "Easy"
+        },
+        {
+          "question": "___ university",
+          "solution": [
+            "starts with 'you' sound"
+          ],
+          "answer": "a",
+          "level": "Medium"
+        },
+        {
+          "question": "I saw a dog. ___ dog was friendly",
+          "solution": [
+            "second mention is specific"
+          ],
+          "answer": "the",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Say the first sound aloud.",
+      "traps": "A vowel letter does not always require 'an'."
+    }
+  ]
+}

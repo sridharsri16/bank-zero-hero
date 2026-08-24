@@ -1,0 +1,40 @@
+{
+  "topic": "Parts of Speech",
+  "questions": [
+    {
+      "id": "parts-of-speech-word-jobs-easy-16",
+      "topic": "Parts of Speech",
+      "subtopic": "Word jobs",
+      "level": "Easy",
+      "question": "In 'She sings beautifully', what part of speech is 'beautifully'?",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Adverb"
+      ],
+      "answer": "Adverb",
+      "solution": [
+        "It modifies the verb 'sings' by telling how"
+      ]
+    },
+    {
+      "id": "parts-of-speech-word-jobs-hard-31",
+      "topic": "Parts of Speech",
+      "subtopic": "Word jobs",
+      "level": "Hard",
+      "question": "In 'Walking is healthy', the word 'Walking' functions as:",
+      "options": [
+        "Verb",
+        "Noun",
+        "Adverb",
+        "Preposition"
+      ],
+      "answer": "Noun",
+      "solution": [
+        "The activity is acting as the subject",
+        "A gerund functions as a noun"
+      ]
+    }
+  ]
+}

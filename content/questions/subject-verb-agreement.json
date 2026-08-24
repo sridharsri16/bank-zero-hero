@@ -1,0 +1,23 @@
+{
+  "topic": "Subject Verb Agreement",
+  "questions": [
+    {
+      "id": "subject-verb-agreement-find-the-true-subject-hard-18",
+      "topic": "Subject Verb Agreement",
+      "subtopic": "Find the true subject",
+      "level": "Hard",
+      "question": "Choose: 'Neither the manager nor the employees ___ available.'",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has"
+      ],
+      "answer": "are",
+      "solution": [
+        "With neither...nor, verb agrees with nearer subject",
+        "Employees is plural"
+      ]
+    }
+  ]
+}

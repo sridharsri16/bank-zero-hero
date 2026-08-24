@@ -1,0 +1,40 @@
+{
+  "topic": "Articles",
+  "questions": [
+    {
+      "id": "articles-sound-rule-and-specificity-medium-19",
+      "topic": "Articles",
+      "subtopic": "Sound rule and specificity",
+      "level": "Medium",
+      "question": "Choose: 'He is ___ honest officer.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "an",
+      "solution": [
+        "Honest begins with a vowel sound because h is silent"
+      ]
+    },
+    {
+      "id": "articles-sound-rule-and-specificity-hard-33",
+      "topic": "Articles",
+      "subtopic": "Sound rule and specificity",
+      "level": "Hard",
+      "question": "Choose: 'She bought ___ MBA guide.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "an",
+      "solution": [
+        "MBA is pronounced 'em-bee-ay'",
+        "It begins with vowel sound"
+      ]
+    }
+  ]
+}

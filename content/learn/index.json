@@ -1,0 +1,86 @@
+[
+  {
+    "subject": "Quantitative Aptitude",
+    "topic": "Percentage",
+    "id": "percentage",
+    "file": "content/learn/quantitative-aptitude/percentage.json"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "id": "ratio-and-proportion",
+    "file": "content/learn/quantitative-aptitude/ratio-and-proportion.json"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "topic": "Average",
+    "id": "average",
+    "file": "content/learn/quantitative-aptitude/average.json"
+  },
+  {
+    "subject": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "id": "profit-and-loss",
+    "file": "content/learn/quantitative-aptitude/profit-and-loss.json"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Direction Sense",
+    "id": "direction-sense",
+    "file": "content/learn/reasoning/direction-sense.json"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Blood Relations",
+    "id": "blood-relations",
+    "file": "content/learn/reasoning/blood-relations.json"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Syllogism",
+    "id": "syllogism",
+    "file": "content/learn/reasoning/syllogism.json"
+  },
+  {
+    "subject": "Reasoning",
+    "topic": "Seating Arrangement",
+    "id": "seating-arrangement",
+    "file": "content/learn/reasoning/seating-arrangement.json"
+  },
+  {
+    "subject": "English",
+    "topic": "Parts of Speech",
+    "id": "parts-of-speech",
+    "file": "content/learn/english/parts-of-speech.json"
+  },
+  {
+    "subject": "English",
+    "topic": "Tenses",
+    "id": "tenses",
+    "file": "content/learn/english/tenses.json"
+  },
+  {
+    "subject": "English",
+    "topic": "Subject Verb Agreement",
+    "id": "subject-verb-agreement",
+    "file": "content/learn/english/subject-verb-agreement.json"
+  },
+  {
+    "subject": "English",
+    "topic": "Articles",
+    "id": "articles",
+    "file": "content/learn/english/articles.json"
+  },
+  {
+    "subject": "English",
+    "topic": "Error Detection",
+    "id": "error-detection",
+    "file": "content/learn/english/error-detection.json"
+  },
+  {
+    "subject": "English",
+    "topic": "Reading Comprehension",
+    "id": "reading-comprehension",
+    "file": "content/learn/english/reading-comprehension.json"
+  }
+]

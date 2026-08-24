@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "Percentage",
+    "file": "content/questions/percentage.json",
+    "count": 6
+  },
+  {
+    "topic": "Ratio and Proportion",
+    "file": "content/questions/ratio-and-proportion.json",
+    "count": 3
+  },
+  {
+    "topic": "Average",
+    "file": "content/questions/average.json",
+    "count": 3
+  },
+  {
+    "topic": "Profit and Loss",
+    "file": "content/questions/profit-and-loss.json",
+    "count": 3
+  },
+  {
+    "topic": "Direction Sense",
+    "file": "content/questions/direction-sense.json",
+    "count": 3
+  },
+  {
+    "topic": "Blood Relations",
+    "file": "content/questions/blood-relations.json",
+    "count": 2
+  },
+  {
+    "topic": "Syllogism",
+    "file": "content/questions/syllogism.json",
+    "count": 2
+  },
+  {
+    "topic": "Seating Arrangement",
+    "file": "content/questions/seating-arrangement.json",
+    "count": 2
+  },
+  {
+    "topic": "Parts of Speech",
+    "file": "content/questions/parts-of-speech.json",
+    "count": 2
+  },
+  {
+    "topic": "Tenses",
+    "file": "content/questions/tenses.json",
+    "count": 2
+  },
+  {
+    "topic": "Subject Verb Agreement",
+    "file": "content/questions/subject-verb-agreement.json",
+    "count": 1
+  },
+  {
+    "topic": "Articles",
+    "file": "content/questions/articles.json",
+    "count": 2
+  },
+  {
+    "topic": "Error Detection",
+    "file": "content/questions/error-detection.json",
+    "count": 2
+  },
+  {
+    "topic": "Reading Comprehension",
+    "file": "content/questions/reading-comprehension.json",
+    "count": 1
+  }
+]

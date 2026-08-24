@@ -1,0 +1,70 @@
+{
+  "subject": "Reasoning",
+  "topic": "Seating Arrangement",
+  "id": "seating-arrangement",
+  "subtopics": [
+    {
+      "title": "Linear arrangement",
+      "zero": "Create numbered slots. Place fixed positions first, then immediate pairs, then negative clues.",
+      "visual": "1 2 3 4 5",
+      "rule": "Use blocks for 'immediately'.",
+      "examples": [
+        {
+          "question": "A sits at left end",
+          "solution": [
+            "slot 1"
+          ],
+          "answer": "A fixed",
+          "level": "Easy"
+        },
+        {
+          "question": "B immediately right of C",
+          "solution": [
+            "treat as C-B block"
+          ],
+          "answer": "CB",
+          "level": "Medium"
+        },
+        {
+          "question": "A not at ends; B immediately left of A",
+          "solution": [
+            "test internal BA blocks",
+            "eliminate conflicts"
+          ],
+          "answer": "case elimination",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Strong/fixed clues first.",
+      "traps": "Next to does not give fixed left/right order."
+    },
+    {
+      "title": "Circular arrangement",
+      "zero": "Fix one person as reference if only relative positions matter. Track facing before interpreting left/right.",
+      "visual": "Fix A at top; place others around",
+      "rule": "Facing centre reverses page intuition.",
+      "examples": [
+        {
+          "question": "All face centre; B is right of A",
+          "solution": [
+            "fix A",
+            "right of A is counterclockwise"
+          ],
+          "answer": "place B accordingly",
+          "level": "Medium"
+        },
+        {
+          "question": "Mixed facing directions",
+          "solution": [
+            "mark facing for each person",
+            "apply their own left/right"
+          ],
+          "answer": "track individually",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Write centre/outside beside each person.",
+      "traps": "Do not use one person's orientation for everyone."
+    }
+  ]
+}

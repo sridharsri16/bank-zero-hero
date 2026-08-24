@@ -1,0 +1,43 @@
+{
+  "subject": "Reasoning",
+  "topic": "Syllogism",
+  "id": "syllogism",
+  "subtopics": [
+    {
+      "title": "Set diagrams",
+      "zero": "All = one set inside another. No = separate sets. Some = at least one overlap.",
+      "visual": "All A are B: A ⊂ B",
+      "rule": "Only accept what must be true.",
+      "examples": [
+        {
+          "question": "All cats animals; all animals living",
+          "solution": [
+            "cats inside animals inside living"
+          ],
+          "answer": "All cats living",
+          "level": "Easy"
+        },
+        {
+          "question": "Some pens books; all books useful",
+          "solution": [
+            "some pens overlap books",
+            "books inside useful"
+          ],
+          "answer": "Some pens useful",
+          "level": "Medium"
+        },
+        {
+          "question": "No A is B; Some B are C",
+          "solution": [
+            "A and B separate",
+            "B overlaps C"
+          ],
+          "answer": "No definite A-C relation",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Use circles for every statement.",
+      "traps": "Some A are B does not mean all A are B."
+    }
+  ]
+}

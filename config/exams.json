@@ -1,0 +1,21 @@
+{
+  "exams": [
+    {
+      "name": "SBI Clerk / Junior Associate",
+      "sections": [
+        "English",
+        "Reasoning",
+        "Quantitative Aptitude"
+      ]
+    },
+    {
+      "name": "IOB LBO",
+      "sections": [
+        "Reasoning",
+        "English",
+        "Quantitative Aptitude",
+        "Banking/General Awareness"
+      ]
+    }
+  ]
+}

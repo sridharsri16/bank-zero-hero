@@ -1,0 +1,41 @@
+{
+  "subject": "English",
+  "topic": "Subject Verb Agreement",
+  "id": "subject-verb-agreement",
+  "subtopics": [
+    {
+      "title": "Find the true subject",
+      "zero": "The verb agrees with the main subject, not a nearby noun.",
+      "visual": "The bouquet of roses IS beautiful",
+      "rule": "Singular subject → singular verb",
+      "examples": [
+        {
+          "question": "The boy ___ fast",
+          "solution": [
+            "boy singular"
+          ],
+          "answer": "runs",
+          "level": "Easy"
+        },
+        {
+          "question": "The bouquet of roses ___ beautiful",
+          "solution": [
+            "subject=bouquet"
+          ],
+          "answer": "is",
+          "level": "Medium"
+        },
+        {
+          "question": "Neither the teacher nor the students ___ ready",
+          "solution": [
+            "nearer subject students"
+          ],
+          "answer": "are",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Remove 'of...' phrases temporarily.",
+      "traps": "Do not automatically match the nearest noun."
+    }
+  ]
+}

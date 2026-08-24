@@ -1,0 +1,80 @@
+{
+  "subject": "Quantitative Aptitude",
+  "topic": "Profit and Loss",
+  "id": "profit-and-loss",
+  "subtopics": [
+    {
+      "title": "Core terms",
+      "zero": "Cost Price is purchase cost. Selling Price is received amount. Compare SP and CP first.",
+      "visual": "CP → SP; SP>CP profit, SP<CP loss",
+      "rule": "Profit%=Profit/CP×100",
+      "examples": [
+        {
+          "question": "CP=100,SP=120",
+          "solution": [
+            "profit=20",
+            "20/100×100"
+          ],
+          "answer": "20% profit",
+          "level": "Easy"
+        },
+        {
+          "question": "CP=500,SP=450",
+          "solution": [
+            "loss=50",
+            "50/500×100"
+          ],
+          "answer": "10% loss",
+          "level": "Easy"
+        },
+        {
+          "question": "CP=800, profit=15%",
+          "solution": [
+            "profit=120",
+            "SP=920"
+          ],
+          "answer": "920",
+          "level": "Medium"
+        }
+      ],
+      "shortcut": "Profit/loss percentage is normally on CP.",
+      "traps": "Do not use SP as denominator unless explicitly asked."
+    },
+    {
+      "title": "Discount and marked price",
+      "zero": "Discount is calculated from Marked Price and produces Selling Price.",
+      "visual": "MP − discount = SP",
+      "rule": "Discount%=discount/MP×100",
+      "examples": [
+        {
+          "question": "MP=1000,20% discount",
+          "solution": [
+            "discount=200",
+            "SP=800"
+          ],
+          "answer": "800",
+          "level": "Easy"
+        },
+        {
+          "question": "2000,20% then 10% discount",
+          "solution": [
+            "2000→1600",
+            "1600→1440"
+          ],
+          "answer": "1440",
+          "level": "Medium"
+        },
+        {
+          "question": "Effective discount 20% then 10%",
+          "solution": [
+            "20+10−20×10/100"
+          ],
+          "answer": "28%",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Successive discounts: a+b−ab/100.",
+      "traps": "Do not simply add successive discounts."
+    }
+  ]
+}

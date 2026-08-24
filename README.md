@@ -1,31 +1,36 @@
-# Bank Zero → Hero V7 Real Learning
+# Bank Zero → Hero — Modular Content Architecture
 
-This version focuses on actual learning content.
+## The rule
+The UI never contains lesson text or question definitions.
 
-## Included
-- Today
-- Learn
-- Practice
-- Revision
-- Progress
-- Previous Papers section
+## Replace only Learn
+Replace files under `content/learn/` and update `content/learn/index.json`.
 
-## Learn
-Each topic contains:
-1. Beginner explanation
-2. Visual model
-3. Rule/formula
-4. Worked examples
-5. Easy/Medium/Hard thinking
-6. Shortcut
-7. Common mistakes
+## Replace only Questions
+Replace one file under `content/questions/` and update `content/questions/index.json`.
 
-## Deploy
-Upload these files/folders to the root of your GitHub repository:
-- index.html
-- css/
-- js/
-- data/
-- README.md
+## Keep user progress
+Progress stores question IDs only:
+- mastered[]
+- revision[]
+- attempts{}
 
-Commit to the branch connected to Netlify.
+If question IDs remain stable, progress survives content upgrades.
+
+## Add a topic
+1. Add `content/learn/<subject>/<topic>.json`
+2. Add it to `content/learn/index.json`
+3. Add `content/questions/<topic>.json`
+4. Add it to `content/questions/index.json`
+
+## Important
+This starter deliberately does NOT claim thousands of questions. It proves the modular architecture with explicit question objects. The correct next work is content expansion by topic, not template repetition.
+
+
+## Deploy to Netlify
+This is a static site. Publish directory: `.`. No build command is required.
+For GitHub deployment, connect the repository and use Publish directory `.`.
+For manual deploy, upload the extracted project folder contents, not the ZIP itself.
+
+## V2 content expansion
+Added/expanded topic modules should remain data-only under content/learn and content/questions.

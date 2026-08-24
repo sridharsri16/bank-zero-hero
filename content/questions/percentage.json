@@ -1,0 +1,115 @@
+{
+  "topic": "Percentage",
+  "questions": [
+    {
+      "id": "percentage-meaning-and-conversion-easy-1",
+      "topic": "Percentage",
+      "subtopic": "Meaning and conversion",
+      "level": "Easy",
+      "question": "What percentage is 45 out of 180?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "answer": "25%",
+      "solution": [
+        "45/180=1/4",
+        "1/4×100=25%"
+      ]
+    },
+    {
+      "id": "percentage-finding-a-percentage-of-a-number-easy-2",
+      "topic": "Percentage",
+      "subtopic": "Finding a percentage of a number",
+      "level": "Easy",
+      "question": "Find 25% of 360.",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "120"
+      ],
+      "answer": "90",
+      "solution": [
+        "25%=1/4",
+        "360÷4=90"
+      ]
+    },
+    {
+      "id": "percentage-increase-and-decrease-medium-3",
+      "topic": "Percentage",
+      "subtopic": "Increase and decrease",
+      "level": "Medium",
+      "question": "A price increases by 10% and then by another 10%. What is the total percentage increase?",
+      "options": [
+        "20%",
+        "21%",
+        "19%",
+        "22%"
+      ],
+      "answer": "21%",
+      "solution": [
+        "100→110",
+        "110→121",
+        "Increase=21"
+      ]
+    },
+    {
+      "id": "percentage-reverse-percentage-hard-4",
+      "topic": "Percentage",
+      "subtopic": "Reverse percentage",
+      "level": "Hard",
+      "question": "After a 20% discount, an item costs ₹960. Find the marked price.",
+      "options": [
+        "₹1000",
+        "₹1152",
+        "₹1200",
+        "₹1240"
+      ],
+      "answer": "₹1200",
+      "solution": [
+        "Final=80% of original",
+        "Original=960/0.8=1200"
+      ]
+    },
+    {
+      "id": "percentage-finding-a-percentage-of-a-number-easy-22",
+      "topic": "Percentage",
+      "subtopic": "Finding a percentage of a number",
+      "level": "Easy",
+      "question": "18% of 250 is: ",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "answer": "45",
+      "solution": [
+        "18/100×250",
+        "=18×2.5=45"
+      ]
+    },
+    {
+      "id": "percentage-increase-and-decrease-medium-23",
+      "topic": "Percentage",
+      "subtopic": "Increase and decrease",
+      "level": "Medium",
+      "question": "A population falls by 10% and then rises by 10%. Compared with the original it is:",
+      "options": [
+        "same",
+        "1% lower",
+        "1% higher",
+        "10% lower"
+      ],
+      "answer": "1% lower",
+      "solution": [
+        "100→90",
+        "90×1.1=99",
+        "1% lower"
+      ]
+    }
+  ]
+}

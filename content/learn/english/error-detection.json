@@ -1,0 +1,33 @@
+{
+  "subject": "English",
+  "topic": "Error Detection",
+  "id": "error-detection",
+  "subtopics": [
+    {
+      "title": "A checking sequence",
+      "zero": "Check grammar systematically rather than guessing.",
+      "visual": "1 subject-verb → 2 tense → 3 pronoun → 4 article/preposition → 5 meaning",
+      "rule": "One grammar check at a time.",
+      "examples": [
+        {
+          "question": "The list of items are ready",
+          "solution": [
+            "subject=list singular"
+          ],
+          "answer": "is",
+          "level": "Easy"
+        },
+        {
+          "question": "Each of the players have a jersey",
+          "solution": [
+            "each singular"
+          ],
+          "answer": "has",
+          "level": "Medium"
+        }
+      ],
+      "shortcut": "Find the main subject before looking at the verb.",
+      "traps": "Plural nouns inside 'of' phrases often distract."
+    }
+  ]
+}

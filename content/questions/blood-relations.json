@@ -1,0 +1,42 @@
+{
+  "topic": "Blood Relations",
+  "questions": [
+    {
+      "id": "blood-relations-family-tree-method-medium-13",
+      "topic": "Blood Relations",
+      "subtopic": "Family tree method",
+      "level": "Medium",
+      "question": "A is B's brother. B is C's mother. How is A related to C?",
+      "options": [
+        "Uncle",
+        "Father",
+        "Brother",
+        "Grandfather"
+      ],
+      "answer": "Uncle",
+      "solution": [
+        "A is sibling of C's mother",
+        "Therefore maternal uncle"
+      ]
+    },
+    {
+      "id": "blood-relations-family-tree-method-hard-28",
+      "topic": "Blood Relations",
+      "subtopic": "Family tree method",
+      "level": "Hard",
+      "question": "P is Q's daughter. Q is R's brother. P is R's:",
+      "options": [
+        "Niece",
+        "Aunt",
+        "Sister",
+        "Granddaughter"
+      ],
+      "answer": "Niece",
+      "solution": [
+        "Q and R are siblings",
+        "P is child of Q",
+        "Therefore niece"
+      ]
+    }
+  ]
+}

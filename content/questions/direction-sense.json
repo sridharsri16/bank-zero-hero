@@ -1,0 +1,57 @@
+{
+  "topic": "Direction Sense",
+  "questions": [
+    {
+      "id": "direction-sense-compass-from-zero-easy-11",
+      "topic": "Direction Sense",
+      "subtopic": "Compass from zero",
+      "level": "Easy",
+      "question": "A person faces West and turns left. Which direction now?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "answer": "South",
+      "solution": [
+        "Left of West is South"
+      ]
+    },
+    {
+      "id": "direction-sense-net-direction-medium-12",
+      "topic": "Direction Sense",
+      "subtopic": "Net direction",
+      "level": "Medium",
+      "question": "A person walks 6 km North and 8 km East. Final direction?",
+      "options": [
+        "North-West",
+        "North-East",
+        "South-East",
+        "East"
+      ],
+      "answer": "North-East",
+      "solution": [
+        "Net movement is North and East",
+        "Therefore North-East"
+      ]
+    },
+    {
+      "id": "direction-sense-compass-from-zero-hard-27",
+      "topic": "Direction Sense",
+      "subtopic": "Compass from zero",
+      "level": "Hard",
+      "question": "Facing North, a person turns right, then right, then left. Final direction?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "answer": "East",
+      "solution": [
+        "N→E→S→E"
+      ]
+    }
+  ]
+}

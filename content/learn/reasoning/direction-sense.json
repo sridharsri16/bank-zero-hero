@@ -1,0 +1,67 @@
+{
+  "subject": "Reasoning",
+  "topic": "Direction Sense",
+  "id": "direction-sense",
+  "subtopics": [
+    {
+      "title": "Compass from zero",
+      "zero": "Use a fixed compass and update the person's facing direction after every turn.",
+      "visual": "N\nW + E\nS",
+      "rule": "Right/left depends on current facing.",
+      "examples": [
+        {
+          "question": "Face North, turn right",
+          "solution": [
+            "right of North"
+          ],
+          "answer": "East",
+          "level": "Easy"
+        },
+        {
+          "question": "Face East, turn left twice",
+          "solution": [
+            "East→North→West"
+          ],
+          "answer": "West",
+          "level": "Medium"
+        },
+        {
+          "question": "Face South, turn right, left, U-turn",
+          "solution": [
+            "South→West→South→North"
+          ],
+          "answer": "North",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Draw arrows instead of visualising mentally.",
+      "traps": "Page-right is not always the person's right."
+    },
+    {
+      "title": "Net direction",
+      "zero": "Cancel opposite movements first, then combine remaining horizontal and vertical movement.",
+      "visual": "10N−6S=4N; 8E−3W=5E",
+      "rule": "Net horizontal + net vertical determines final direction",
+      "examples": [
+        {
+          "question": "3 km North,4 km East",
+          "solution": [
+            "up + right"
+          ],
+          "answer": "North-East",
+          "level": "Easy"
+        },
+        {
+          "question": "10N,6S,8E,3W",
+          "solution": [
+            "4N and 5E"
+          ],
+          "answer": "North-East",
+          "level": "Medium"
+        }
+      ],
+      "shortcut": "Cancel before deciding final direction.",
+      "traps": "Do not calculate total path when only direction is asked."
+    }
+  ]
+}

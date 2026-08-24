@@ -1,0 +1,44 @@
+{
+  "subject": "English",
+  "topic": "Parts of Speech",
+  "id": "parts-of-speech",
+  "subtopics": [
+    {
+      "title": "Word jobs",
+      "zero": "Identify what job the word performs in the sentence: naming, replacing, acting, describing, modifying or connecting.",
+      "visual": "Noun=name; Pronoun=replaces; Verb=action/state; Adjective=describes noun; Adverb=modifies",
+      "rule": "Ask: what is this word doing here?",
+      "examples": [
+        {
+          "question": "Ravi runs fast",
+          "solution": [
+            "Ravi=name",
+            "runs=action",
+            "fast tells how"
+          ],
+          "answer": "Noun, Verb, Adverb",
+          "level": "Easy"
+        },
+        {
+          "question": "The beautiful house is large",
+          "solution": [
+            "beautiful describes house"
+          ],
+          "answer": "beautiful=Adjective",
+          "level": "Medium"
+        },
+        {
+          "question": "She quickly completed the difficult task",
+          "solution": [
+            "quickly modifies completed",
+            "difficult modifies task"
+          ],
+          "answer": "Adverb, Adjective",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Ask what the word modifies.",
+      "traps": "The same word may perform different jobs in different sentences."
+    }
+  ]
+}

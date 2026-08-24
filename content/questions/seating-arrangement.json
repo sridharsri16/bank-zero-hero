@@ -1,0 +1,40 @@
+{
+  "topic": "Seating Arrangement",
+  "questions": [
+    {
+      "id": "seating-arrangement-linear-arrangement-medium-15",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Medium",
+      "question": "Five people A,B,C,D,E sit in a row. B sits immediately right of A. Which is the correct representation of their fixed pair?",
+      "options": [
+        "AB",
+        "BA",
+        "A_B",
+        "Cannot say"
+      ],
+      "answer": "AB",
+      "solution": [
+        "B is immediately right of A",
+        "So A is followed by B"
+      ]
+    },
+    {
+      "id": "seating-arrangement-linear-arrangement-easy-30",
+      "topic": "Seating Arrangement",
+      "subtopic": "Linear arrangement",
+      "level": "Easy",
+      "question": "If C is immediately left of D, which pair must appear?",
+      "options": [
+        "CD",
+        "DC",
+        "C_D",
+        "Cannot say"
+      ],
+      "answer": "CD",
+      "solution": [
+        "D is immediately right of C"
+      ]
+    }
+  ]
+}

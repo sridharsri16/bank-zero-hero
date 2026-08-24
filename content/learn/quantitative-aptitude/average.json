@@ -1,0 +1,71 @@
+{
+  "subject": "Quantitative Aptitude",
+  "topic": "Average",
+  "id": "average",
+  "subtopics": [
+    {
+      "title": "Average as equal sharing",
+      "zero": "Average is the value each member would have if the total were shared equally.",
+      "visual": "values → total → equal shares",
+      "rule": "Average=Sum/Count",
+      "examples": [
+        {
+          "question": "Average of 10,20,30",
+          "solution": [
+            "sum=60",
+            "60/3"
+          ],
+          "answer": "20",
+          "level": "Easy"
+        },
+        {
+          "question": "Average of 12,18,x is 20",
+          "solution": [
+            "required total=60",
+            "known=30"
+          ],
+          "answer": "x=30",
+          "level": "Medium"
+        },
+        {
+          "question": "Five consecutive integers have average 24",
+          "solution": [
+            "middle of equally spaced set is average"
+          ],
+          "answer": "22,23,24,25,26",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "For equally spaced values, average is the middle value.",
+      "traps": "Do not average averages unless group sizes are equal."
+    },
+    {
+      "title": "Combined and replacement average",
+      "zero": "Always convert averages back to totals before combining groups or replacing members.",
+      "visual": "Average×count = total",
+      "rule": "new average=new total/count",
+      "examples": [
+        {
+          "question": "20 students avg 60; 30 avg 70",
+          "solution": [
+            "1200+2100=3300",
+            "3300/50"
+          ],
+          "answer": "66",
+          "level": "Medium"
+        },
+        {
+          "question": "10 values avg 50; replace 30 by 80",
+          "solution": [
+            "total rises by 50",
+            "50/10=5 increase"
+          ],
+          "answer": "55",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "For replacement, track the total change only.",
+      "traps": "(60+70)/2 is wrong when group sizes differ."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "topic": "Tenses",
+  "questions": [
+    {
+      "id": "tenses-present-simple-medium-17",
+      "topic": "Tenses",
+      "subtopic": "Present simple",
+      "level": "Medium",
+      "question": "Choose the correct form: 'The sun ___ in the east.'",
+      "options": [
+        "rise",
+        "rises",
+        "is rising",
+        "rose"
+      ],
+      "answer": "rises",
+      "solution": [
+        "General fact uses simple present",
+        "Sun is singular"
+      ]
+    },
+    {
+      "id": "tenses-continuous-forms-easy-32",
+      "topic": "Tenses",
+      "subtopic": "Continuous forms",
+      "level": "Easy",
+      "question": "Choose: 'They ___ dinner now.'",
+      "options": [
+        "have",
+        "are having",
+        "had",
+        "were"
+      ],
+      "answer": "are having",
+      "solution": [
+        "Now indicates present continuous",
+        "They + are + having"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "topic": "Error Detection",
+  "questions": [
+    {
+      "id": "error-detection-a-checking-sequence-hard-20",
+      "topic": "Error Detection",
+      "subtopic": "A checking sequence",
+      "level": "Hard",
+      "question": "Choose the correction: 'Each of the books have a cover.'",
+      "options": [
+        "have→has",
+        "Each→All",
+        "books→book",
+        "No error"
+      ],
+      "answer": "have→has",
+      "solution": [
+        "Main subject is Each",
+        "Each is singular"
+      ]
+    },
+    {
+      "id": "error-detection-a-checking-sequence-medium-34",
+      "topic": "Error Detection",
+      "subtopic": "A checking sequence",
+      "level": "Medium",
+      "question": "Choose: 'The news ___ surprising.'",
+      "options": [
+        "are",
+        "is",
+        "have",
+        "were"
+      ],
+      "answer": "is",
+      "solution": [
+        "News is grammatically singular"
+      ]
+    }
+  ]
+}

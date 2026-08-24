@@ -1,0 +1,42 @@
+{
+  "subject": "Reasoning",
+  "topic": "Blood Relations",
+  "id": "blood-relations",
+  "subtopics": [
+    {
+      "title": "Family tree method",
+      "zero": "Translate each statement into a family tree. First identify generation, then gender.",
+      "visual": "grandparent → parent → child",
+      "rule": "One relation at a time.",
+      "examples": [
+        {
+          "question": "A is B's mother",
+          "solution": [
+            "direct"
+          ],
+          "answer": "A is mother of B",
+          "level": "Easy"
+        },
+        {
+          "question": "P father of Q; Q sister of R",
+          "solution": [
+            "Q and R siblings",
+            "P is their parent"
+          ],
+          "answer": "P is father of R",
+          "level": "Medium"
+        },
+        {
+          "question": "A sister of B; B father of C",
+          "solution": [
+            "A is sibling of parent"
+          ],
+          "answer": "A is aunt of C",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Draw the tree for chains longer than two statements.",
+      "traps": "Sibling alone does not specify gender."
+    }
+  ]
+}

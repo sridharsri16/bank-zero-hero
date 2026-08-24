@@ -1,0 +1,185 @@
+{
+  "subject": "Quantitative Aptitude",
+  "topic": "Percentage",
+  "id": "percentage",
+  "subtopics": [
+    {
+      "title": "Meaning and conversion",
+      "zero": "Percentage means 'per hundred'. 37% literally means 37 out of every 100. Fractions, decimals and percentages are different ways to express the same value.",
+      "visual": "37% = 37/100 = 0.37",
+      "rule": "x% = x/100",
+      "examples": [
+        {
+          "question": "Convert 25% to a fraction",
+          "solution": [
+            "25/100",
+            "divide by 25"
+          ],
+          "answer": "1/4",
+          "level": "Easy"
+        },
+        {
+          "question": "Convert 3/5 to percentage",
+          "solution": [
+            "3÷5=0.6",
+            "0.6×100"
+          ],
+          "answer": "60%",
+          "level": "Easy"
+        },
+        {
+          "question": "Convert 0.125 to percentage",
+          "solution": [
+            "0.125×100"
+          ],
+          "answer": "12.5%",
+          "level": "Medium"
+        },
+        {
+          "question": "What percentage is 45 of 180?",
+          "solution": [
+            "45/180=1/4",
+            "×100"
+          ],
+          "answer": "25%",
+          "level": "Medium"
+        },
+        {
+          "question": "A value is 0.333... of another. Express as percentage.",
+          "solution": [
+            "0.333...=1/3",
+            "×100"
+          ],
+          "answer": "33⅓%",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Memorise common conversions: 50%=1/2, 25%=1/4, 20%=1/5, 12.5%=1/8.",
+      "traps": "Do not divide by 100 twice."
+    },
+    {
+      "title": "Finding a percentage of a number",
+      "zero": "'x% of N' means x/100 multiplied by N. Convert to a fraction when cancellation is easier.",
+      "visual": "25% of 240 = 1/4 × 240 = 60",
+      "rule": "x% of N = xN/100",
+      "examples": [
+        {
+          "question": "10% of 760",
+          "solution": [
+            "760÷10"
+          ],
+          "answer": "76",
+          "level": "Easy"
+        },
+        {
+          "question": "25% of 360",
+          "solution": [
+            "360÷4"
+          ],
+          "answer": "90",
+          "level": "Easy"
+        },
+        {
+          "question": "12.5% of 480",
+          "solution": [
+            "480÷8"
+          ],
+          "answer": "60",
+          "level": "Medium"
+        },
+        {
+          "question": "37.5% of 240",
+          "solution": [
+            "37.5%=3/8",
+            "240×3/8"
+          ],
+          "answer": "90",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Use 50%,25%,20%,12.5%,33⅓%,16⅔% as fractions.",
+      "traps": "Do not multiply first if cancellation makes it easier."
+    },
+    {
+      "title": "Increase and decrease",
+      "zero": "Percentage change is calculated on the current base value. A later decrease uses the increased value, not the original.",
+      "visual": "100 +20% → 120; 120 −20% → 96",
+      "rule": "New = Old × (1 ± p/100)",
+      "examples": [
+        {
+          "question": "500 increased by 10%",
+          "solution": [
+            "10%=50",
+            "500+50"
+          ],
+          "answer": "550",
+          "level": "Easy"
+        },
+        {
+          "question": "800 decreased by 25%",
+          "solution": [
+            "25%=200",
+            "800−200"
+          ],
+          "answer": "600",
+          "level": "Easy"
+        },
+        {
+          "question": "100 increased by 10% twice",
+          "solution": [
+            "100→110",
+            "110→121"
+          ],
+          "answer": "21% increase",
+          "level": "Medium"
+        },
+        {
+          "question": "100 +20% then −20%",
+          "solution": [
+            "100→120",
+            "120−24"
+          ],
+          "answer": "96; 4% decrease",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "For successive changes a,b: a+b+ab/100; use negative b for decrease.",
+      "traps": "Equal percentage increase and decrease never cancel."
+    },
+    {
+      "title": "Reverse percentage",
+      "zero": "If the final value is known after a change, divide by the multiplier to find the original.",
+      "visual": "Original ×1.25 = Final after 25% increase",
+      "rule": "Original = Final/(1±p/100)",
+      "examples": [
+        {
+          "question": "After 20% increase salary is 60000",
+          "solution": [
+            "Original=60000/1.2"
+          ],
+          "answer": "50000",
+          "level": "Medium"
+        },
+        {
+          "question": "After 20% discount price is 800",
+          "solution": [
+            "Original=800/0.8"
+          ],
+          "answer": "1000",
+          "level": "Medium"
+        },
+        {
+          "question": "A number after 25% increase and 20% decrease is 1200",
+          "solution": [
+            "Net multiplier=1.25×0.8=1",
+            "Original=1200"
+          ],
+          "answer": "1200",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Turn changes into multipliers: +20%=1.2, −20%=0.8.",
+      "traps": "Do not subtract the percentage from the final value."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "topic": "Syllogism",
+  "questions": [
+    {
+      "id": "syllogism-set-diagrams-hard-14",
+      "topic": "Syllogism",
+      "subtopic": "Set diagrams",
+      "level": "Hard",
+      "question": "Statements: All A are B. No B is C. Which conclusion definitely follows?",
+      "options": [
+        "Some A are C",
+        "No A is C",
+        "Some C are A",
+        "All C are A"
+      ],
+      "answer": "No A is C",
+      "solution": [
+        "A is inside B",
+        "B and C are separate",
+        "So A and C cannot overlap"
+      ]
+    },
+    {
+      "id": "syllogism-set-diagrams-medium-29",
+      "topic": "Syllogism",
+      "subtopic": "Set diagrams",
+      "level": "Medium",
+      "question": "Some A are B. All B are C. Which follows?",
+      "options": [
+        "Some A are C",
+        "All A are C",
+        "No A is C",
+        "Some C are B"
+      ],
+      "answer": "Some C are B",
+      "solution": [
+        "Some B exist because some A are B",
+        "All B are C, so those B are C",
+        "Thus some C are B"
+      ]
+    }
+  ]
+}

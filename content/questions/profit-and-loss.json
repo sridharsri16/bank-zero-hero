@@ -1,0 +1,59 @@
+{
+  "topic": "Profit and Loss",
+  "questions": [
+    {
+      "id": "profit-and-loss-core-terms-easy-9",
+      "topic": "Profit and Loss",
+      "subtopic": "Core terms",
+      "level": "Easy",
+      "question": "CP=₹800 and SP=₹920. Profit percentage?",
+      "options": [
+        "10%",
+        "12%",
+        "15%",
+        "20%"
+      ],
+      "answer": "15%",
+      "solution": [
+        "Profit=120",
+        "120/800×100=15%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-discount-and-marked-price-hard-10",
+      "topic": "Profit and Loss",
+      "subtopic": "Discount and marked price",
+      "level": "Hard",
+      "question": "A shop gives successive discounts of 20% and 25%. Effective discount?",
+      "options": [
+        "40%",
+        "45%",
+        "35%",
+        "37.5%"
+      ],
+      "answer": "40%",
+      "solution": [
+        "20+25−20×25/100",
+        "45−5=40%"
+      ]
+    },
+    {
+      "id": "profit-and-loss-core-terms-medium-26",
+      "topic": "Profit and Loss",
+      "subtopic": "Core terms",
+      "level": "Medium",
+      "question": "An article is sold for ₹540 at 10% loss. CP is:",
+      "options": [
+        "₹480",
+        "₹500",
+        "₹600",
+        "₹594"
+      ],
+      "answer": "₹600",
+      "solution": [
+        "SP=90% of CP",
+        "CP=540/0.9=600"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "subject": "Quantitative Aptitude",
+  "topic": "Ratio and Proportion",
+  "id": "ratio-and-proportion",
+  "subtopics": [
+    {
+      "title": "Ratio basics",
+      "zero": "A ratio compares quantities in the same unit. 2:3 means for every 2 equal parts of the first quantity, there are 3 equal parts of the second.",
+      "visual": "2:3 → total parts 5",
+      "rule": "a:b = ka:kb",
+      "examples": [
+        {
+          "question": "Simplify 24:36",
+          "solution": [
+            "divide by 12"
+          ],
+          "answer": "2:3",
+          "level": "Easy"
+        },
+        {
+          "question": "Divide 150 in ratio 2:3",
+          "solution": [
+            "total=5",
+            "one part=30"
+          ],
+          "answer": "60 and 90",
+          "level": "Easy"
+        },
+        {
+          "question": "Boys:girls=5:7 and girls=42",
+          "solution": [
+            "one part=42/7=6",
+            "boys=30"
+          ],
+          "answer": "30",
+          "level": "Medium"
+        },
+        {
+          "question": "A:B=3:4 and B:C=5:6",
+          "solution": [
+            "make B equal: 15:20 and 20:24"
+          ],
+          "answer": "A:B:C=15:20:24",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Find the value of one part before actual shares.",
+      "traps": "Ratios cannot be added without aligning common terms."
+    },
+    {
+      "title": "Direct and inverse proportion",
+      "zero": "Direct: both quantities change together. Inverse: one increases while the other decreases for the same total work.",
+      "visual": "More goods → more cost; more workers → fewer days",
+      "rule": "Direct x/y constant; inverse xy constant",
+      "examples": [
+        {
+          "question": "3 pens cost 30. 8 pens cost?",
+          "solution": [
+            "10 each",
+            "8×10"
+          ],
+          "answer": "80",
+          "level": "Easy"
+        },
+        {
+          "question": "6 workers finish in 10 days. 12 workers?",
+          "solution": [
+            "6×10=12×d"
+          ],
+          "answer": "5 days",
+          "level": "Medium"
+        },
+        {
+          "question": "8 machines make a batch in 15 hours. 12 machines?",
+          "solution": [
+            "8×15=12×d"
+          ],
+          "answer": "10 hours",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Ask 'same direction or opposite direction?' before calculating.",
+      "traps": "Workers and days are inverse only when efficiency is equal."
+    }
+  ]
+}

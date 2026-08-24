@@ -1,0 +1,61 @@
+{
+  "topic": "Ratio and Proportion",
+  "questions": [
+    {
+      "id": "ratio-and-proportion-ratio-basics-easy-5",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Easy",
+      "question": "Divide ₹240 in the ratio 3:5.",
+      "options": [
+        "₹90,₹150",
+        "₹100,₹140",
+        "₹120,₹120",
+        "₹80,₹160"
+      ],
+      "answer": "₹90,₹150",
+      "solution": [
+        "Total parts=8",
+        "One part=30",
+        "3 parts=90,5 parts=150"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-direct-and-inverse-proportion-medium-6",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Direct and inverse proportion",
+      "level": "Medium",
+      "question": "8 workers complete a job in 15 days. How many days will 12 workers take?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "answer": "10",
+      "solution": [
+        "Workers×days constant",
+        "8×15=12×d",
+        "d=10"
+      ]
+    },
+    {
+      "id": "ratio-and-proportion-ratio-basics-hard-24",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio basics",
+      "level": "Hard",
+      "question": "A:B=4:5 and B:C=10:7. Find A:B:C.",
+      "options": [
+        "4:10:7",
+        "8:10:7",
+        "8:5:7",
+        "4:5:7"
+      ],
+      "answer": "8:10:7",
+      "solution": [
+        "Make B common: 4:5 ×2 =8:10",
+        "Combine with 10:7"
+      ]
+    }
+  ]
+}

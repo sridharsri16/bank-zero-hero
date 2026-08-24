@@ -1,0 +1,67 @@
+{
+  "subject": "English",
+  "topic": "Tenses",
+  "id": "tenses",
+  "subtopics": [
+    {
+      "title": "Present simple",
+      "zero": "Use for habits, facts and schedules.",
+      "visual": "every day / usually → simple present",
+      "rule": "He/She/It + verb s/es",
+      "examples": [
+        {
+          "question": "She ___ every day",
+          "solution": [
+            "habit; singular subject"
+          ],
+          "answer": "goes",
+          "level": "Easy"
+        },
+        {
+          "question": "They ___ cricket",
+          "solution": [
+            "plural subject"
+          ],
+          "answer": "play",
+          "level": "Easy"
+        },
+        {
+          "question": "The train ___ at 6 AM",
+          "solution": [
+            "schedule"
+          ],
+          "answer": "leaves",
+          "level": "Medium"
+        }
+      ],
+      "shortcut": "Find time markers first.",
+      "traps": "Do not add -s with I/you/we/they."
+    },
+    {
+      "title": "Continuous forms",
+      "zero": "Continuous tenses use a form of be plus verb-ing.",
+      "visual": "am/is/are + ing; was/were + ing",
+      "rule": "Choose be verb by subject and time.",
+      "examples": [
+        {
+          "question": "She ___ now",
+          "solution": [
+            "present ongoing"
+          ],
+          "answer": "is reading",
+          "level": "Easy"
+        },
+        {
+          "question": "They ___ when I arrived",
+          "solution": [
+            "past action in progress"
+          ],
+          "answer": "were playing",
+          "level": "Medium"
+        }
+      ],
+      "shortcut": "Now/while/at that moment are useful clues.",
+      "traps": "Do not use base verb after is/are for continuous action."
+    }
+  ]
+}

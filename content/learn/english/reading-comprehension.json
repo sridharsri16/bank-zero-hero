@@ -1,0 +1,34 @@
+{
+  "subject": "English",
+  "topic": "Reading Comprehension",
+  "id": "reading-comprehension",
+  "subtopics": [
+    {
+      "title": "Read for structure",
+      "zero": "First identify topic, main idea and paragraph roles. Answer from passage evidence.",
+      "visual": "Topic → main idea → evidence → answer",
+      "rule": "Supported answer beats personally believable answer.",
+      "examples": [
+        {
+          "question": "Main idea question",
+          "solution": [
+            "find repeated central theme"
+          ],
+          "answer": "broad supported idea",
+          "level": "Easy"
+        },
+        {
+          "question": "Inference question",
+          "solution": [
+            "combine stated evidence",
+            "avoid unsupported extremes"
+          ],
+          "answer": "best supported inference",
+          "level": "Hard"
+        }
+      ],
+      "shortcut": "Return to relevant evidence for each answer.",
+      "traps": "Do not use outside knowledge."
+    }
+  ]
+}

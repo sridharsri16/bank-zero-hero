@@ -1,0 +1,61 @@
+{
+  "topic": "Average",
+  "questions": [
+    {
+      "id": "average-average-as-equal-sharing-easy-7",
+      "topic": "Average",
+      "subtopic": "Average as equal sharing",
+      "level": "Easy",
+      "question": "The average of 14, 18 and x is 20. Find x.",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "30"
+      ],
+      "answer": "28",
+      "solution": [
+        "Required total=60",
+        "Known total=32",
+        "x=28"
+      ]
+    },
+    {
+      "id": "average-combined-and-replacement-average-hard-8",
+      "topic": "Average",
+      "subtopic": "Combined and replacement average",
+      "level": "Hard",
+      "question": "10 numbers have average 40. One number 25 is replaced by 55. New average?",
+      "options": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "answer": "43",
+      "solution": [
+        "Total rises by 30",
+        "Average rises by 30/10=3",
+        "40+3=43"
+      ]
+    },
+    {
+      "id": "average-average-as-equal-sharing-medium-25",
+      "topic": "Average",
+      "subtopic": "Average as equal sharing",
+      "level": "Medium",
+      "question": "Average of five consecutive odd numbers is 31. Largest number?",
+      "options": [
+        "33",
+        "35",
+        "37",
+        "39"
+      ],
+      "answer": "35",
+      "solution": [
+        "Middle=31",
+        "Numbers 27,29,31,33,35"
+      ]
+    }
+  ]
+}
